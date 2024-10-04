@@ -2,8 +2,9 @@
 import pandas as pd
 import numpy as np
 
+
 name = input('Name: ')
-print('Hello, my name is ', name)
+print(f'Hello, my name is {name}')
 
 # Creating a 1D array
 array1 = np.array([1, 2, 3, 4])
