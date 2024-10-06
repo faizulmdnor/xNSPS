@@ -1,21 +1,19 @@
 import pyodbc
 import pandas as pd
 
+SERVER = 'FAIZULONXY\\SQLEXPRESS'  # Your server name
+DATABASE = 'Fezdbase'  # Your database name
 
-class get_data:
+
+class DataRetriever:
     @staticmethod
-    def query_db(sqlquery):
-        # Database connection details
-        server = 'FAIZULONXY\\SQLEXPRESS'  # Your server name
-        database = 'Fezdbase'  # Your database name
-
-        # Establish connection
-        conn = pyodbc.connect(f'DRIVER={{SQL Server}};SERVER={server};DATABASE={database};Trusted_Connection=yes;')
-
-        # Execute query and load into pandas DataFrame
+    def query_db(sqlquery: str) -> pd.DataFrame:
+        conn = DataRetriever._create_connection()
         df = pd.read_sql(sqlquery, conn)
-
-        # Close the connection
         conn.close()
-
         return df
+
+    @staticmethod
+    def _create_connection():
+        conn_str = f'DRIVER={{SQL Server}};SERVER={SERVER};DATABASE={DATABASE};Trusted_Connection=yes;'
+        return pyodbc.connect(conn_str)
