@@ -72,5 +72,3 @@ elif operator == '/':
 else:
     result = 'Operator tidak dapat dikenali'
 print(f'{num1} {operator} {num2} = {result}')
-
-
