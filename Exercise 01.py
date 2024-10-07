@@ -1,4 +1,6 @@
 # Addition
+from numpy.random.mtrand import operator
+
 a = 10
 b = 5
 sum_result = a + b
@@ -31,6 +33,14 @@ Check if the number is even or odd.
 Print the result.
 '''
 
+try:
+    number = int(input('Masukan integer: '))
+    if number % 2 == 0:
+        print(f'{number} adalah nombor Genap')
+    else:
+        print(f'{number} adalah nombor Ganjil')
+except Exception as e:
+    print(f'Masukan nombor integer sahaja! {e}')
 
 '''
 Exercise: Simple Calculator
@@ -44,3 +54,23 @@ Perform the operation based on the operator.
 
 Print the result.
 '''
+
+# input
+
+num1 = float(input('Masukan angka pertama: '))
+num2 = float(input('Masukan angka kedua: '))
+operator = input('Masukan operator (+, -, *, /): ')
+
+if operator == '+':
+    result = num1 + num2
+elif operator == '-':
+    result = num1 - num2
+elif operator == '*':
+    result = num1 * num2
+elif operator == '/':
+    result = num1 / num2
+else:
+    result = 'Operator tidak dapat dikenali'
+print(f'{num1} {operator} {num2} = {result}')
+
+
