@@ -1,0 +1,501 @@
+userid,firstname,lastname,date_of_birth,gender,dept,username
+1000,Tara,Murphy,1982-04-15,Male,Finance,tmurphy
+1001,Sarah,Reyes,1967-08-04,Female,Quality,sreyes
+1002,Brandon,Lee,2000-01-14,Male,Quality,blee
+1003,Jonathan,Stone,1971-07-22,Female,Operations,jstone
+1004,Alexandra,Lopez,1990-05-24,Male,Marketing,alopez
+1005,Ethan,House,1975-01-29,Female,Information Technology,ehouse
+1006,Kim,Vega,2005-11-29,Female,Operations,kvega
+1007,Matthew,Jones,1960-07-13,Male,Human Resources,mjones
+1008,Paul,Smith,1992-05-08,Female,Finance,psmith
+1009,Timothy,Holloway,1983-04-09,Male,Information Technology,tholloway
+1010,Harold,Villa,1975-09-19,Female,Marketing,hvilla
+1011,Edward,Cox,1996-06-29,Female,Human Resources,ecox
+1012,Frederick,Cruz,1973-03-09,Male,Operations,fcruz
+1013,Jasmine,Alvarez,1971-03-19,Male,Human Resources,jalvarez
+1014,Benjamin,Mason,1989-07-09,Male,Human Resources,bmason
+1015,Adrienne,Rodriguez,2005-09-05,Female,Marketing,arodriguez
+1016,Kristina,Daugherty,2001-02-08,Female,Marketing,kdaugherty
+1017,Ashley,Alexander,1978-09-06,Male,Information Technology,aalexander
+1018,Dana,Berry,2006-07-29,Male,Finance,dberry
+1019,Sarah,Wolfe,1966-10-28,Female,Marketing,swolfe
+1020,Andrew,Shields,1958-09-29,Male,Information Technology,ashields
+1021,Felicia,Jones,1972-03-15,Female,Quality,fjones
+1022,James,Espinoza,2001-07-04,Female,Operations,jespinoza
+1023,Ethan,Mitchell,1992-05-28,Female,Human Resources,emitchell
+1024,Brian,Stein,1966-06-19,Female,Human Resources,bstein
+1025,Meagan,Wolf,1956-07-06,Male,Information Technology,mwolf
+1026,Robert,Frye,1970-10-30,Male,Finance,rfrye
+1027,Christopher,Fernandez,1962-10-28,Male,Finance,cfernandez
+1028,Theodore,James,1994-01-29,Female,Marketing,tjames
+1029,Tracy,Brown,1999-04-14,Female,Operations,tbrown
+1030,Michele,Jackson,1963-08-17,Male,Finance,mjackson
+1031,Brian,Gray,1958-02-15,Male,Marketing,bgray
+1032,Anita,Leon,1955-04-26,Male,Information Technology,aleon
+1033,Carl,Norris,1983-09-21,Male,Human Resources,cnorris
+1034,Jack,Hill,1957-01-10,Female,Finance,jhill
+1035,Annette,Sullivan,1955-04-22,Male,Marketing,asullivan
+1036,Cynthia,Hall,1987-06-25,Female,Marketing,chall
+1037,Jill,Rodriguez,1974-06-25,Female,Information Technology,jrodriguez
+1038,Nancy,Taylor,1979-11-11,Female,Finance,ntaylor
+1039,Danielle,Skinner,1962-11-20,Male,Finance,dskinner
+1040,Rachel,Richardson,1994-08-28,Male,Human Resources,rrichardson
+1041,Bruce,Klein,1955-09-24,Female,Information Technology,bklein
+1042,Robin,Pittman,1955-10-30,Male,Finance,rpittman
+1043,Randall,Jensen,1978-06-30,Female,Finance,rjensen
+1044,Lindsey,Kelley,1974-10-05,Male,Quality,lkelley
+1045,Michael,Brown,1996-11-06,Male,Marketing,mbrown
+1046,Michael,Acevedo,1996-02-09,Female,Quality,macevedo
+1047,Kelly,Castillo,1983-05-18,Male,Information Technology,kcastillo
+1048,Jeanne,Green,1993-04-30,Male,Quality,jgreen
+1049,Carl,Carter,1987-06-30,Female,Information Technology,ccarter
+1050,Toni,Andrews,1953-12-19,Female,Information Technology,tandrews
+1051,Alejandro,Sharp,1961-12-03,Male,Finance,asharp
+1052,Vanessa,Brooks,1969-03-03,Female,Finance,vbrooks
+1053,Zachary,Bowers,2001-07-29,Male,Human Resources,zbowers
+1054,Jackie,Taylor,1989-02-21,Female,Marketing,jtaylor
+1055,Alyssa,Jenkins,1998-10-14,Male,Finance,ajenkins
+1056,Craig,Johnson,1967-08-18,Male,Human Resources,cjohnson
+1057,Timothy,Edwards,1994-01-03,Female,Operations,tedwards
+1058,Shawn,Smith,1957-01-01,Male,Quality,ssmith
+1059,Dawn,Collier,1984-02-20,Male,Finance,dcollier
+1060,Jeffrey,Francis,1970-06-14,Male,Finance,jfrancis
+1061,Ashley,Moore,1957-03-28,Male,Human Resources,amoore
+1062,Alicia,Escobar,1984-12-26,Female,Marketing,aescobar
+1063,Mary,Green,1964-03-06,Male,Operations,mgreen
+1064,Robin,Adkins,1955-09-06,Male,Operations,radkins
+1065,Sheila,Bell,1966-03-30,Female,Quality,sbell
+1066,Kimberly,Craig,2001-04-20,Male,Human Resources,kcraig
+1067,Carly,Thompson,1967-05-02,Male,Human Resources,cthompson
+1068,Alexandra,Bullock,1995-04-30,Male,Operations,abullock
+1069,Guy,Gonzales,1993-03-29,Male,Operations,ggonzales
+1070,Cassandra,Robles,1968-03-12,Male,Quality,crobles
+1071,Ashley,Monroe,1961-11-12,Male,Human Resources,amonroe
+1072,Christopher,Riggs,1969-01-13,Female,Human Resources,criggs
+1073,Megan,Harris,1988-06-28,Male,Marketing,mharris
+1074,Amber,Barrett,1999-10-22,Male,Operations,abarrett
+1075,Beth,Johnson,1993-03-24,Male,Quality,bjohnson
+1076,Amy,Martinez,2002-05-29,Male,Quality,amartinez
+1077,Kari,Rosario,1994-01-11,Female,Information Technology,krosario
+1078,Maurice,Navarro,1970-03-17,Female,Marketing,mnavarro
+1079,Daniel,Fletcher,1980-06-16,Female,Finance,dfletcher
+1080,Aaron,Howard,1989-04-18,Female,Marketing,ahoward
+1081,Morgan,Peterson,1992-03-11,Male,Human Resources,mpeterson
+1082,Vincent,Morton,2001-09-15,Male,Information Technology,vmorton
+1083,Tammy,Blevins,1979-11-30,Male,Finance,tblevins
+1084,Phillip,Guerra,1974-01-20,Male,Finance,pguerra
+1085,Christopher,Davis,1964-07-03,Female,Marketing,cdavis
+1086,Kevin,Jones,2000-04-04,Female,Quality,kjones
+1087,Erin,Thomas,1998-06-07,Male,Marketing,ethomas
+1088,Karen,Perez,1987-07-21,Male,Operations,kperez
+1089,Stephen,Powell,1990-03-17,Female,Human Resources,spowell
+1090,Anne,Butler,1996-08-16,Female,Finance,abutler
+1091,Steven,Stewart,1983-01-06,Female,Human Resources,sstewart
+1092,Jacob,Duncan,1967-05-11,Male,Human Resources,jduncan
+1093,Anna,Lee,1962-01-13,Female,Operations,alee
+1094,Oscar,Burns,1974-04-04,Male,Quality,oburns
+1095,Edward,Smith,1979-11-03,Male,Human Resources,esmith
+1096,Jason,Evans,1985-02-22,Female,Quality,jevans
+1097,Michelle,Medina,2004-06-13,Male,Human Resources,mmedina
+1098,Robert,Bennett,1994-12-09,Female,Information Technology,rbennett
+1099,Nicholas,Greene,1972-08-16,Male,Human Resources,ngreene
+1100,John,Scott,1979-04-11,Female,Quality,jscott
+1101,Richard,Hess,1974-06-23,Female,Marketing,rhess
+1102,Alexis,Phillips,1988-07-02,Female,Information Technology,aphillips
+1103,Jennifer,Clark,1984-01-26,Male,Human Resources,jclark
+1104,Ashley,Walker,1998-04-07,Female,Information Technology,awalker
+1105,Michelle,Jones,2000-04-01,Female,Information Technology,mjones1
+1106,Mark,Williams,1984-01-08,Male,Quality,mwilliams
+1107,Adrian,Tanner,1984-08-29,Male,Operations,atanner
+1108,Brian,Anderson,1986-08-18,Female,Marketing,banderson
+1109,Diane,Cooper,1956-12-04,Male,Information Technology,dcooper
+1110,Danielle,Parsons,2006-06-27,Female,Information Technology,dparsons
+1111,David,Nichols,1986-10-08,Male,Finance,dnichols
+1112,Joshua,Gallegos,1969-11-27,Female,Operations,jgallegos
+1113,Darren,Aguilar,1982-11-18,Male,Marketing,daguilar
+1114,Donald,Schaefer,1962-11-13,Female,Finance,dschaefer
+1115,Michelle,Stokes,1995-03-01,Male,Operations,mstokes
+1116,Richard,Rodriguez,1981-09-14,Male,Finance,rrodriguez
+1117,Christina,Wiggins,1985-06-30,Male,Marketing,cwiggins
+1118,Patricia,Flores,1995-05-05,Female,Human Resources,pflores
+1119,Samantha,Johnson,1958-11-27,Female,Information Technology,sjohnson
+1120,Kathleen,Rodriguez,1959-07-30,Male,Marketing,krodriguez
+1121,Gail,Maldonado,1962-10-18,Female,Human Resources,gmaldonado
+1122,Kenneth,Nguyen,1976-04-22,Female,Operations,knguyen
+1123,Beth,Cabrera,1954-11-22,Male,Human Resources,bcabrera
+1124,Courtney,Davis,1984-12-16,Male,Operations,cdavis1
+1125,Victoria,Rivera,1991-11-04,Female,Operations,vrivera
+1126,Latasha,Johnson,1988-06-22,Male,Quality,ljohnson
+1127,Justin,Solomon,1995-08-07,Female,Quality,jsolomon
+1128,Benjamin,Thompson,1983-04-16,Female,Information Technology,bthompson
+1129,Ryan,Sexton,1959-08-15,Female,Information Technology,rsexton
+1130,Miguel,Goodwin,1968-12-15,Female,Marketing,mgoodwin
+1131,Taylor,Garrett,1973-08-19,Male,Quality,tgarrett
+1132,Oscar,Morales,1977-02-01,Male,Operations,omorales
+1133,Kathryn,Holt,1960-02-12,Male,Quality,kholt
+1134,Erika,Rodriguez,1985-01-10,Male,Finance,erodriguez
+1135,Jesse,Payne,1961-10-30,Female,Operations,jpayne
+1136,Laura,Yang,1977-06-28,Male,Marketing,lyang
+1137,Kevin,Cooper,1969-12-05,Male,Marketing,kcooper
+1138,Alexandria,Brooks,1994-06-10,Female,Human Resources,abrooks
+1139,Joshua,Smith,1990-04-06,Female,Finance,jsmith
+1140,Ashley,Schneider,2001-05-02,Male,Human Resources,aschneider
+1141,David,Pittman,1964-01-06,Female,Information Technology,dpittman
+1142,Matthew,Nguyen,1996-12-03,Female,Finance,mnguyen
+1143,Samuel,Lozano,1973-09-12,Male,Marketing,slozano
+1144,Amanda,Johnson,1963-07-25,Female,Finance,ajohnson
+1145,Pamela,Richardson,1967-05-02,Female,Marketing,prichardson
+1146,Michelle,Martin,1994-08-14,Male,Quality,mmartin
+1147,Casey,Smith,2005-01-04,Male,Information Technology,csmith
+1148,Shawn,Avila,1989-02-06,Female,Marketing,savila
+1149,Melissa,Day,2000-02-14,Male,Human Resources,mday
+1150,Aaron,Collins,1998-10-20,Male,Operations,acollins
+1151,Paul,Griffin,1964-02-22,Male,Human Resources,pgriffin
+1152,Janice,Hughes,1988-05-17,Female,Finance,jhughes
+1153,Teresa,Lewis,1981-09-09,Female,Finance,tlewis
+1154,Kelly,White,1974-01-04,Female,Information Technology,kwhite
+1155,Christopher,Hancock,2003-04-20,Female,Human Resources,chancock
+1156,Andrew,Brown,1996-01-07,Female,Quality,abrown
+1157,Christopher,Thomas,1998-06-27,Male,Finance,cthomas
+1158,Jessica,Christian,1962-10-20,Male,Quality,jchristian
+1159,Walter,White,1999-10-17,Female,Marketing,wwhite
+1160,Sandra,Barnes,2002-03-19,Female,Human Resources,sbarnes
+1161,Patrick,Lawson,1969-08-31,Male,Human Resources,plawson
+1162,Robert,Lowery,1983-01-01,Male,Information Technology,rlowery
+1163,Robin,Johnson,1985-10-26,Male,Quality,rjohnson
+1164,Andrew,Ritter,1975-02-06,Female,Information Technology,aritter
+1165,Christine,Sanders,1995-07-01,Female,Marketing,csanders
+1166,Lisa,Goodman,1977-08-12,Female,Operations,lgoodman
+1167,Bernard,Gregory,1957-05-09,Male,Marketing,bgregory
+1168,Christopher,Pierce,1995-04-06,Female,Quality,cpierce
+1169,Amber,Robertson,1982-09-29,Female,Information Technology,arobertson
+1170,Abigail,Goodman,1981-10-18,Male,Operations,agoodman
+1171,Sandra,Black,2002-09-21,Male,Operations,sblack
+1172,Ronald,Skinner,1988-01-21,Male,Human Resources,rskinner
+1173,Patrick,Howard,1956-11-30,Female,Quality,phoward
+1174,Sarah,Alexander,1989-07-31,Male,Quality,salexander
+1175,Jason,Morris,1985-10-14,Male,Quality,jmorris
+1176,Kristie,Mathis,1999-03-07,Male,Marketing,kmathis
+1177,Thomas,Strickland,1971-01-26,Male,Information Technology,tstrickland
+1178,Catherine,Mendez,2003-02-04,Male,Information Technology,cmendez
+1179,Michelle,Armstrong,2004-12-19,Male,Quality,marmstrong
+1180,Mark,Jones,1987-10-01,Male,Human Resources,mjones2
+1181,Cheryl,Jones,1972-08-26,Male,Information Technology,cjones
+1182,Harold,Bradford,1983-05-13,Male,Information Technology,hbradford
+1183,Brett,Zhang,1975-10-18,Female,Human Resources,bzhang
+1184,Theresa,Sharp,1973-08-03,Female,Quality,tsharp
+1185,Jason,Hansen,2005-11-25,Female,Human Resources,jhansen
+1186,Steven,Miller,1961-04-05,Male,Quality,smiller
+1187,Emma,Gentry,1973-09-18,Female,Information Technology,egentry
+1188,Veronica,Nolan,2001-01-06,Male,Information Technology,vnolan
+1189,Linda,Macias,2002-03-23,Female,Operations,lmacias
+1190,Samuel,Glover,1965-04-25,Male,Marketing,sglover
+1191,Brianna,Carter,1984-06-20,Male,Information Technology,bcarter
+1192,Jerry,Hernandez,1965-09-06,Male,Human Resources,jhernandez
+1193,Julie,Pittman,1958-06-05,Female,Finance,jpittman
+1194,Jeffrey,Dominguez,1957-04-23,Male,Marketing,jdominguez
+1195,Jeremy,Hernandez,1954-09-01,Male,Operations,jhernandez1
+1196,Russell,Gonzalez,1980-10-07,Male,Marketing,rgonzalez
+1197,Christina,Luna,2001-05-10,Male,Information Technology,cluna
+1198,Amber,Rush,1993-12-26,Male,Finance,arush
+1199,Amy,Stanton,1965-09-11,Male,Finance,astanton
+1200,Bobby,Miller,1999-12-05,Male,Finance,bmiller
+1201,Kathleen,Pope,1991-01-25,Female,Marketing,kpope
+1202,Becky,Huynh,1978-07-28,Female,Operations,bhuynh
+1203,Amber,Richardson,1975-08-02,Male,Marketing,arichardson
+1204,Denise,Villarreal,1969-04-19,Female,Human Resources,dvillarreal
+1205,Stephen,Lee,1969-05-27,Male,Operations,slee
+1206,Kristen,Rivera,1984-12-18,Male,Human Resources,krivera
+1207,Jodi,Thompson,1970-11-24,Male,Quality,jthompson
+1208,Carol,Estrada,1998-01-17,Female,Quality,cestrada
+1209,Mark,Leonard,1977-04-28,Female,Marketing,mleonard
+1210,Kimberly,Jackson,2003-12-20,Female,Marketing,kjackson
+1211,Anthony,Chen,2000-03-06,Male,Information Technology,achen
+1212,Sarah,Santos,1991-10-04,Male,Quality,ssantos
+1213,Matthew,Trujillo,1997-12-20,Female,Finance,mtrujillo
+1214,Heather,Peck,1969-10-01,Female,Operations,hpeck
+1215,Joshua,Thomas,1999-04-26,Female,Finance,jthomas
+1216,Stacey,Klein,1969-08-24,Female,Human Resources,sklein
+1217,Tiffany,Flores,1987-09-11,Male,Finance,tflores
+1218,Eric,Robertson,1993-06-30,Female,Marketing,erobertson
+1219,Vincent,Huff,1973-06-26,Male,Information Technology,vhuff
+1220,Meghan,Cox,1992-02-15,Female,Marketing,mcox
+1221,Roger,Hart,1992-07-21,Female,Human Resources,rhart
+1222,Kim,Alvarez,1957-01-12,Male,Quality,kalvarez
+1223,Crystal,Carney,1993-12-07,Female,Human Resources,ccarney
+1224,Lindsey,Brooks,1953-11-13,Female,Human Resources,lbrooks
+1225,Jason,Santiago,1974-01-07,Female,Human Resources,jsantiago
+1226,Daniel,Allen,1984-07-10,Male,Operations,dallen
+1227,Clifford,Ryan,1980-03-18,Female,Marketing,cryan
+1228,Natalie,Hall,1988-12-08,Female,Information Technology,nhall
+1229,Jessica,Clark,1986-03-24,Male,Finance,jclark1
+1230,Jamie,West,2000-02-28,Female,Quality,jwest
+1231,Kristin,Davis,1955-06-07,Female,Operations,kdavis
+1232,Donald,Williams,1972-11-27,Female,Finance,dwilliams
+1233,Jacqueline,Marks,1976-06-12,Male,Finance,jmarks
+1234,James,Jackson,1974-04-21,Male,Finance,jjackson
+1235,Lee,Moore,1993-05-06,Female,Human Resources,lmoore
+1236,Brian,Mann,1995-11-07,Female,Finance,bmann
+1237,Eric,Nguyen,1959-07-11,Female,Operations,enguyen
+1238,Christy,Hall,1997-10-22,Male,Human Resources,chall1
+1239,Adriana,Mills,1983-01-22,Male,Marketing,amills
+1240,Jessica,West,1974-01-11,Male,Finance,jwest1
+1241,Carol,Palmer,1997-09-09,Male,Human Resources,cpalmer
+1242,Robert,Johnson,1966-01-30,Male,Quality,rjohnson1
+1243,William,Bailey,1972-11-30,Male,Marketing,wbailey
+1244,Christine,Lang,1978-02-25,Female,Quality,clang
+1245,Linda,Franklin,1982-12-05,Male,Information Technology,lfranklin
+1246,Christopher,Gentry,1996-04-12,Female,Human Resources,cgentry
+1247,Jessica,Martinez,2004-04-14,Female,Information Technology,jmartinez
+1248,Amy,Robinson,1974-06-08,Female,Marketing,arobinson
+1249,Raymond,Walker,1976-10-03,Male,Human Resources,rwalker
+1250,Jennifer,Murphy,2002-09-09,Male,Finance,jmurphy
+1251,Jesse,Tapia,1962-01-11,Male,Finance,jtapia
+1252,Anthony,Thompson,1979-11-25,Male,Marketing,athompson
+1253,Jacob,Rich,1967-07-13,Female,Information Technology,jrich
+1254,Brandon,Montes,1985-04-04,Male,Finance,bmontes
+1255,Thomas,Kemp,1969-12-08,Male,Marketing,tkemp
+1256,Jill,Rivera,1974-05-22,Female,Operations,jrivera
+1257,Michele,Warren,2006-01-05,Female,Quality,mwarren
+1258,Heather,Thompson,1977-07-31,Male,Operations,hthompson
+1259,Crystal,Young,1978-08-04,Female,Quality,cyoung
+1260,Jennifer,Harris,1966-12-14,Male,Information Technology,jharris
+1261,John,Mckinney,1995-11-23,Male,Information Technology,jmckinney
+1262,James,Diaz,2004-11-25,Male,Information Technology,jdiaz
+1263,Maxwell,Richardson,1982-08-14,Male,Human Resources,mrichardson
+1264,Michael,Sanders,2002-09-21,Male,Finance,msanders
+1265,Nicole,Hamilton,1976-05-09,Female,Quality,nhamilton
+1266,Brittany,Richardson,1987-12-30,Male,Information Technology,brichardson
+1267,Mark,Miller,1993-02-07,Female,Information Technology,mmiller
+1268,Megan,Wright,1982-10-21,Female,Information Technology,mwright
+1269,Jessica,Butler,1955-04-12,Male,Marketing,jbutler
+1270,Christopher,Bright,1960-08-03,Male,Human Resources,cbright
+1271,Ryan,Oliver,1991-04-26,Male,Operations,roliver
+1272,Lydia,Small,1995-08-28,Male,Information Technology,lsmall
+1273,Aaron,Mckinney,1968-10-26,Male,Human Resources,amckinney
+1274,Christopher,Moss,1999-10-15,Female,Human Resources,cmoss
+1275,Patricia,Haynes,1992-06-23,Female,Quality,phaynes
+1276,Jimmy,Page,1962-03-12,Male,Finance,jpage
+1277,Michele,Price,1967-05-20,Female,Information Technology,mprice
+1278,Russell,Cross,1999-12-11,Female,Marketing,rcross
+1279,Charles,Swanson,1984-06-24,Male,Operations,cswanson
+1280,Jackson,Henderson,1964-03-14,Female,Information Technology,jhenderson
+1281,Karen,Glenn,1971-01-17,Female,Marketing,kglenn
+1282,Amanda,Ramos,1991-03-21,Male,Information Technology,aramos
+1283,Linda,Black,1971-08-21,Female,Finance,lblack
+1284,Mark,Adams,1995-09-30,Female,Operations,madams
+1285,Johnathan,Gonzales,1970-02-09,Female,Information Technology,jgonzales
+1286,Jared,Thomas,1991-02-08,Female,Information Technology,jthomas1
+1287,Barbara,Brown,1975-09-28,Male,Marketing,bbrown
+1288,Austin,Patton,1999-02-25,Female,Human Resources,apatton
+1289,Gail,Bender,1991-07-15,Female,Quality,gbender
+1290,Michelle,Fitzpatrick,1970-01-07,Female,Quality,mfitzpatrick
+1291,Kimberly,Smith,1964-02-28,Male,Information Technology,ksmith
+1292,Albert,Miller,2006-04-25,Female,Operations,amiller
+1293,David,Gonzalez,1977-10-09,Female,Human Resources,dgonzalez
+1294,Dylan,Santiago,1993-05-04,Female,Operations,dsantiago
+1295,Mary,Duffy,2006-08-30,Male,Finance,mduffy
+1296,Vanessa,Blake,1970-05-22,Female,Operations,vblake
+1297,Henry,Simon,1993-06-17,Male,Information Technology,hsimon
+1298,David,Wade,1996-09-08,Male,Quality,dwade
+1299,Kristi,Jordan,1991-09-13,Female,Finance,kjordan
+1300,Amy,Jenkins,1995-02-23,Male,Information Technology,ajenkins1
+1301,Jasmin,Rogers,1975-05-23,Female,Operations,jrogers
+1302,David,Patterson,1992-05-23,Female,Marketing,dpatterson
+1303,Stephanie,Byrd,1965-06-11,Male,Marketing,sbyrd
+1304,Dana,Mckinney,2005-10-06,Female,Information Technology,dmckinney
+1305,Nicole,Brewer,1974-05-25,Male,Quality,nbrewer
+1306,Louis,Downs,1994-09-29,Female,Information Technology,ldowns
+1307,Robert,Williams,1956-01-11,Female,Finance,rwilliams
+1308,Stephen,Carter,1987-05-17,Male,Information Technology,scarter
+1309,Stacy,Schwartz,1994-09-16,Male,Finance,sschwartz
+1310,John,Lopez,1993-03-05,Female,Human Resources,jlopez
+1311,Nicole,Small,1976-05-13,Female,Human Resources,nsmall
+1312,Michael,Schmidt,1963-03-22,Male,Quality,mschmidt
+1313,Chloe,Scott,1959-02-15,Male,Marketing,cscott
+1314,Linda,Dunn,1982-10-14,Female,Information Technology,ldunn
+1315,Beverly,Arnold,2003-06-24,Female,Finance,barnold
+1316,Mary,Robinson,2001-04-11,Male,Quality,mrobinson
+1317,Michael,Woods,2003-01-15,Male,Operations,mwoods
+1318,Angelica,Lee,1964-05-12,Female,Operations,alee1
+1319,Jared,Jenkins,1976-01-16,Female,Finance,jjenkins
+1320,Richard,Morrison,1973-11-25,Female,Operations,rmorrison
+1321,Walter,Roberts,2003-08-13,Female,Operations,wroberts
+1322,Victoria,Castaneda,1989-03-27,Female,Finance,vcastaneda
+1323,Patricia,White,1970-01-03,Female,Quality,pwhite
+1324,Adrienne,Holmes,1968-11-07,Female,Information Technology,aholmes
+1325,Caitlin,Lynch,1974-10-18,Female,Finance,clynch
+1326,Maurice,Turner,1958-05-18,Female,Marketing,mturner
+1327,Richard,Weeks,1987-01-16,Male,Marketing,rweeks
+1328,Andrew,Stephens,1958-03-05,Male,Quality,astephens
+1329,Lucas,Miller,1994-06-14,Male,Marketing,lmiller
+1330,Alyssa,Fernandez,1971-05-03,Male,Finance,afernandez
+1331,Sheena,Walls,1968-02-17,Female,Quality,swalls
+1332,Joshua,Stephens,1954-10-30,Female,Operations,jstephens
+1333,Kelly,Perry,1960-05-11,Female,Quality,kperry
+1334,Amy,Roth,2002-04-01,Female,Quality,aroth
+1335,Robin,Brown,1962-03-02,Male,Information Technology,rbrown
+1336,David,Turner,1960-07-23,Male,Finance,dturner
+1337,Julie,Grant,1960-10-30,Female,Finance,jgrant
+1338,Joel,Richards,1993-12-05,Female,Operations,jrichards
+1339,Lauren,Bennett,1954-02-21,Female,Operations,lbennett
+1340,Amanda,Cook,1997-04-20,Male,Operations,acook
+1341,Anthony,Torres,1959-07-20,Male,Quality,atorres
+1342,Brenda,Johns,2005-05-30,Female,Quality,bjohns
+1343,Ashley,Anthony,1981-01-19,Female,Information Technology,aanthony
+1344,Kathleen,Perry,2004-11-12,Female,Information Technology,kperry1
+1345,Ivan,Nielsen,1964-12-18,Female,Quality,inielsen
+1346,Doris,Hopkins,1974-02-22,Female,Operations,dhopkins
+1347,Stephen,Roberts,1999-12-12,Male,Operations,sroberts
+1348,Jennifer,Haynes,1962-12-04,Male,Finance,jhaynes
+1349,Thomas,Reynolds,1971-11-22,Male,Information Technology,treynolds
+1350,David,Pugh,1991-06-17,Male,Information Technology,dpugh
+1351,Billy,Mckinney,1970-09-02,Female,Marketing,bmckinney
+1352,Lisa,Booker,1989-07-27,Female,Finance,lbooker
+1353,Rick,Winters,1989-03-28,Female,Marketing,rwinters
+1354,Michelle,Morgan,1994-02-03,Female,Human Resources,mmorgan
+1355,Justin,Grimes,1978-09-06,Female,Operations,jgrimes
+1356,April,Sanders,1962-09-14,Male,Human Resources,asanders
+1357,Kristi,Perez,1981-09-29,Female,Marketing,kperez1
+1358,Cesar,Solomon,1967-01-02,Female,Human Resources,csolomon
+1359,Kathryn,Dyer,2002-08-07,Male,Finance,kdyer
+1360,Scott,Martinez,1964-10-26,Male,Marketing,smartinez
+1361,Matthew,Moore,1981-08-17,Male,Finance,mmoore
+1362,Jennifer,Adkins,1967-01-02,Female,Quality,jadkins
+1363,Denise,Williams,1954-09-08,Female,Human Resources,dwilliams1
+1364,Melissa,Gonzalez,1966-02-20,Male,Operations,mgonzalez
+1365,Austin,Freeman,1983-09-30,Female,Operations,afreeman
+1366,Julie,Cooper,1974-09-27,Male,Quality,jcooper
+1367,Kayla,Bentley,1997-03-21,Female,Human Resources,kbentley
+1368,Rebecca,Potter,1966-09-30,Female,Human Resources,rpotter
+1369,Debra,Hall,1983-10-03,Female,Finance,dhall
+1370,John,Knight,1978-10-21,Male,Operations,jknight
+1371,Tiffany,Gordon,1973-02-26,Female,Finance,tgordon
+1372,James,Young,1997-12-31,Female,Human Resources,jyoung
+1373,Julie,Lambert,1966-08-20,Male,Marketing,jlambert
+1374,Sarah,Ayala,1977-04-03,Female,Finance,sayala
+1375,Marie,Fowler,1999-12-03,Male,Quality,mfowler
+1376,Angela,Williams,1980-09-12,Male,Operations,awilliams
+1377,Melvin,Jackson,1960-04-18,Female,Operations,mjackson1
+1378,Lisa,Ellis,1975-11-21,Male,Quality,lellis
+1379,Monique,Lynn,1968-08-31,Female,Human Resources,mlynn
+1380,Justin,Bryant,1973-04-10,Female,Information Technology,jbryant
+1381,Mark,Bell,1991-04-05,Male,Quality,mbell
+1382,Molly,Jimenez,1992-11-30,Female,Finance,mjimenez
+1383,Renee,Allen,1973-02-12,Female,Marketing,rallen
+1384,Marissa,Arroyo,2006-03-03,Male,Human Resources,marroyo
+1385,Anthony,Garrett,1958-11-12,Female,Information Technology,agarrett
+1386,Michael,Olson,1962-09-21,Female,Finance,molson
+1387,Chris,Johnson,1981-12-08,Male,Information Technology,cjohnson1
+1388,Terrence,Graham,1970-12-05,Male,Quality,tgraham
+1389,Jeffery,Walker,1967-02-10,Female,Marketing,jwalker
+1390,Donna,Rodriguez,1956-09-12,Male,Human Resources,drodriguez
+1391,Laura,Miller,1997-06-14,Female,Human Resources,lmiller1
+1392,Joseph,Martin,1984-03-07,Female,Information Technology,jmartin
+1393,Cameron,Nelson,1982-02-01,Male,Quality,cnelson
+1394,Valerie,Griffith,1977-05-26,Female,Quality,vgriffith
+1395,Jennifer,Johnson,1972-11-10,Female,Information Technology,jjohnson
+1396,Matthew,Hall,2003-12-01,Female,Marketing,mhall
+1397,Kenneth,Hinton,1977-12-03,Male,Quality,khinton
+1398,Kelli,Anderson,1991-12-12,Female,Marketing,kanderson
+1399,Anthony,Green,1971-07-30,Male,Information Technology,agreen
+1400,Kristen,Mitchell,1983-10-04,Male,Information Technology,kmitchell
+1401,Kathleen,Romero,1976-09-01,Female,Operations,kromero
+1402,Monica,Rodriguez,1960-02-17,Male,Quality,mrodriguez
+1403,Cameron,Green,1970-08-11,Female,Operations,cgreen
+1404,Philip,Johnson,1983-01-24,Male,Quality,pjohnson
+1405,Michael,Stewart,1994-09-19,Male,Marketing,mstewart
+1406,Julie,Sherman,1997-01-06,Female,Operations,jsherman
+1407,Roberto,Price,1990-12-25,Female,Operations,rprice
+1408,Lauren,Young,1962-01-31,Male,Operations,lyoung
+1409,Ronald,Rivera,1986-08-06,Female,Operations,rrivera
+1410,Taylor,Wilson,2003-04-03,Female,Human Resources,twilson
+1411,Bruce,Meyers,1961-05-06,Female,Human Resources,bmeyers
+1412,William,Young,1954-03-11,Male,Marketing,wyoung
+1413,Daniel,Stevenson,1976-04-27,Male,Marketing,dstevenson
+1414,Wesley,Ward,1970-11-07,Male,Quality,wward
+1415,Michael,Murillo,1961-05-26,Female,Operations,mmurillo
+1416,Phillip,Rodriguez,1978-01-07,Female,Operations,prodriguez
+1417,Samantha,Booth,1977-12-14,Female,Marketing,sbooth
+1418,Charles,Williams,1967-01-29,Male,Marketing,cwilliams
+1419,Tamara,Webb,1954-10-26,Female,Quality,twebb
+1420,Kayla,Brewer,1973-02-08,Male,Marketing,kbrewer
+1421,Matthew,Hunter,1971-12-02,Female,Human Resources,mhunter
+1422,Richard,Case,1968-09-16,Female,Operations,rcase
+1423,Michelle,Freeman,2006-07-18,Male,Information Technology,mfreeman
+1424,William,Gordon,1960-03-17,Female,Human Resources,wgordon
+1425,Justin,Graham,1973-06-28,Male,Finance,jgraham
+1426,Jason,Garcia,1959-08-09,Male,Marketing,jgarcia
+1427,Cameron,Newman,2004-10-22,Female,Operations,cnewman
+1428,Melissa,Santiago,1995-09-21,Female,Quality,msantiago
+1429,Brittany,Weiss,1975-10-10,Female,Marketing,bweiss
+1430,Miguel,Simon,1971-12-18,Female,Human Resources,msimon
+1431,Justin,Decker,2002-03-30,Male,Operations,jdecker
+1432,Christine,Gates,1987-04-14,Male,Information Technology,cgates
+1433,Katrina,Steele,1984-09-08,Male,Human Resources,ksteele
+1434,Rebecca,Hammond,1973-01-03,Female,Human Resources,rhammond
+1435,Sara,Wright,1967-07-06,Female,Information Technology,swright
+1436,Lisa,Bowman,2004-07-31,Female,Human Resources,lbowman
+1437,Paula,Ellis,1982-12-15,Male,Finance,pellis
+1438,Rebecca,Calderon,2002-04-29,Female,Operations,rcalderon
+1439,John,Baker,1979-07-06,Female,Finance,jbaker
+1440,Daniel,Bryant,1977-06-26,Male,Information Technology,dbryant
+1441,Shannon,Daugherty,1964-12-14,Female,Operations,sdaugherty
+1442,Katie,Finley,1982-06-19,Male,Quality,kfinley
+1443,Patrick,Bird,2000-09-10,Male,Finance,pbird
+1444,Maria,Thomas,1955-12-17,Female,Marketing,mthomas
+1445,Joshua,Sampson,1974-11-27,Male,Information Technology,jsampson
+1446,James,Perry,2004-04-02,Female,Marketing,jperry
+1447,Randy,Potts,1956-12-16,Female,Human Resources,rpotts
+1448,David,Jones,1996-02-02,Male,Quality,djones
+1449,Sean,Reed,1994-05-14,Female,Operations,sreed
+1450,Lauren,Newman,1986-04-19,Female,Finance,lnewman
+1451,Jacob,Kirk,1958-12-16,Male,Marketing,jkirk
+1452,Diana,Kelly,1966-08-29,Male,Operations,dkelly
+1453,David,Williams,1975-09-30,Male,Marketing,dwilliams2
+1454,Anna,Nguyen,1996-03-16,Male,Finance,anguyen
+1455,Carla,Mendoza,1973-04-19,Male,Information Technology,cmendoza
+1456,Lori,Russell,1974-07-18,Male,Operations,lrussell
+1457,Emily,Murray,1986-06-01,Male,Human Resources,emurray
+1458,Michael,Brooks,1968-04-02,Male,Operations,mbrooks
+1459,Sandra,Brown,1973-10-26,Female,Information Technology,sbrown
+1460,Phillip,Bell,1993-03-02,Female,Information Technology,pbell
+1461,Elizabeth,Kim,1997-05-18,Male,Information Technology,ekim
+1462,Matthew,Navarro,1955-08-26,Female,Human Resources,mnavarro1
+1463,Tyler,Smith,1971-12-11,Female,Quality,tsmith
+1464,Jennifer,Nelson,1990-04-28,Female,Operations,jnelson
+1465,Sarah,Meza,2001-06-28,Female,Human Resources,smeza
+1466,April,Carr,1988-12-30,Female,Human Resources,acarr
+1467,Teresa,Morgan,1988-12-19,Male,Operations,tmorgan
+1468,Emily,Carter,1984-11-27,Female,Human Resources,ecarter
+1469,Clarence,Erickson,1986-12-24,Female,Finance,cerickson
+1470,Timothy,Sanders,1998-03-21,Female,Finance,tsanders
+1471,Taylor,Reyes,1998-05-17,Male,Operations,treyes
+1472,Laura,Shelton,1958-11-24,Male,Operations,lshelton
+1473,Malik,Lee,1991-05-22,Female,Marketing,mlee
+1474,David,Huang,1990-07-22,Female,Information Technology,dhuang
+1475,Angela,Lopez,1982-06-12,Female,Finance,alopez1
+1476,Andrew,Thomas,1969-05-10,Female,Information Technology,athomas
+1477,Susan,Ibarra,2000-07-09,Female,Quality,sibarra
+1478,Michael,Norman,1954-05-07,Female,Information Technology,mnorman
+1479,Alexis,Murphy,1965-12-24,Male,Operations,amurphy
+1480,Amy,Clark,1991-12-02,Female,Finance,aclark
+1481,Frederick,Martin,1987-01-20,Male,Marketing,fmartin
+1482,Kathleen,Baker,1959-04-18,Female,Quality,kbaker
+1483,Rita,Williams,1976-03-04,Female,Operations,rwilliams1
+1484,Lance,Edwards,1961-10-30,Female,Operations,ledwards
+1485,Mark,Davis,1987-03-29,Female,Information Technology,mdavis
+1486,Kyle,Perez,1956-04-01,Female,Marketing,kperez2
+1487,Mark,Johnson,1972-05-31,Female,Quality,mjohnson
+1488,Frances,Hunter,1967-09-24,Male,Operations,fhunter
+1489,Kevin,Phelps,1965-11-29,Male,Operations,kphelps
+1490,John,Scott,1971-01-16,Male,Information Technology,jscott1
+1491,Christine,Hancock,1972-08-12,Male,Quality,chancock1
+1492,Angela,Miller,1954-12-27,Male,Operations,amiller1
+1493,Dean,Berger,2003-08-12,Female,Quality,dberger
+1494,Tiffany,Johnson,1979-10-18,Female,Finance,tjohnson
+1495,Kari,Young,1996-02-14,Male,Marketing,kyoung
+1496,Nicolas,Gonzalez,1999-02-04,Male,Finance,ngonzalez
+1497,Ryan,Cruz,1998-08-11,Male,Human Resources,rcruz
+1498,Samantha,Miller,2005-12-15,Female,Marketing,smiller1
+1499,Margaret,Leach,1956-01-27,Male,Information Technology,mleach
