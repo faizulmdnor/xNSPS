@@ -72,3 +72,35 @@ elif operator == '/':
 else:
     result = 'Operator tidak dapat dikenali'
 print(f'{num1} {operator} {num2} = {result}')
+
+# list
+data1 = [1, 42, 8, 6, 3, 82]
+
+print(data1)
+print(data1[1:-2])
+print(data1[3:-2])
+
+data2 = ['saya', 'dia', 'kamu', 'hang', 'awak', 'aku', 'depa', 'hangpa', 'kami', 'mereka']
+print(len(data2))
+print(data2[4:-5])
+
+# Tuple
+my_tuple = (10, 20, 30, 40, 50)
+
+first_element = my_tuple[0]
+third_element = my_tuple[2]
+
+print(my_tuple)
+print(first_element)
+print(third_element)
+
+my_tuple2 = ([10, 20, 30],
+             [1, 2, 3],
+             [6, 12, 18])
+
+print(my_tuple2[0][2])
+print(my_tuple2[2][1])
+
+for r in range (3):
+    for c in range (3):
+        print(my_tuple2[r][c])
