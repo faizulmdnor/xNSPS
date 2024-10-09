@@ -1,6 +1,4 @@
 # Addition
-from numpy.random.mtrand import operator
-
 a = 10
 b = 5
 sum_result = a + b
