@@ -20,6 +20,7 @@ ALTER VIEW vw_UserDetails
 AS
 SELECT 
     u.userid,                         -- User's unique ID from 'Users' table
+	k.nom_kp,                         -- User's ID number from 'KadPengenalan' table
     u.firstname,                      -- User's first name from 'Users' table
     u.lastname,                       -- User's last name from 'Users' table
     u.date_of_birth,                  -- User's date of birth from 'Users' table
@@ -27,11 +28,11 @@ SELECT
     d.dept,                           -- User's department from 'Departments' table (joined via deptid)
     m.username                        -- User's username from 'Username' table (joined via userid)
 FROM Users u
-LEFT JOIN Genders g ON g.gid = u.gender_id        -- Joining 'Genders' table to retrieve gender information
-LEFT JOIN Departments d ON d.deptid = u.deptid    -- Joining 'Departments' table to retrieve department information
-LEFT JOIN Username m ON m.userid = u.userid;      -- Joining 'Username' table to retrieve username
+LEFT JOIN Genders g ON g.gid = u.gender_id          -- Joining 'Genders' table to retrieve gender information
+LEFT JOIN Departments d ON d.deptid = u.deptid      -- Joining 'Departments' table to retrieve department information
+LEFT JOIN Username m ON m.userid = u.userid         -- Joining 'Username' table to retrieve username
+LEFT JOIN KadPengenalan k ON k.userid = u.userid;   -- Joining 'KadPengenalan' table to retrieve ID number
 
--- Creating views for different departments by filtering the vw_UserDetails view
 
 -- Create a view for users in the 'Finance' department
 CREATE VIEW vw_Finance AS
@@ -54,6 +55,24 @@ SELECT * FROM vw_UserDetails
 WHERE dept = 'Marketing';
 
 -- Create a view for users in the 'Information Technology' department
-CREATE VIEW vw_InformationTechnology AS
+ALTER VIEW vw_InformationTechnology AS
 SELECT * FROM vw_UserDetails
 WHERE dept = 'Information Technology';
+
+ALTER VIEW vw_UserDetails
+AS
+SELECT 
+    u.userid,                         
+	k.nom_kp,                         
+    u.firstname,                      
+    u.lastname,                       
+    u.date_of_birth,                  
+    COALESCE(g.gender, 'Not Specified') AS gender,  
+    COALESCE(d.dept, 'Unknown') AS dept,  
+    COALESCE(m.username, 'No Username') AS username  
+FROM Users u
+LEFT JOIN Genders g ON g.gid = u.gender_id         
+LEFT JOIN Departments d ON d.deptid = u.deptid     
+LEFT JOIN Username m ON m.userid = u.userid        
+LEFT JOIN KadPengenalan k ON k.userid = u.userid;  
+
