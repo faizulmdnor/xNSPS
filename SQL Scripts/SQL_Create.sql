@@ -48,4 +48,14 @@ ADD CONSTRAINT FK_Username_Users
 FOREIGN KEY (userid) REFERENCES Users(userid)  -- Links 'userid' in 'Username' to 'userid' in 'Users'
 ON DELETE CASCADE;                             -- Cascade delete, removes 'Username' when corresponding 'User' is deleted
 
+-- Create 'KadPengenalan' table with a unique ID and a column for usernames
+CREATE TABLE KadPengenalan (
+    userid INT PRIMARY KEY,                  -- Primary key linked to 'Users' table
+    nom_kp VARCHAR(50) NOT NULL UNIQUE     -- Username, unique for each user
+);
 
+-- Set up foreign key relationship between 'KadPengenalan' and 'Users'
+ALTER TABLE KadPengenalan
+ADD CONSTRAINT FK_KadPengenalan
+FOREIGN KEY (userid) REFERENCES Users(userid)  -- Links 'userid' in 'KadPengenalan' to 'userid' in 'Users'
+ON DELETE CASCADE;                             -- Cascade delete, removes 'KadPengenalan' when corresponding 'User' is deleted
