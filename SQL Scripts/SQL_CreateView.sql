@@ -35,22 +35,22 @@ LEFT JOIN KadPengenalan k ON k.userid = u.userid;   -- Joining 'KadPengenalan' t
 
 
 -- Create a view for users in the 'Finance' department
-CREATE VIEW vw_Finance AS
+ALTER VIEW vw_Finance AS
 SELECT * FROM vw_UserDetails
 WHERE dept = 'Finance';
 
 -- Create a view for users in the 'Quality' department
-CREATE VIEW vw_Quality AS
+ALTER VIEW vw_Quality AS
 SELECT * FROM vw_UserDetails
 WHERE dept = 'Quality';
 
 -- Create a view for users in the 'Operations' department
-CREATE VIEW vw_Operations AS
+ALTER VIEW vw_Operations AS
 SELECT * FROM vw_UserDetails
 WHERE dept = 'Operations';
 
 -- Create a view for users in the 'Marketing' department
-CREATE VIEW vw_Marketing AS
+ALTER VIEW vw_Marketing AS
 SELECT * FROM vw_UserDetails
 WHERE dept = 'Marketing';
 
@@ -69,7 +69,7 @@ SELECT
     u.date_of_birth,                  
     COALESCE(g.gender, 'Not Specified') AS gender,  
     COALESCE(d.dept, 'Unknown') AS dept,  
-    COALESCE(m.username, 'No Username') AS username  
+    m.username
 FROM Users u
 LEFT JOIN Genders g ON g.gid = u.gender_id         
 LEFT JOIN Departments d ON d.deptid = u.deptid     
