@@ -1,9 +1,6 @@
 from fezdbase import DataRetriever
 import pandas as pd
 
-sqlquery = '''
-        SELECT * FROM vw_UserDetails
-    '''
-
-data = DataRetriever.query_db(sqlquery=sqlquery)
-data.to_csv('UserDetails.csv', index=False)
+tablename = 'vw_Operations'
+df_data = DataRetriever.query_db_by_table(tablename=tablename)
+print(df_data.head(10))
