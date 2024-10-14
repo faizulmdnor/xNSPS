@@ -9,25 +9,17 @@ DATABASE = 'Fezdbase'  # Your database name
 
 class DataRetriever:
     """
+    Class responsible for retrieving and inserting data to and from a database.
+
     class DataRetriever:
 
-    A class used to retrieve data from a database.
-
-    @staticmethod
-    def query_db(sqlquery: str) -> pd.DataFrame:
-        Executes a SQL query and returns the result as a pandas DataFrame.
+        Retrieve data from the database using a SQL query.
 
         :param sqlquery: The SQL query to execute.
         :type sqlquery: str
-        :return: A pandas DataFrame containing the result of the query.
-        :rtype: pd.DataFrame
-
-    @staticmethod
-    def _create_connection():
-        Creates and returns a new database connection.
-
-        :return: A new database connection.
-    """
+        :return: A DataFrame containing the results of the SQL query.
+        :rtype: pandas.DataFrame
+        """
     @staticmethod
     def query_db(sqlquery: str) -> pd.DataFrame:
         conn = DataRetriever._create_connection()
