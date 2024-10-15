@@ -4,10 +4,10 @@ for i in range(5):
     print(i)
 
 # Example 2:
-for i in 'kehidupan':
+for i in 'mujtahidun':
     print(i, end=' ')
 print('\n')
-for i in 'kehidupan':
+for i in 'mujtahidun':
     print(i)
 
 a = 1
