@@ -1,8 +1,6 @@
 import pyodbc
 import pandas as pd
 
-from insert_noKadPengenalan import cursor
-
 SERVER = 'FAIZULONXY\\SQLEXPRESS'  # Your server name
 DATABASE = 'Fezdbase'  # Your database name
 

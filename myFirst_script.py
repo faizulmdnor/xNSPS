@@ -1,7 +1,7 @@
 # Importing Libraries:
 import pandas as pd
 import numpy as np
-
+from formatting import AnsiEffect, AnsiFontColors, AnsiBackColors
 
 name = input('Name: ')
 print(f'Hello, my name is {name}')
