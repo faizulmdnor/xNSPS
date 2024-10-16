@@ -1,5 +1,4 @@
--- Create a new database named 'Fezdbase'
-CREATE DATABASE Fezdbase;
+CREATE DATABASE <database name>
 
 -- Create 'Users' table with a unique ID starting from 1000, and columns for first name, last name, and date of birth
 CREATE TABLE Users (
@@ -21,6 +20,18 @@ CREATE TABLE Departments (
     dept VARCHAR(50)                          -- Name of the department (e.g., HR, Finance, IT)
 );
 
+-- Create 'Username' table with a unique ID and a column for usernames
+CREATE TABLE Username (
+    userid INT PRIMARY KEY,                  -- Primary key linked to 'Users' table
+    username VARCHAR(50) NOT NULL UNIQUE     -- Username, unique for each user
+);
+
+-- Create 'KadPengenalan' table with a unique ID and a column for usernames
+CREATE TABLE KadPengenalan (
+    userid INT PRIMARY KEY,                -- Primary key linked to 'Users' table
+    nom_kp VARCHAR(50) NOT NULL UNIQUE     -- Username, unique for each user
+);
+
 -- Add foreign key columns to 'Users' to reference gender and department
 ALTER TABLE Users
 ADD gender_id INT,                            -- Foreign key referencing 'Genders' table
@@ -33,26 +44,14 @@ FOREIGN KEY (gender_id) REFERENCES Genders(gid);  -- Links 'gender_id' in 'Users
 
 -- Set up foreign key relationship between 'Users' and 'Departments'
 ALTER TABLE Users
-ADD CONSTRAINT FK_Users_Departments
-FOREIGN KEY (deptid) REFERENCES Departments(deptid);  -- Links 'deptid' in 'Users' to 'deptid' in 'Departments'
-
--- Create 'Username' table with a unique ID and a column for usernames
-CREATE TABLE Username (
-    userid INT PRIMARY KEY,                  -- Primary key linked to 'Users' table
-    username VARCHAR(50) NOT NULL UNIQUE     -- Username, unique for each user
-);
+ADD CONSTRAINT FK_Users_Departments												
+FOREIGN KEY (deptid) REFERENCES Departments(deptid);	-- Links 'deptid' in 'Users' to 'deptid' in 'Departments'
 
 -- Set up foreign key relationship between 'Username' and 'Users'
 ALTER TABLE Username
 ADD CONSTRAINT FK_Username_Users
 FOREIGN KEY (userid) REFERENCES Users(userid)  -- Links 'userid' in 'Username' to 'userid' in 'Users'
 ON DELETE CASCADE;                             -- Cascade delete, removes 'Username' when corresponding 'User' is deleted
-
--- Create 'KadPengenalan' table with a unique ID and a column for usernames
-CREATE TABLE KadPengenalan (
-    userid INT PRIMARY KEY,                  -- Primary key linked to 'Users' table
-    nom_kp VARCHAR(50) NOT NULL UNIQUE     -- Username, unique for each user
-);
 
 -- Set up foreign key relationship between 'KadPengenalan' and 'Users'
 ALTER TABLE KadPengenalan

@@ -77,3 +77,6 @@ if data is not None:
         total_deaths_by_year_malaysia = pivot_Malaysia_death_by_Sex.sum(axis=0)
         print("Total number of deaths by year (National-level):")
         print(total_deaths_by_year_malaysia)
+
+
+death_groupby_gender = malaysia_death.groupby([''])
