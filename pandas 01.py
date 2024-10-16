@@ -22,7 +22,7 @@ def load_data():
     data = pd.read_csv(filename)
     return data
 
-def formatting_table(df):
+def number_of_death_is_int(df):
     """
     :param df: The input DataFrame that contains a 'Number of death' column to be processed.
     :return: A DataFrame with 'Number of death' column converted to integers, where NaN values are replaced by 0.
@@ -41,7 +41,7 @@ data = load_data()
 # Filter data for rows where the 'State' is 'Malaysia' (national death data)
 malaysia_death = data[data['State'] == 'Malaysia']
 
-malaysia_death = formatting_table(malaysia_death)
+malaysia_death = number_of_death_is_int(malaysia_death)
 
 # Filter data for rows where the 'State' is not 'Malaysia' (state-level death data)
 state_death = data[data['State'] != 'Malaysia']
