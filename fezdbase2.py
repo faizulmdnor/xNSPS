@@ -2,10 +2,10 @@ import pyodbc
 import pandas as pd
 
 SERVER = 'FAIZULONXY\\SQLEXPRESS'  # Your server name
-DATABASE = 'Fezdbase'  # Your database name
+DATABASE = 'fezdbase2'  # Your database name
 
 
-class DataRetriever:
+class DataRetriever2:
     """
     Class responsible for retrieving and inserting data to and from a database.
 
@@ -20,13 +20,13 @@ class DataRetriever:
         """
     @staticmethod
     def query_db(sqlquery: str) -> pd.DataFrame:
-        conn = DataRetriever._create_connection()
+        conn = DataRetriever2._create_connection2()
         df = pd.read_sql(sqlquery, conn)
         conn.close()
         return df
 
     @staticmethod
-    def _create_connection():
+    def _create_connection2():
         conn_str = f'DRIVER={{SQL Server}};SERVER={SERVER};DATABASE={DATABASE};Trusted_Connection=yes;'
         return pyodbc.connect(conn_str)
 
@@ -39,12 +39,12 @@ class DataRetriever:
         sql_query = f'''
             SELECT * FROM {tablename}
         '''
-        conn = DataRetriever._create_connection()
+        conn = DataRetriever2._create_connection2()
         df = pd.read_sql(sql=sql_query, con=conn)
         conn.close()
         return df
 
-class DataInserter:
+class DataInserter2:
     @staticmethod
     def insert_data_by_tablename(tablename, df):
         """
@@ -54,24 +54,24 @@ class DataInserter:
         :type df: pandas.DataFrame
         :return: None
         """
-        conn = DataRetriever._create_connection()
-        cursor = conn.cursor()
+        conn = DataRetriever2._create_connection2()
+        if not conn:
+            print("Failed to create database connection")
+            return
 
+        cursor = conn.cursor()
         columns = ', '.join(df.columns)
         placeholders = ', '.join('?' * len(df.columns))
-        sql_insert = f'''
-            INSERT INTO {tablename} ({columns}) VALUES ({placeholders})
-        '''
+        sql_insert = f'INSERT INTO {tablename} ({columns}) VALUES ({placeholders})'
+
         try:
-            for index, row in df.iterrow():
+            for index, row in df.iterrows():  # Correct method name
                 cursor.execute(sql_insert, tuple(row))
             conn.commit()
-            print(f"data inserted into {tablename} SUCCESS")
-
+            print(f"Data inserted into {tablename} SUCCESS")
         except Exception as e:
             conn.rollback()
             print(f"Insert data into {tablename} FAILED: {e}")
-
         finally:
             if cursor:
                 cursor.close()
