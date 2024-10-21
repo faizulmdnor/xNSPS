@@ -1,5 +1,8 @@
 import pyodbc
 import pandas as pd
+from dateutil.relativedelta import relativedelta
+from datetime import datetime
+to_date = datetime.today().strftime('%Y-%m-%d')
 
 def query_employees(conn):
     sql_query = "SELECT emp_id, First_Name, Last_Name FROM Employees"
@@ -30,7 +33,14 @@ def insert_into_usernames(conn, cursor, emp_id, username):
         print(f"Insert username into table Usernames FAILED: {e}")
         conn.rollback()
 
-
+def employees_details(conn):
+    sql_query = "SELECT * FROM vw_Employees"
+    try:
+        df = pd.read_sql(sql_query, conn)
+        return df
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
 
 SERVER = 'FAIZULONXY\\SQLEXPRESS'
 DATABASE = 'GreenVolt'
@@ -57,3 +67,4 @@ finally:
     cursor.close()
     conn.close()
 """
+
