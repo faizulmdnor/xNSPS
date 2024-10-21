@@ -1,7 +1,7 @@
-import pyodbc
 import pandas as pd
-from dateutil.relativedelta import relativedelta
+import pyodbc
 from datetime import datetime
+
 to_date = datetime.today().strftime('%Y-%m-%d')
 
 def query_employees(conn):
