@@ -1,4 +1,4 @@
-CREATE DATABASE <database name>
+CREATE DATABASE Fezdbase2
 
 -- Create 'Users' table with a unique ID starting from 1000, and columns for first name, last name, and date of birth
 CREATE TABLE Users (
@@ -58,3 +58,17 @@ ALTER TABLE KadPengenalan
 ADD CONSTRAINT FK_KadPengenalan
 FOREIGN KEY (userid) REFERENCES Users(userid)  -- Links 'userid' in 'KadPengenalan' to 'userid' in 'Users'
 ON DELETE CASCADE;                             -- Cascade delete, removes 'KadPengenalan' when corresponding 'User' is deleted
+
+SELECT * FROM Genders
+
+INSERT INTO Genders (gender) VALUES ('Male'), ('Female');
+
+SELECT * FROM Departments
+INSERT INTO Departments(dept) VALUES ('HR')
+
+DROP TABLE Departments
+
+ALTER TABLE Users
+DROP CONSTRAINT FK_Users_Departments;
+
+select * from users

@@ -22,3 +22,9 @@ VALUES ('Fiona', 'McFly', '1999-03-07', 300, 12);
 SELECT * FROM vw_UserDetails
 WHERE username IS NULL
 OR nom_kp IS NULL
+
+
+select * from Departments
+
+
+SELECT * FROM Genders
