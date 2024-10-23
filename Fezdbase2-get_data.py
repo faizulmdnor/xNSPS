@@ -69,3 +69,5 @@ for i, r in df_data2.iterrows():
     cursor.execute(
         f'INSERT INTO User_noKP userid, firstname, lastname, date_of_birth, gender, dept, nom_kp VALUES (?, ?. ?, ?, ?, ?, ?, ?)',
         r['userid'], r['firstname'], r['lastname'], r['date_of_birth'], r['gender'], r['dept'], r['nom_kp'])
+conn.commit()
+conn.close()
