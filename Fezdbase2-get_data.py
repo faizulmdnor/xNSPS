@@ -1,8 +1,6 @@
 import pyodbc
 import pandas as pd
 
-from insert_noKadPengenalan import cursor
-
 SERVER = 'FAIZULONXY\\SQLEXPRESS'
 DATABASE = 'Fezdbase2'
 
@@ -67,7 +65,7 @@ df_data2 = df_data[['userid', 'firstname', 'lastname', 'date_of_birth', 'gender'
 
 for i, r in df_data2.iterrows():
     cursor.execute(
-        f'INSERT INTO User_noKP userid, firstname, lastname, date_of_birth, gender, dept, nom_kp VALUES (?, ?. ?, ?, ?, ?, ?, ?)',
+        f'INSERT INTO User_noKP (userid, firstname, lastname, date_of_birth, gender, dept, nom_kp) VALUES (?, ?, ?, ?, ?, ?, ?)',
         r['userid'], r['firstname'], r['lastname'], r['date_of_birth'], r['gender'], r['dept'], r['nom_kp'])
 conn.commit()
 conn.close()
