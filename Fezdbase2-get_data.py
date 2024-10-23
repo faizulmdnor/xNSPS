@@ -1,5 +1,7 @@
 import pyodbc
 import pandas as pd
+from matplotlib import pyplot as plt
+
 
 SERVER = 'FAIZULONXY\\SQLEXPRESS'
 DATABASE = 'Fezdbase2'
@@ -63,9 +65,35 @@ df_data['nom_kp'] = df_data['b_code'].astype(str) + '-' + df_data['d_code'].asty
     'g_code'].astype(str)
 df_data2 = df_data[['userid', 'firstname', 'lastname', 'date_of_birth', 'gender', 'dept', 'nom_kp']]
 
-for i, r in df_data2.iterrows():
-    cursor.execute(
-        f'INSERT INTO User_noKP (userid, firstname, lastname, date_of_birth, gender, dept, nom_kp) VALUES (?, ?, ?, ?, ?, ?, ?)',
-        r['userid'], r['firstname'], r['lastname'], r['date_of_birth'], r['gender'], r['dept'], r['nom_kp'])
-conn.commit()
-conn.close()
+# for i, r in df_data2.iterrows():
+#     cursor.execute(
+#         f'INSERT INTO User_noKP (userid, firstname, lastname, date_of_birth, gender, dept, nom_kp) VALUES (?, ?, ?, ?, ?, ?, ?)',
+#         r['userid'], r['firstname'], r['lastname'], r['date_of_birth'], r['gender'], r['dept'], r['nom_kp'])
+# conn.commit()
+# conn.close()
+
+# Count user IDs per department
+
+dept_counts = df_data2['userid'].groupby(df_data2['dept']).count()
+
+# Count user IDs per gender
+gender_counts = df_data2['userid'].groupby(df_data2['gender']).count()
+
+# First figure for department-wise count (line chart)
+plt.figure(figsize=(8, 6))
+plt.plot(dept_counts.index, dept_counts.values, marker='o')
+plt.ylabel('Count of User IDs')
+plt.xlabel('Department')
+plt.title('Count of User IDs by Department in Fezdbase2 Database')
+plt.xticks(rotation=45)  # Rotate labels for better readability
+plt.tight_layout()  # Adjust layout to prevent overlap
+plt.show()
+
+# Second figure for gender-wise count (bar chart)
+plt.figure(figsize=(8, 6))
+plt.bar(gender_counts.index, gender_counts.values)
+plt.ylabel('Count of User IDs')
+plt.xlabel('Gender')
+plt.title('Count of User IDs by Gender in Fezdbase2 Database')
+plt.tight_layout()  # Adjust layout to prevent overlap
+plt.show()
