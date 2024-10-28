@@ -2,7 +2,7 @@ import pyodbc
 import pandas as pd
 
 SERVER = 'FAIZULONXY\\SQLEXPRESS'
-DATABASE = 'Fezdbase2'
+DATABASE = 'Fezdbase'
 conn = pyodbc.connect(f"DRIVER={{SQL Server}}; SERVER={SERVER};DATABASE={DATABASE};Trusted_Connection=yes;")
 cursor = conn.cursor()
 #
@@ -12,12 +12,9 @@ cursor = conn.cursor()
 #     cursor.execute(f"INSERT INTO Departments (dept) VALUES (?)", (i,))
 # conn.commit()
 
-data = pd.read_csv('E:/X-NSPS/Python - Scripting/pythonProject/xNSPS/UserDetails.csv')
-
-data['date_of_birth'] = pd.to_datetime(data['date_of_birth'])
+data = pd.read_csv('E:/X-NSPS/Python - Scripting/pythonProject/region_revenue_data.csv')
 
 for i, r in data.iterrows():
-    cursor.execute(f"INSERT INTO Users (firstname, lastname, date_of_birth, gender_id, deptid) VALUES (?, ?, ?, ?, ?)",
-                   (r['firstname'], r['lastname'], r['date_of_birth'], r['gender_id'], r['deptid']))
+    cursor.execute(f'INSERT INTO Region (date, Region_name, Revenue) VALUES (?, ?, ?)', r['date'], r['region'], r['revenue $'])
 conn.commit()
 conn.close()
