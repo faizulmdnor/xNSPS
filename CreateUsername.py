@@ -63,7 +63,6 @@ def insert_data(df):
         cursor.close()
         conn.close()
 
-
 df_data = get_data()
 df_username = pd.DataFrame(columns=['userid', 'username'])
 df_username['userid'] = df_data['userid']

@@ -15,6 +15,6 @@ cursor = conn.cursor()
 data = pd.read_csv('E:/X-NSPS/Python - Scripting/pythonProject/region_revenue_data.csv')
 
 for i, r in data.iterrows():
-    cursor.execute(f'INSERT INTO Region (date, Region_name, Revenue) VALUES (?, ?, ?)', r['date'], r['region'], r['revenue $'])
+    cursor.execute(f'INSERT INTO Region2 (date, Region_name, Revenue) VALUES (?, ?, ?)', r['date'], r['region'], r['revenue $'])
 conn.commit()
 conn.close()
