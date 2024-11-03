@@ -38,7 +38,7 @@ print(x(5))
 
 # Example: Apply lambda to each element in a list
 numbers = [1, 2, 3, 4, 5]
-doubled = [(lambda x: x * 3)(x) for x in numbers]
+doubled = [(lambda x: x * x)(x) for x in numbers]
 print(doubled)
 print(max(doubled))
 print(min(doubled))
