@@ -26,4 +26,4 @@ data['Hired_period'] = (today - data['Date_Hired']).dt.days // 365.25
 data['Age'].fillna(0, inplace=True)
 data['Hired_period'].fillna(0, inplace=True)
 
-data.to_csv('E:/X-NSPS/Python - Scripting/pythonProject/xNSPS/GreenVolt/employees_info.csv')
+data.to_csv('E:/X-NSPS/Python - Scripting/pythonProject/xNSPS/GreenVolt/employees_info.csv', index=False)

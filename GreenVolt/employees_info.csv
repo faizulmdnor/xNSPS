@@ -1,608 +1,608 @@
-,emp_id,Username,First_Name,Last_Name,Gender,OriginCountry,Date_of_Birth,Date_Hired,Position,Department,Site,Site_Country,status,Age,Hired_period
-0,101005,hussian_jalal,Hussian,Jalal,Male,Malaysia,1967-04-07,2022-01-04,Chief Executive Officer,Executive Management,Kulim,Malaysia,active,57.0,2.0
-1,101006,allison_kim,Allison,Kim,Female,Guyana,1982-06-27,2024-07-21,Chief Information Officer,Executive Management,Kulim,Malaysia,active,42.0,0.0
-2,101007,gregory_velazquez,Gregory,Velazquez,Male,Luxembourg,1967-12-15,2023-07-11,Chief Financial Officer,Executive Management,Kulim,Malaysia,active,56.0,1.0
-3,101008,madison_ramirez,Madison,Ramirez,Female,Columbia,1991-03-31,2020-09-18,Kulim Site Manager,Site Management,Kulim,Malaysia,active,33.0,4.0
-4,101009,savannah_miller,Savannah,Miller,Female,Malaysia,1968-02-24,2021-08-01,Kuala Lumpur Site Manager,Site Management,Kuala Lumpur,Malaysia,active,56.0,3.0
-5,101010,amanda_ochoa,Amanda,Ochoa,Female,Namibia,1988-03-15,2023-12-19,Senai Site Manager,Site Management,Senai,Malaysia,active,36.0,0.0
-6,101011,melissa_meyer,Melissa,Meyer,Female,Indonesia,1978-10-04,2024-01-09,Surabaya Site Manager,Site Management,Surabaya,Indonesia,active,46.0,0.0
-7,101012,thaqif_salim,Thaqif,Salim,Male,Malaysia,1993-02-02,2022-01-26,Safety Manager,Safety,Senai,Malaysia,active,31.0,2.0
-8,101013,daniel_shamsul,Daniel,Shamsul,Male,Malaysia,2003-06-03,2020-08-23,Executive Management Engineer,Executive Management,Senai,Malaysia,active,21.0,4.0
-9,101014,hafiz_wahid,Hafiz,Wahid,Male,Indonesia,1981-12-19,2022-11-18,Information Technology Manager,Information Technology,Surabaya,Indonesia,active,42.0,1.0
-10,101015,thaqif_rizam,Thaqif,Rizam,Male,Indonesia,1982-10-05,2024-06-16,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,42.0,0.0
-11,101016,zainuddin_mohamad,Zainuddin,Mohamad,Male,Malaysia,1984-07-07,2022-11-19,Site Support Analyst,Site Support,Kuala Lumpur,Malaysia,active,40.0,1.0
-12,101017,zainuddin_rami,Zainuddin,Rami,Male,Malaysia,1979-07-15,2019-12-26,Site Support Executive,Site Support,Senai,Malaysia,active,45.0,4.0
-13,101018,fariz_idris,Fariz,Idris,Male,Malaysia,1975-07-06,2022-02-09,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,49.0,2.0
-14,101019,sulaiman_saad,Sulaiman,Saad,Male,Malaysia,1987-07-22,2022-07-23,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,37.0,2.0
-15,101020,luqman_omar,Luqman,Omar,Male,Malaysia,1986-07-22,2022-08-06,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,38.0,2.0
-16,101021,fadhil_shamsul,Fadhil,Shamsul,Male,Malaysia,1976-05-17,2022-05-05,Information Technology Manager,Information Technology,Kulim,Malaysia,active,48.0,2.0
-17,101022,junaid_zainuddin,Junaid,Zainuddin,Male,Indonesia,1973-09-02,2024-02-16,Site Support Manager,Site Support,Surabaya,Indonesia,active,51.0,0.0
-18,101023,ilham_zahid,Ilham,Zahid,Male,Malaysia,1989-12-18,2023-07-03,HR Executive,Human Resource,Kuala Lumpur,Malaysia,active,34.0,1.0
-19,101024,arif_rizki,Arif,Rizki,Male,Indonesia,1966-08-23,2020-09-07,HR Engineer,Human Resource,Surabaya,Indonesia,active,58.0,4.0
-20,101025,syafiq_safwan,Syafiq,Safwan,Male,Malaysia,1979-08-22,2022-12-22,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,45.0,1.0
-21,101026,haziq_zulkifli,Haziq,Zulkifli,Male,Malaysia,1980-10-05,2024-03-05,Site Management Manager,Site Management,Surabaya,Indonesia,active,44.0,0.0
-22,101027,ridwan_farhan,Ridwan,Farhan,Male,Malaysia,2005-06-15,2022-03-17,Engineering Engineer,Engineering,Surabaya,Indonesia,active,19.0,2.0
-23,101028,taufik_mustaqim,Taufik,Mustaqim,Male,Malaysia,1984-05-05,2022-05-19,Information Technology Manager,Information Technology,Kulim,Malaysia,active,40.0,2.0
-24,101029,qayyum_khalid,Qayyum,Khalid,Male,Indonesia,2001-12-17,2024-02-04,Site Management Manager,Site Management,Surabaya,Indonesia,active,22.0,0.0
-25,101030,nizamuddin_rizam,Nizamuddin,Rizam,Male,Malaysia,2004-12-01,2020-09-30,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,19.0,4.0
-26,101031,abid_zulkifli,Abid,Zulkifli,Male,Malaysia,1964-12-22,2019-12-13,Sales Executive,Sales,Surabaya,Indonesia,active,59.0,4.0
-27,101032,danish_arif,Danish,Arif,Male,Malaysia,1982-04-15,2022-07-23,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,42.0,2.0
-28,101033,omar_zainudeen,Omar,Zainudeen,Male,Malaysia,2002-12-06,2022-08-04,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,21.0,2.0
-29,101034,zikri_shamsul,Zikri,Shamsul,Male,Indonesia,2006-03-22,2021-11-21,Site Management Analyst,Site Management,Surabaya,Indonesia,active,18.0,2.0
-30,101035,ridwan_wahid,Ridwan,Wahid,Male,Malaysia,1968-05-04,2023-06-10,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,56.0,1.0
-31,101036,omar_zawawi,Omar,Zawawi,Male,Malaysia,1997-12-12,2020-09-08,Executive Management Executive,Executive Management,Kulim,Malaysia,active,26.0,4.0
-32,101037,khairul_yasin,Khairul,Yasin,Male,Malaysia,2000-08-18,2020-03-03,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,24.0,4.0
-33,101038,ihsan_rahman,Ihsan,Rahman,Male,Malaysia,2002-10-22,2020-07-25,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,22.0,4.0
-34,101039,haikal_basri,Haikal,Basri,Male,Malaysia,1998-06-03,2023-04-28,HR Analyst,Human Resource,Surabaya,Indonesia,active,26.0,1.0
-35,101040,ridwan_omar,Ridwan,Omar,Male,Malaysia,1978-09-13,2021-08-16,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,46.0,3.0
-36,101041,sufyan_irwan,Sufyan,Irwan,Male,Malaysia,1994-08-29,2024-05-08,Sales Executive,Sales,Senai,Malaysia,active,30.0,0.0
-37,101042,azzam_zainuddin,Azzam,Zainuddin,Male,Malaysia,2006-09-03,2020-12-10,Finance Engineer,Finance,Kulim,Malaysia,active,18.0,3.0
-38,101043,thaqif_saad,Thaqif,Saad,Male,Malaysia,1997-01-08,2022-06-13,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,27.0,2.0
-39,101044,jihan_wahid,Jihan,Wahid,Male,Indonesia,1985-10-13,2020-07-06,Finance Engineer,Finance,Surabaya,Indonesia,active,39.0,4.0
-40,101045,farid_syedmohammedjalal,Farid,Syed Mohammed Jalal,Male,Malaysia,1989-01-19,2024-05-03,Site Support Manager,Site Support,Kulim,Malaysia,active,35.0,0.0
-41,101046,haikal_rahman,Haikal,Rahman,Male,Malaysia,1988-02-26,2022-02-03,Sales Engineer,Sales,Senai,Malaysia,active,36.0,2.0
-42,101047,ikram_shahbaz,Ikram,Shahbaz,Male,Malaysia,1993-03-11,2022-05-16,Safety Engineer,Safety,Senai,Malaysia,active,31.0,2.0
-43,101048,bahar_pasha,Bahar,Pasha,Male,Malaysia,2003-09-05,2021-04-22,Engineering Analyst,Engineering,Senai,Malaysia,active,21.0,3.0
-44,101049,iqbal_tohir,Iqbal,Tohir,Male,Malaysia,1998-06-06,2023-05-29,Data Analysis Analyst,Data Analysis,Kulim,Malaysia,active,26.0,1.0
-45,101050,taufik_zulkifli,Taufik,Zulkifli,Male,Indonesia,1986-11-17,2020-01-19,Finance Executive,Finance,Surabaya,Indonesia,active,37.0,4.0
-46,101051,raziq_malik,Raziq,Malik,Male,Indonesia,1987-10-28,2021-05-17,Finance Executive,Finance,Surabaya,Indonesia,active,37.0,3.0
-47,101052,qudrat_hisham,Qudrat,Hisham,Male,Malaysia,1965-11-01,2024-02-06,Information Technology Analyst,Information Technology,Senai,Malaysia,active,59.0,0.0
-48,101053,saad_ahmad,Saad,Ahmad,Male,Indonesia,1965-07-26,2023-10-05,Finance Engineer,Finance,Surabaya,Indonesia,active,59.0,1.0
-49,101054,nizam_rami,Nizam,Rami,Male,Malaysia,1971-01-04,2021-09-19,Site Management Analyst,Site Management,Surabaya,Indonesia,active,53.0,3.0
-50,101055,mikhail_azman,Mikhail,Azman,Male,Malaysia,1974-07-11,2020-04-27,Information Technology Manager,Information Technology,Kuala Lumpur,Malaysia,active,50.0,4.0
-51,101056,shahir_mohammad,Shahir,Mohammad,Male,Malaysia,1979-02-17,2021-02-05,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,45.0,3.0
-52,101057,khodir_zahid,Khodir,Zahid,Male,Indonesia,1968-04-15,2024-07-27,Information Technology Executive,Information Technology,Surabaya,Indonesia,active,56.0,0.0
-53,101058,azhari_firas,Azhari,Firas,Male,Malaysia,1984-06-11,2023-05-20,Site Support Engineer,Site Support,Surabaya,Indonesia,active,40.0,1.0
-54,101059,bahtiar_syahril,Bahtiar,Syahril,Male,Malaysia,1972-10-30,2020-10-02,Sales Analyst,Sales,Senai,Malaysia,active,52.0,4.0
-55,101060,ikmal_bakar,Ikmal,Bakar,Male,Malaysia,1972-08-24,2024-01-16,HR Engineer,Human Resource,Senai,Malaysia,active,52.0,0.0
-56,101061,saad_nabil,Saad,Nabil,Male,Malaysia,1977-08-11,2023-04-10,Information Technology Analyst,Information Technology,Senai,Malaysia,active,47.0,1.0
-57,101062,zulfadli_bashir,Zulfadli,Bashir,Male,Malaysia,2002-01-01,2022-02-06,Executive Management Manager,Executive Management,Kulim,Malaysia,active,22.0,2.0
-58,101063,kamal_zahid,Kamal,Zahid,Male,Malaysia,1968-10-09,2021-10-01,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,56.0,3.0
-59,101064,thaqif_shamsul,Thaqif,Shamsul,Male,Indonesia,1975-11-26,2022-07-01,Engineering Analyst,Engineering,Surabaya,Indonesia,active,48.0,2.0
-60,101065,ihsan_farhan,Ihsan,Farhan,Male,Malaysia,2005-09-26,2023-10-03,Executive Management Analyst,Executive Management,Senai,Malaysia,active,19.0,1.0
-61,101066,omar_misbah,Omar,Misbah,Male,Malaysia,1975-10-28,2023-09-29,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,49.0,1.0
-62,101067,malik_yusof,Malik,Yusof,Male,Malaysia,1988-07-23,2022-03-10,Executive Management Analyst,Executive Management,Senai,Malaysia,active,36.0,2.0
-63,101068,mikhail_luqman,Mikhail,Luqman,Male,Malaysia,2001-07-03,2022-07-12,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,23.0,2.0
-64,101069,lutfi_umar,Lutfi,Umar,Male,Malaysia,1989-09-12,2022-03-15,Site Management Executive,Site Management,Kulim,Malaysia,active,35.0,2.0
-65,101070,rayyan_zulkarnain,Rayyan,Zulkarnain,Male,Indonesia,1995-02-13,2020-06-16,Sales Engineer,Sales,Surabaya,Indonesia,active,29.0,4.0
-66,101071,zulfadli_rizam,Zulfadli,Rizam,Male,Malaysia,1978-07-19,2021-01-08,Site Management Engineer,Site Management,Surabaya,Indonesia,active,46.0,3.0
-67,101072,farhan_bakar,Farhan,Bakar,Male,Malaysia,1979-08-25,2020-05-28,Site Management Manager,Site Management,Kulim,Malaysia,active,45.0,4.0
-68,101073,zulkarnain_mansor,Zulkarnain,Mansor,Male,Malaysia,1974-07-15,2022-12-16,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,50.0,1.0
-69,101074,farhan_mansor,Farhan,Mansor,Male,Malaysia,1986-11-24,2023-02-04,Executive Management Manager,Executive Management,Kuala Lumpur,Malaysia,active,37.0,1.0
-70,101075,khai_hafiz,Khai,Hafiz,Male,Indonesia,1983-01-10,2024-06-09,Safety Analyst,Safety,Surabaya,Indonesia,active,41.0,0.0
-71,101076,emran_shahrul,Emran,Shahrul,Male,Malaysia,1971-03-15,2022-03-20,Finance Manager,Finance,Kulim,Malaysia,active,53.0,2.0
-72,101077,danish_ibrahim,Danish,Ibrahim,Male,Malaysia,2001-10-08,2021-09-09,Engineering Executive,Engineering,Surabaya,Indonesia,active,23.0,3.0
-73,101078,bahar_zaman,Bahar,Zaman,Male,Malaysia,2006-08-23,2020-10-27,Sales Analyst,Sales,Kulim,Malaysia,active,18.0,4.0
-74,101079,firas_tajuddin,Firas,Tajuddin,Male,Malaysia,1995-01-31,2021-07-06,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,29.0,3.0
-75,101080,jazlan_nabil,Jazlan,Nabil,Male,Malaysia,1998-07-06,2021-01-14,Information Technology Executive,Information Technology,Kuala Lumpur,Malaysia,active,26.0,3.0
-76,101081,ramzi_rahman,Ramzi,Rahman,Male,Malaysia,1980-04-07,2024-07-18,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,44.0,0.0
-77,101082,aidan_firas,Aidan,Firas,Male,Malaysia,1997-02-24,2021-09-25,HR Executive,Human Resource,Surabaya,Indonesia,active,27.0,3.0
-78,101083,eshan_basri,Eshan,Basri,Male,Malaysia,1997-10-12,2024-12-09,Site Support Analyst,Site Support,Kulim,Malaysia,active,27.0,-1.0
-79,101084,farhan_hisham,Farhan,Hisham,Male,Malaysia,1991-10-15,2021-06-06,Executive Management Analyst,Executive Management,Surabaya,Indonesia,active,33.0,3.0
-80,101085,junaid_irwan,Junaid,Irwan,Male,Malaysia,2000-02-16,2020-10-08,Engineering Manager,Engineering,Surabaya,Indonesia,active,24.0,4.0
-81,101086,naim_safwan,Naim,Safwan,Male,Malaysia,1998-11-06,2024-01-31,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,25.0,0.0
-82,101087,wani_zaki,Wani,Zaki,Female,Malaysia,1990-02-16,2020-07-12,Safety Manager,Safety,Kulim,Malaysia,active,34.0,4.0
-83,101088,raniah_wahid,Raniah,Wahid,Female,Malaysia,1979-07-31,2021-07-21,Information Technology Analyst,Information Technology,Senai,Malaysia,active,45.0,3.0
-84,101089,zehra_hamid,Zehra,Hamid,Female,Malaysia,1967-04-29,2020-12-17,Engineering Executive,Engineering,Kuala Lumpur,Malaysia,active,57.0,3.0
-85,101090,amira_mahyudeen,Amira,Mahyudeen,Female,Malaysia,1978-11-22,2023-03-18,Sales Analyst,Sales,Kulim,Malaysia,active,45.0,1.0
-86,101091,syira_shamsul,Syira,Shamsul,Female,Indonesia,1999-03-26,2021-06-07,Site Management Analyst,Site Management,Surabaya,Indonesia,active,25.0,3.0
-87,101092,khairunnisa_mohamad,Khairunnisa,Mohamad,Female,Malaysia,1986-11-22,2023-12-05,Site Support Engineer,Site Support,Surabaya,Indonesia,active,37.0,0.0
-88,101093,azmira_mahmud,Azmira,Mahmud,Female,Malaysia,1979-08-22,2024-01-15,Site Management Manager,Site Management,Kuala Lumpur,Malaysia,active,45.0,0.0
-89,101094,hanis_rahman,Hanis,Rahman,Female,Malaysia,2000-09-15,2021-06-10,Finance Analyst,Finance,Senai,Malaysia,active,24.0,3.0
-90,101095,farisha_iskandar,Farisha,Iskandar,Female,Malaysia,1973-05-04,2020-05-30,Information Technology Engineer,Information Technology,Senai,Malaysia,active,51.0,4.0
-91,101096,intan_ali,Intan,Ali,Female,Malaysia,2003-08-17,2020-12-27,Engineering Manager,Engineering,Senai,Malaysia,active,21.0,3.0
-92,101097,darlina_noh,Darlina,Noh,Female,Malaysia,1988-12-30,2023-02-16,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,35.0,1.0
-93,101098,najwa_mahyudeen,Najwa,Mahyudeen,Female,Malaysia,1990-06-22,2021-07-21,Safety Executive,Safety,Senai,Malaysia,active,34.0,3.0
-94,101099,raniah_nabil,Raniah,Nabil,Female,Indonesia,1980-11-04,2024-02-24,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,44.0,0.0
-95,101100,aida_umar,Aida,Umar,Female,Malaysia,1981-02-01,2023-11-27,Site Management Analyst,Site Management,Kulim,Malaysia,active,43.0,0.0
-96,101101,veeradena_azzam,Veeradena,Azzam,Female,Indonesia,1967-05-31,2023-08-10,Sales Analyst,Sales,Surabaya,Indonesia,active,57.0,1.0
-97,101102,tasha_basri,Tasha,Basri,Female,Malaysia,1991-09-01,2020-01-01,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,33.0,4.0
-98,101103,najwa_zulkarnain,Najwa,Zulkarnain,Female,Malaysia,1973-07-12,2022-10-02,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,51.0,2.0
-99,101104,nabila_rizam,Nabila,Rizam,Female,Indonesia,1972-07-01,2023-08-30,Engineering Manager,Engineering,Surabaya,Indonesia,active,52.0,1.0
-100,101105,syafikah_safwan,Syafikah,Safwan,Female,Malaysia,1972-07-07,2024-10-09,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,52.0,0.0
-101,101106,jannah_nasir,Jannah,Nasir,Female,Malaysia,1978-07-24,2022-09-02,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,46.0,2.0
-102,101107,pusparatnasari_mizan,Puspa Ratnasari,Mizan,Female,Indonesia,1968-12-03,2023-11-01,Safety Engineer,Safety,Surabaya,Indonesia,active,55.0,1.0
-103,101108,zainab_sukiman,Zainab,Sukiman,Female,Malaysia,2000-05-23,2024-11-01,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,24.0,0.0
-104,101109,elina_karim,Elina,Karim,Female,Malaysia,1995-08-05,2023-06-13,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,29.0,1.0
-105,101110,fariha_iskandar,Fariha,Iskandar,Female,Indonesia,1982-01-19,2023-05-07,Data Analysis Manager,Data Analysis,Surabaya,Indonesia,active,42.0,1.0
-106,101111,zainab_rusli,Zainab,Rusli,Female,Malaysia,1979-09-24,2022-02-23,Site Support Manager,Site Support,Kulim,Malaysia,active,45.0,2.0
-107,101112,nadira_iskandar,Nadira,Iskandar,Female,Malaysia,1964-06-04,2021-06-19,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,60.0,3.0
-108,101113,shazwani_zainul,Shazwani,Zainul,Female,Malaysia,1983-08-07,2024-03-15,Sales Manager,Sales,Surabaya,Indonesia,active,41.0,0.0
-109,101114,sarimah_tajuddin,Sarimah,Tajuddin,Female,Malaysia,1972-08-31,2023-07-22,Safety Executive,Safety,Surabaya,Indonesia,active,52.0,1.0
-110,101115,syafira_syedmohammedjalal,Syafira,Syed Mohammed Jalal,Female,Malaysia,1977-02-13,2019-10-27,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,47.0,5.0
-111,101116,hani_ahmad,Hani,Ahmad,Female,Malaysia,1964-10-08,2020-12-04,Engineering Manager,Engineering,Surabaya,Indonesia,active,60.0,3.0
-112,101117,amira_zaman,Amira,Zaman,Female,Malaysia,1991-07-26,2023-03-01,Site Management Analyst,Site Management,Surabaya,Indonesia,active,33.0,1.0
-113,101118,sofiya_naim,Sofiya,Naim,Female,Malaysia,1979-04-20,2024-02-01,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,45.0,0.0
-114,101119,amani_amir,Amani,Amir,Female,Malaysia,1968-08-21,2021-08-23,Safety Analyst,Safety,Kuala Lumpur,Malaysia,active,56.0,3.0
-115,101120,amirah_rizki,Amirah,Rizki,Female,Malaysia,1976-05-20,2023-07-17,Site Management Manager,Site Management,Kulim,Malaysia,active,48.0,1.0
-116,101121,laila_zaki,Laila,Zaki,Female,Malaysia,1990-12-18,2023-03-14,Engineering Manager,Engineering,Kulim,Malaysia,active,33.0,1.0
-117,101122,wati_khairul,Wati,Khairul,Female,Malaysia,1989-05-25,2020-05-12,Data Analysis Analyst,Data Analysis,Kuala Lumpur,Malaysia,active,35.0,4.0
-118,101123,qistina_ahmad,Qistina,Ahmad,Female,Malaysia,1978-11-27,2024-03-19,Information Technology Engineer,Information Technology,Senai,Malaysia,active,45.0,0.0
-119,101124,wati_roslan,Wati,Roslan,Female,Malaysia,1990-02-03,2023-06-24,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,34.0,1.0
-120,101125,puteh_naim,Puteh,Naim,Female,Malaysia,1968-10-23,2022-02-16,Executive Management Executive,Executive Management,Kulim,Malaysia,active,56.0,2.0
-121,101126,zehra_safwan,Zehra,Safwan,Female,Malaysia,1987-05-17,2021-09-30,Safety Executive,Safety,Senai,Malaysia,active,37.0,3.0
-122,101127,safira_rudi,Safira,Rudi,Female,Malaysia,1981-04-20,2022-03-10,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,43.0,2.0
-123,101128,jannah_khairi,Jannah,Khairi,Female,Malaysia,1990-10-28,2020-09-29,Executive Management Manager,Executive Management,Senai,Malaysia,active,34.0,4.0
-124,101129,wani_khairul,Wani,Khairul,Female,Malaysia,1972-05-26,2020-03-16,Sales Executive,Sales,Kuala Lumpur,Malaysia,active,52.0,4.0
-125,101130,robiah_mazlan,Robiah,Mazlan,Female,Malaysia,1993-12-06,2024-04-25,Engineering Analyst,Engineering,Kulim,Malaysia,active,30.0,0.0
-126,101131,qilasuhaila_mazlan,Qila Suhaila,Mazlan,Female,Indonesia,1985-05-19,2020-09-11,Sales Executive,Sales,Surabaya,Indonesia,active,39.0,4.0
-127,101132,elisha_zaki,Elisha,Zaki,Female,Malaysia,1991-06-08,2019-08-11,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,33.0,5.0
-128,101133,tiara_salim,Tiara,Salim,Female,Malaysia,1992-07-02,2024-01-17,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,32.0,0.0
-129,101134,nurul_tohir,Nurul,Tohir,Female,Indonesia,1993-06-27,2022-03-05,HR Engineer,Human Resource,Surabaya,Indonesia,active,31.0,2.0
-130,101135,farisha_pasha,Farisha,Pasha,Female,Indonesia,2001-02-24,2023-06-15,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,23.0,1.0
-131,101136,iman_malik,Iman,Malik,Female,Indonesia,1980-11-11,2023-04-09,Safety Manager,Safety,Surabaya,Indonesia,active,43.0,1.0
-132,101137,veeradena_munir,Veeradena,Munir,Female,Malaysia,1985-01-21,2024-05-22,Information Technology Analyst,Information Technology,Senai,Malaysia,active,39.0,0.0
-133,101138,pusparatnasari_rizal,Puspa Ratnasari,Rizal,Female,Indonesia,1984-02-28,2021-02-19,Sales Executive,Sales,Surabaya,Indonesia,active,40.0,3.0
-134,101139,damia_firdaus,Damia,Firdaus,Female,Indonesia,1981-02-24,2023-09-24,Safety Manager,Safety,Surabaya,Indonesia,active,43.0,1.0
-135,101140,ummi_omar,Ummi,Omar,Female,Indonesia,1995-09-16,2022-07-10,Engineering Executive,Engineering,Surabaya,Indonesia,active,29.0,2.0
-136,101141,syarifah_ahmad,Syarifah,Ahmad,Female,Malaysia,1980-08-17,2022-09-01,Engineering Manager,Engineering,Senai,Malaysia,active,44.0,2.0
-137,101142,zalwani_johan,Zalwani,Johan,Female,Malaysia,1989-02-28,2022-10-30,Executive Management Manager,Executive Management,Senai,Malaysia,active,35.0,2.0
-138,101143,tasha_malik,Tasha,Malik,Female,Malaysia,1995-02-06,2021-10-22,Site Management Executive,Site Management,Kulim,Malaysia,active,29.0,3.0
-139,101144,mirafilzah_badri,Mira Filzah,Badri,Female,Malaysia,2001-03-05,2024-07-07,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,23.0,0.0
-140,101145,alisha_rizam,Alisha,Rizam,Female,Indonesia,1994-12-02,2023-04-03,Site Support Engineer,Site Support,Surabaya,Indonesia,active,29.0,1.0
-141,101146,tatisuriati_zainul,Tati Suriati,Zainul,Female,Malaysia,1984-04-15,2022-09-14,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,40.0,2.0
-142,101147,elisha_mizan,Elisha,Mizan,Female,Indonesia,1967-03-26,2024-02-16,Site Support Analyst,Site Support,Surabaya,Indonesia,active,57.0,0.0
-143,101148,hanis_shahin,Hanis,Shahin,Female,Malaysia,1967-03-31,2022-12-17,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,57.0,1.0
-144,101149,nuraina_rizam,Nuraina,Rizam,Female,Malaysia,2005-06-20,2020-10-29,Site Support Analyst,Site Support,Kulim,Malaysia,active,19.0,4.0
-145,101150,elina_idris,Elina,Idris,Female,Malaysia,1991-08-22,2020-12-17,Safety Manager,Safety,Kulim,Malaysia,active,33.0,3.0
-146,101151,thalia_rahman,Thalia,Rahman,Female,Malaysia,1965-12-12,2024-02-08,Information Technology Analyst,Information Technology,Kulim,Malaysia,active,58.0,0.0
-147,101152,yara_firas,Yara,Firas,Female,Malaysia,1976-08-28,2021-03-16,Safety Manager,Safety,Senai,Malaysia,active,48.0,3.0
-148,101153,veeradena_salim,Veeradena,Salim,Female,Malaysia,1977-05-20,2024-09-20,Executive Management Analyst,Executive Management,Senai,Malaysia,active,47.0,0.0
-149,101154,khairunnisa_firas,Khairunnisa,Firas,Female,Malaysia,2001-04-16,2020-09-26,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,23.0,4.0
-150,101155,tiara_khairi,Tiara,Khairi,Female,Malaysia,1965-02-11,2022-09-29,Sales Executive,Sales,Kuala Lumpur,Malaysia,active,59.0,2.0
-151,101156,qilasuhaila_hisham,Qila Suhaila,Hisham,Female,Malaysia,1965-09-26,2020-03-24,HR Executive,Human Resource,Senai,Malaysia,active,59.0,4.0
-152,101157,alia_kamal,Alia,Kamal,Female,Malaysia,1977-10-31,2020-08-28,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,47.0,4.0
-153,101158,nuraina_zaman,Nuraina,Zaman,Female,Malaysia,1998-03-29,2024-01-05,Site Support Executive,Site Support,Surabaya,Indonesia,active,26.0,0.0
-154,101159,kamila_zahir,Kamila,Zahir,Female,Malaysia,1980-01-18,2023-07-07,Information Technology Executive,Information Technology,Kulim,Malaysia,active,44.0,1.0
-155,101160,elina_wafi,Elina,Wafi,Female,Indonesia,1980-01-28,2023-09-28,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,44.0,1.0
-156,101161,sarina_kamal,Sarina,Kamal,Female,Malaysia,1975-12-18,2023-02-21,Information Technology Executive,Information Technology,Senai,Malaysia,active,48.0,1.0
-157,101162,dinesh_sivasubramaniam,Dinesh ,Sivasubramaniam,Male,Malaysia,1975-08-23,2019-10-29,Site Management Engineer,Site Management,Senai,Malaysia,active,49.0,5.0
-158,101163,ravikumar_sivasubramaniam,Ravi Kumar ,Sivasubramaniam,Male,Malaysia,1987-07-30,2023-06-09,Executive Management Analyst,Executive Management,Senai,Malaysia,active,37.0,1.0
-159,101164,rajeshreddy_balakrishnan,Rajesh Reddy ,Balakrishnan,Male,Malaysia,1987-11-22,2024-01-14,Site Management Executive,Site Management,Kuala Lumpur,Malaysia,active,36.0,0.0
-160,101165,balaji_ramasamy,Balaji ,Ramasamy,Male,Malaysia,1987-10-20,2024-03-18,Data Analysis Executive,Data Analysis,Kuala Lumpur,Malaysia,active,37.0,0.0
-161,101166,karthik_vellayan,Karthik ,Vellayan,Male,Malaysia,1987-02-12,2021-08-11,Safety Manager,Safety,Surabaya,Indonesia,active,37.0,3.0
-162,101167,harish_arumugam,Harish ,Arumugam,Male,Malaysia,1978-03-08,2020-05-15,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,46.0,4.0
-163,101168,harish_ramalingam,Harish ,Ramalingam,Male,Malaysia,1990-06-04,2023-07-23,Site Support Analyst,Site Support,Senai,Malaysia,active,34.0,1.0
-164,101169,surendran_rajesh,Surendran ,Rajesh,Male,Malaysia,2005-08-03,2024-04-19,Safety Analyst,Safety,Kuala Lumpur,Malaysia,active,19.0,0.0
-165,101170,uthaya_venkatesan,Uthaya ,Venkatesan,Male,Malaysia,1983-06-28,2021-11-07,Sales Engineer,Sales,Senai,Malaysia,active,41.0,2.0
-166,101171,ajith_sundararajan,Ajith ,Sundararajan,Female,Malaysia,1973-11-25,2020-12-14,Site Management Engineer,Site Management,Surabaya,Indonesia,inactive,50.0,3.0
-167,101172,thamilselvan_rajendran,Thamil Selvan ,Rajendran,Male,Malaysia,1974-08-02,2021-07-22,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,50.0,3.0
-168,101173,suresh_murugan,Suresh ,Murugan,Male,Malaysia,1975-07-16,2022-06-09,Executive Management Manager,Executive Management,Kuala Lumpur,Malaysia,active,49.0,2.0
-169,101174,balaji_thirunavukarasu,Balaji ,Thirunavukarasu,Male,Malaysia,2005-04-13,2020-01-20,Safety Engineer,Safety,Kulim,Malaysia,active,19.0,4.0
-170,101175,rajeshreddy_ramalingam,Rajesh Reddy ,Ramalingam,Male,Malaysia,1993-02-03,2021-02-02,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,31.0,3.0
-171,101176,prakash_palani,Prakash ,Palani,Female,Malaysia,1991-08-13,2022-01-28,Sales Analyst,Sales,Kulim,Malaysia,active,33.0,2.0
-172,101177,aiyappan_balakrishnan,Aiyappan ,Balakrishnan,Male,Malaysia,1981-11-30,2024-02-09,Finance Engineer,Finance,Surabaya,Indonesia,active,42.0,0.0
-173,101178,prakash_subash,Prakash ,Subash,Male,Malaysia,1995-07-09,2020-04-01,Sales Executive,Sales,Senai,Malaysia,active,29.0,4.0
-174,101179,mahesh_venkatesan,Mahesh ,Venkatesan,Male,Malaysia,1966-01-18,2022-10-22,Sales Manager,Sales,Senai,Malaysia,active,58.0,2.0
-175,101180,nadarajah_jayakumar,Nadarajah ,Jayakumar,Female,Malaysia,1968-07-31,2024-04-01,HR Manager,Human Resource,Kulim,Malaysia,active,56.0,0.0
-176,101181,ajith_vellayan,Ajith ,Vellayan,Male,Malaysia,1993-07-02,2023-07-22,Engineering Engineer,Engineering,Kuala Lumpur,Malaysia,active,31.0,1.0
-177,101182,surendran_marimuthu,Surendran ,Marimuthu,Male,Malaysia,1992-03-25,2021-10-14,Finance Analyst,Finance,Kuala Lumpur,Malaysia,active,32.0,3.0
-178,101183,ramesh_thangavelu,Ramesh ,Thangavelu,Male,Malaysia,2005-07-03,2022-04-05,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,19.0,2.0
-179,101184,kumaravel_narasimhan,Kumaravel ,Narasimhan,Male,Malaysia,1986-05-29,2020-01-28,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,38.0,4.0
-180,101185,dinesh_palanisamy,Dinesh ,Palanisamy,Male,Malaysia,1984-02-04,2022-11-25,Sales Manager,Sales,Surabaya,Indonesia,active,40.0,1.0
-181,101186,uthaya_murugan,Uthaya ,Murugan,Male,Malaysia,1965-05-24,2020-03-24,Executive Management Executive,Executive Management,Senai,Malaysia,active,59.0,4.0
-182,101187,anand_vellayan,Anand ,Vellayan,Male,Malaysia,1983-10-26,2019-12-16,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,41.0,4.0
-183,101188,ravikumar_ramasamy,Ravi Kumar ,Ramasamy,Male,Malaysia,2004-09-27,2023-11-17,Executive Management Manager,Executive Management,Senai,Malaysia,active,20.0,0.0
-184,101189,surendran_kanna,Surendran ,Kanna,Male,Malaysia,1969-06-28,2023-03-22,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,55.0,1.0
-185,101190,praveen_govindasamy,Praveen ,Govindasamy,Male,Malaysia,2006-05-17,2024-08-21,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,18.0,0.0
-186,101191,premkumar_kanna,Prem Kumar ,Kanna,Male,Malaysia,2000-02-09,2023-08-19,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,24.0,1.0
-187,101192,surendran_marimuthu1,Surendran ,Marimuthu,Male,Malaysia,2006-03-03,2022-10-10,Site Management Engineer,Site Management,Surabaya,Indonesia,active,18.0,2.0
-188,101193,mahesh_subash,Mahesh ,Subash,Male,Malaysia,1992-11-03,2023-09-05,Sales Executive,Sales,Senai,Malaysia,active,32.0,1.0
-189,101194,nadarajah_kanna,Nadarajah ,Kanna,Female,Malaysia,1991-09-24,2023-08-10,Site Support Engineer,Site Support,Kulim,Malaysia,active,33.0,1.0
-190,101195,anand_ramachandran,Anand ,Ramachandran,Male,Malaysia,1969-12-20,2024-07-29,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,54.0,0.0
-191,101196,arjun_narayanan,Arjun ,Narayanan,Male,Malaysia,1993-12-18,2020-01-19,Engineering Manager,Engineering,Senai,Malaysia,active,30.0,4.0
-192,101197,santhosh_thirunavukarasu,Santhosh ,Thirunavukarasu,Male,Malaysia,2001-08-19,2023-04-19,Information Technology Manager,Information Technology,Senai,Malaysia,active,23.0,1.0
-193,101198,vinay_sundararajan,Vinay ,Sundararajan,Male,Malaysia,2003-11-14,2024-02-14,Sales Engineer,Sales,Surabaya,Indonesia,active,20.0,0.0
-194,101199,ram_dhanapal,Ram ,Dhanapal,Male,Malaysia,1990-03-07,2024-04-24,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,34.0,0.0
-195,101200,praveen_ramasamy,Praveen ,Ramasamy,Male,Malaysia,1995-01-20,2024-04-02,Engineering Analyst,Engineering,Kulim,Malaysia,active,29.0,0.0
-196,101201,senthil_arumugam,Senthil ,Arumugam,Female,Malaysia,1987-06-10,2023-01-21,Information Technology Analyst,Information Technology,Kulim,Malaysia,active,37.0,1.0
-197,101202,rajendran_sivasubramaniam,Rajendran ,Sivasubramaniam,Male,Malaysia,1975-07-17,2022-07-15,Site Management Analyst,Site Management,Surabaya,Indonesia,active,49.0,2.0
-198,101203,surendran_govindasamy,Surendran ,Govindasamy,Male,Malaysia,1998-09-04,2024-08-28,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,26.0,0.0
-199,101204,prakash_marimuthu,Prakash ,Marimuthu,Male,Malaysia,1983-06-17,2023-05-23,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,41.0,1.0
-200,101205,rajendran_muthusamy,Rajendran ,Muthusamy,Male,Malaysia,1976-09-12,2022-02-24,Finance Analyst,Finance,Senai,Malaysia,active,48.0,2.0
-201,101206,arjun_muthusamy,Arjun ,Muthusamy,Male,Malaysia,1999-11-18,2020-09-04,Executive Management Executive,Executive Management,Kuala Lumpur,Malaysia,active,24.0,4.0
-202,101207,vikas_govindasamy,Vikas ,Govindasamy,Female,Malaysia,1985-02-12,2021-09-28,HR Executive,Human Resource,Kulim,Malaysia,active,39.0,3.0
-203,101208,ramesh_palani,Ramesh ,Palani,Male,Malaysia,1994-11-19,2021-10-08,Safety Executive,Safety,Kulim,Malaysia,active,29.0,3.0
-204,101209,balaji_muthusamy,Balaji ,Muthusamy,Male,Malaysia,1994-04-21,2023-12-21,HR Engineer,Human Resource,Senai,Malaysia,active,30.0,0.0
-205,101210,vignesh_sivasubramaniam,Vignesh ,Sivasubramaniam,Female,Malaysia,1997-02-08,2023-06-21,Safety Engineer,Safety,Kulim,Malaysia,active,27.0,1.0
-206,101211,ravikumar_jayakumar,Ravi Kumar ,Jayakumar,Male,Malaysia,1984-10-22,2021-09-08,Safety Engineer,Safety,Kulim,Malaysia,active,40.0,3.0
-207,101212,mohan_palani,Mohan ,Palani,Male,Malaysia,1994-12-11,2020-04-26,Site Management Analyst,Site Management,Kulim,Malaysia,active,29.0,4.0
-208,101213,santhosh_jayakumar,Santhosh ,Jayakumar,Male,Malaysia,1975-01-01,2023-01-20,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,49.0,1.0
-209,101214,prakash_balakrishnan,Prakash ,Balakrishnan,Male,Malaysia,2001-07-07,2023-06-06,Site Support Manager,Site Support,Senai,Malaysia,active,23.0,1.0
-210,101215,uthaya_venkatesan1,Uthaya ,Venkatesan,Male,Malaysia,1965-12-25,2023-06-19,Site Support Engineer,Site Support,Surabaya,Indonesia,active,58.0,1.0
-211,101216,sathish_dhanapal,Sathish ,Dhanapal,Male,Malaysia,1988-09-19,2022-10-20,HR Executive,Human Resource,Surabaya,Indonesia,active,36.0,2.0
-212,101217,praveen_ganesan,Praveen ,Ganesan,Male,Malaysia,1980-05-06,2021-07-21,Data Analysis Analyst,Data Analysis,Kuala Lumpur,Malaysia,active,44.0,3.0
-213,101218,jagan_subash,Jagan ,Subash,Male,Malaysia,1995-05-08,2024-01-23,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,29.0,0.0
-214,101219,kannan_dhanapal,Kannan ,Dhanapal,Male,Malaysia,1980-03-30,2020-09-22,Engineering Engineer,Engineering,Surabaya,Indonesia,active,44.0,4.0
-215,101220,senthil_vellayan,Senthil ,Vellayan,Male,Malaysia,1968-12-05,2024-08-31,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,55.0,0.0
-216,101221,vicnesswary_ramachandran,Vicnesswary,Ramachandran,Female,Malaysia,2005-05-09,2024-03-04,Finance Analyst,Finance,Kulim,Malaysia,active,19.0,0.0
-217,101222,vinay_chandra,Vinay ,Chandra,Male,Malaysia,1994-03-07,2021-07-02,Site Management Manager,Site Management,Surabaya,Indonesia,active,30.0,3.0
-218,101223,sathish_ramachandran,Sathish ,Ramachandran,Male,Malaysia,1969-10-22,2020-05-14,HR Manager,Human Resource,Surabaya,Indonesia,active,55.0,4.0
-219,101224,sathish_ramu,Sathish ,Ramu,Male,Malaysia,1996-06-23,2021-10-25,Data Analysis Manager,Data Analysis,Surabaya,Indonesia,active,28.0,3.0
-220,101225,ajith_palani,Ajith ,Palani,Female,Malaysia,1996-10-29,2023-08-17,Executive Management Executive,Executive Management,Surabaya,Indonesia,active,28.0,1.0
-221,101226,anand_marimuthu,Anand ,Marimuthu,Male,Malaysia,1997-12-17,2022-10-24,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,26.0,2.0
-222,101227,ravikumar_kanna,Ravi Kumar ,Kanna,Male,Malaysia,1990-01-20,2020-12-11,Site Management Analyst,Site Management,Kulim,Malaysia,active,34.0,3.0
-223,101228,prakash_arumugam,Prakash ,Arumugam,Male,Malaysia,2001-04-16,2020-11-01,Engineering Executive,Engineering,Kulim,Malaysia,active,23.0,4.0
-224,101229,prakash_somasundaram,Prakash ,Somasundaram,Male,Malaysia,1989-03-02,2020-02-28,HR Executive,Human Resource,Surabaya,Indonesia,active,35.0,4.0
-225,101230,vinay_murugan,Vinay ,Murugan,Male,Malaysia,1981-02-27,2021-09-10,Executive Management Engineer,Executive Management,Senai,Malaysia,active,43.0,3.0
-226,101231,vinay_arumugam,Vinay ,Arumugam,Male,Malaysia,1986-11-21,2020-06-10,Engineering Analyst,Engineering,Kuala Lumpur,Malaysia,active,37.0,4.0
-227,101232,senthil_arumugam1,Senthil ,Arumugam,Male,Malaysia,1969-04-06,2021-07-09,Safety Executive,Safety,Surabaya,Indonesia,active,55.0,3.0
-228,101233,ganeshpillai_ramasamy,Ganesh Pillai ,Ramasamy,Male,Malaysia,1968-07-30,2019-12-15,Site Management Engineer,Site Management,Surabaya,Indonesia,active,56.0,4.0
-229,101234,surya_ramu,Surya ,Ramu,Female,Malaysia,1990-01-31,2021-03-08,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,34.0,3.0
-230,101235,rishi_govindasamy,Rishi ,Govindasamy,Female,Malaysia,1985-01-17,2021-02-08,Site Support Executive,Site Support,Kuala Lumpur,Malaysia,active,39.0,3.0
-231,101236,vinod_ramu,Vinod ,Ramu,Male,Malaysia,2005-03-26,2021-03-16,Sales Engineer,Sales,Surabaya,Indonesia,active,19.0,3.0
-232,101237,aiyappan_dhanapal,Aiyappan ,Dhanapal,Male,Malaysia,1990-12-17,2023-02-04,Site Support Executive,Site Support,Surabaya,Indonesia,active,33.0,1.0
-233,101238,mohan_thangavelu,Mohan ,Thangavelu,Male,Malaysia,1971-08-31,2020-09-01,Sales Engineer,Sales,Senai,Malaysia,active,53.0,4.0
-234,101239,suresh_balasubramanian,Suresh ,Balasubramanian,Male,Malaysia,1988-01-26,2019-10-18,Site Management Manager,Site Management,Kuala Lumpur,Malaysia,active,36.0,5.0
-235,101240,ganeshpillai_saravanan,Ganesh Pillai ,Saravanan,Male,Malaysia,1966-05-23,2021-06-05,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,58.0,3.0
-236,101241,uthaya_saravanan,Uthaya ,Saravanan,Male,Malaysia,1979-11-12,2021-09-16,Sales Executive,Sales,Surabaya,Indonesia,active,44.0,3.0
-237,101242,rajeshreddy_chandra,Rajesh Reddy ,Chandra,Male,Malaysia,1965-04-20,2022-01-08,Engineering Analyst,Engineering,Surabaya,Indonesia,active,59.0,2.0
-238,101243,senthil_muthusamy,Senthil ,Muthusamy,Male,Malaysia,1981-01-26,2020-09-29,HR Manager,Human Resource,Senai,Malaysia,active,43.0,4.0
-239,101244,nadarajah_krishnan,Nadarajah ,Krishnan,Male,Malaysia,1984-07-20,2021-12-29,Site Support Manager,Site Support,Kulim,Malaysia,active,40.0,2.0
-240,101245,vinod_somasundaram,Vinod ,Somasundaram,Male,Malaysia,1989-12-27,2020-09-19,Safety Executive,Safety,Surabaya,Indonesia,active,34.0,4.0
-241,101246,senthil_ramalingam,Senthil ,Ramalingam,Male,Malaysia,1996-01-21,2021-01-25,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,28.0,3.0
-242,101247,vinay_dhanapal,Vinay ,Dhanapal,Male,Malaysia,1995-03-14,2020-02-23,Engineering Executive,Engineering,Kuala Lumpur,Malaysia,active,29.0,4.0
-243,101248,kumaravel_subramaniam,Kumaravel ,Subramaniam,Male,Malaysia,1989-10-26,2020-08-05,Safety Executive,Safety,Senai,Malaysia,active,35.0,4.0
-244,101249,aiyappan_narasimhan,Aiyappan ,Narasimhan,Male,Malaysia,2001-10-04,2021-08-02,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,23.0,3.0
-245,101250,vikas_narasimhan,Vikas ,Narasimhan,Male,Malaysia,1995-09-20,2022-03-28,Site Support Engineer,Site Support,Surabaya,Indonesia,active,29.0,2.0
-246,101251,karthik_nadarajah,Karthik ,Nadarajah,Male,Malaysia,1989-06-11,2020-12-19,Finance Executive,Finance,Kuala Lumpur,Malaysia,active,35.0,3.0
-247,101252,vinod_subash,Vinod ,Subash,Male,Malaysia,1985-08-07,2020-09-01,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,39.0,4.0
-248,101253,ramesh_ponnusamy,Ramesh ,Ponnusamy,Male,Malaysia,1998-07-07,2022-12-01,Engineering Executive,Engineering,Senai,Malaysia,active,26.0,1.0
-249,101254,karthik_kuppusamy,Karthik ,Kuppusamy,Male,Malaysia,1976-08-02,2023-06-04,Safety Analyst,Safety,Surabaya,Indonesia,active,48.0,1.0
-250,101255,manikandan_subramaniam,Manikandan ,Subramaniam,Male,Malaysia,1970-11-28,2023-05-31,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,53.0,1.0
-251,101256,kumaravel_kalyanasundaram,Kumaravel ,Kalyanasundaram,Male,Malaysia,1994-02-28,2022-04-21,Site Support Executive,Site Support,Kulim,Malaysia,active,30.0,2.0
-252,101257,karthik_saravanan,Karthik ,Saravanan,Male,Malaysia,1983-12-12,2022-10-03,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,40.0,2.0
-253,101258,surya_vellayan,Surya ,Vellayan,Male,Malaysia,1977-08-17,2022-06-13,HR Manager,Human Resource,Senai,Malaysia,active,47.0,2.0
-254,101259,praveen_ramu,Praveen ,Ramu,Male,Malaysia,2004-02-25,2021-09-18,Site Support Executive,Site Support,Surabaya,Indonesia,active,20.0,3.0
-255,101260,sharmila_govindasamy,Sharmila,Govindasamy,Female,Malaysia,1981-06-24,2020-11-22,Site Management Manager,Site Management,Kulim,Malaysia,active,43.0,3.0
-256,101261,balasubramaniam_krishnan,Balasubramaniam,Krishnan,Male,Malaysia,1984-05-22,2022-04-04,Site Support Executive,Site Support,Kulim,Malaysia,active,40.0,2.0
-257,101262,nadarajah_somasundaram,Nadarajah ,Somasundaram,Female,Malaysia,1990-09-14,2024-10-16,Information Technology Engineer,Information Technology,Senai,Malaysia,active,34.0,0.0
-258,101263,premkumar_somasundaram,Prem Kumar ,Somasundaram,Male,Malaysia,2001-12-02,2022-02-28,Sales Engineer,Sales,Surabaya,Indonesia,active,22.0,2.0
-259,101264,vikas_sivasubramaniam,Vikas ,Sivasubramaniam,Female,Malaysia,1998-10-21,2020-12-07,Site Support Engineer,Site Support,Surabaya,Indonesia,active,26.0,3.0
-260,101265,ashiwara_kanna,Ashiwara,Kanna,Female,Malaysia,1990-12-23,2023-09-09,Finance Engineer,Finance,Kulim,Malaysia,active,33.0,1.0
-261,101266,vikas_sundararajan,Vikas ,Sundararajan,Female,Malaysia,1984-11-05,2021-11-12,Site Support Executive,Site Support,Kuala Lumpur,Malaysia,active,39.0,2.0
-262,101267,kumaravel_narasimhan1,Kumaravel ,Narasimhan,Male,Malaysia,1974-10-25,2023-09-02,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,50.0,1.0
-263,101268,uthaya_ramachandran,Uthaya ,Ramachandran,Female,Malaysia,1974-03-14,2021-01-01,Information Technology Manager,Information Technology,Senai,Malaysia,active,50.0,3.0
-264,101269,manikandan_ponnusamy,Manikandan ,Ponnusamy,Male,Malaysia,1972-02-07,2019-12-25,Site Management Manager,Site Management,Surabaya,Indonesia,active,52.0,4.0
-265,101270,suresh_jayakumar,Suresh ,Jayakumar,Male,Malaysia,1989-05-01,2023-08-14,Finance Executive,Finance,Kulim,Malaysia,active,35.0,1.0
-266,101271,ganeshpillai_ramachandran,Ganesh Pillai ,Ramachandran,Male,Malaysia,2002-12-16,2021-09-21,HR Analyst,Human Resource,Kulim,Malaysia,active,21.0,3.0
-267,101272,praveen_sundararajan,Praveen ,Sundararajan,Male,Malaysia,1980-02-24,2021-11-20,Site Support Analyst,Site Support,Surabaya,Indonesia,active,44.0,2.0
-268,101273,arvindsingh_venkatesan,Arvind Singh ,Venkatesan,Female,Malaysia,1971-11-27,2024-04-25,Safety Analyst,Safety,Senai,Malaysia,active,52.0,0.0
-269,101274,raghavan_ramalingam,Raghavan ,Ramalingam,Male,Malaysia,1966-02-21,2022-10-26,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,58.0,2.0
-270,101275,nadarajah_chandra,Nadarajah ,Chandra,Male,Malaysia,1963-12-29,2022-10-10,Information Technology Analyst,Information Technology,Senai,Malaysia,active,60.0,2.0
-271,101276,harish_muthusamy,Harish ,Muthusamy,Male,Malaysia,1980-10-11,2023-08-31,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,44.0,1.0
-272,101277,kannan_saravanan,Kannan ,Saravanan,Male,Malaysia,1997-10-19,2020-02-27,Site Management Analyst,Site Management,Surabaya,Indonesia,active,27.0,4.0
-273,101278,vignesh_ramasamy,Vignesh ,Ramasamy,Male,Malaysia,2006-08-21,2024-09-23,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,18.0,0.0
-274,101279,surya_chandra,Surya ,Chandra,Female,Malaysia,1981-03-05,2024-05-30,Site Support Executive,Site Support,Surabaya,Indonesia,active,43.0,0.0
-275,101280,manikandan_murugan,Manikandan ,Murugan,Male,Malaysia,1994-06-12,2020-09-17,Engineering Analyst,Engineering,Kuala Lumpur,Malaysia,active,30.0,4.0
-276,101281,nadarajah_ramasamy,Nadarajah ,Ramasamy,Male,Malaysia,1996-08-04,2019-10-21,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,28.0,5.0
-277,101282,harish_kanna,Harish ,Kanna,Male,Malaysia,2001-01-24,2023-08-30,Site Support Executive,Site Support,Kulim,Malaysia,active,23.0,1.0
-278,101283,suresh_sivasubramaniam,Suresh ,Sivasubramaniam,Male,Malaysia,1984-04-21,2023-04-20,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,40.0,1.0
-279,101284,ramesh_muthusamy,Ramesh ,Muthusamy,Male,Malaysia,1971-06-09,2022-11-06,Finance Executive,Finance,Kulim,Malaysia,active,53.0,1.0
-280,101285,balaji_rajendran,Balaji ,Rajendran,Female,Malaysia,1998-07-30,2023-11-19,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,26.0,0.0
-281,101286,surya_thirunavukarasu,Surya ,Thirunavukarasu,Female,Malaysia,2004-02-01,2021-07-07,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,20.0,3.0
-282,101287,thamilselvan_saravanan,Thamil Selvan ,Saravanan,Male,Malaysia,1997-08-14,2022-03-30,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,27.0,2.0
-283,101288,surya_ramachandran,Surya ,Ramachandran,Female,Malaysia,1975-09-17,2022-12-26,Site Management Engineer,Site Management,Surabaya,Indonesia,active,49.0,1.0
-284,101289,karthik_marimuthu,Karthik ,Marimuthu,Female,Malaysia,2001-11-11,2021-10-20,Site Management Manager,Site Management,Surabaya,Indonesia,active,22.0,3.0
-285,101290,vikas_narasimhan1,Vikas ,Narasimhan,Female,Malaysia,1984-12-10,2021-02-03,Executive Management Executive,Executive Management,Kuala Lumpur,Malaysia,active,39.0,3.0
-286,101291,raghavan_sivasubramaniam,Raghavan ,Sivasubramaniam,Male,Malaysia,2003-04-29,2021-05-29,Data Analysis Executive,Data Analysis,Kuala Lumpur,Malaysia,active,21.0,3.0
-287,101292,ravikumar_govindasamy,Ravi Kumar ,Govindasamy,Male,Malaysia,2005-02-06,2022-07-24,Finance Engineer,Finance,Surabaya,Indonesia,active,19.0,2.0
-288,101293,harish_balakrishnan,Harish ,Balakrishnan,Male,Malaysia,1988-02-22,2020-03-13,Site Support Manager,Site Support,Surabaya,Indonesia,active,36.0,4.0
-289,101294,suresh_balakrishnan,Suresh ,Balakrishnan,Male,Malaysia,1990-06-19,2021-08-19,Finance Analyst,Finance,Kulim,Malaysia,active,34.0,3.0
-290,101295,thamilselvan_murugan,Thamil Selvan ,Murugan,Male,Malaysia,1993-12-01,2021-03-20,Site Support Engineer,Site Support,Kulim,Malaysia,active,30.0,3.0
-291,101296,jagan_narayanan,Jagan ,Narayanan,Male,Malaysia,1993-10-12,2022-12-27,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,31.0,1.0
-292,101297,vinay_dhanapal1,Vinay ,Dhanapal,Male,Malaysia,1972-06-08,2023-08-06,Site Management Manager,Site Management,Kulim,Malaysia,active,52.0,1.0
-293,101298,suresh_palanisamy,Suresh ,Palanisamy,Male,Malaysia,1965-07-26,2020-12-20,Finance Engineer,Finance,Kulim,Malaysia,active,59.0,3.0
-294,101299,vijaya_subash,Vijaya,Subash,Male,Malaysia,1979-03-28,2024-09-24,Finance Executive,Finance,Kulim,Malaysia,active,45.0,0.0
-295,101300,manikandan_murugan1,Manikandan ,Murugan,Male,Malaysia,1972-08-21,2023-03-30,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,52.0,1.0
-296,101301,kumaravel_narasimhan12,Kumaravel ,Narasimhan,Male,Malaysia,1970-06-20,2023-03-08,Site Management Analyst,Site Management,Senai,Malaysia,active,54.0,1.0
-297,101302,rishi_venkatesan,Rishi ,Venkatesan,Female,Malaysia,2000-12-07,2022-10-25,HR Analyst,Human Resource,Senai,Malaysia,active,23.0,2.0
-298,101303,sathish_nadarajah,Sathish ,Nadarajah,Male,Malaysia,1977-08-27,2023-11-14,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,47.0,0.0
-299,101304,kannan_chandra,Kannan ,Chandra,Male,Malaysia,1997-01-07,2024-11-04,Site Support Engineer,Site Support,Surabaya,Indonesia,active,27.0,0.0
-300,101305,mohan_venkatesan,Mohan ,Venkatesan,Male,Malaysia,1986-10-24,2024-04-20,Information Technology Engineer,Information Technology,Senai,Malaysia,active,38.0,0.0
-301,101306,manikandan_narasimhan,Manikandan ,Narasimhan,Male,Malaysia,1988-01-14,2020-04-10,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,36.0,4.0
-302,101307,ajith_jayakumar,Ajith ,Jayakumar,Male,Malaysia,1972-12-07,2021-07-08,Safety Engineer,Safety,Surabaya,Indonesia,active,51.0,3.0
-303,101308,senthil_subash,Senthil ,Subash,Male,Malaysia,1978-05-14,2023-03-18,Safety Engineer,Safety,Senai,Malaysia,active,46.0,1.0
-304,101309,praveen_narasimhan,Praveen ,Narasimhan,Male,Malaysia,1989-11-23,2024-03-01,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,34.0,0.0
-305,101310,mahesh_subramaniam,Mahesh ,Subramaniam,Male,Malaysia,1980-03-29,2020-09-15,Information Technology Executive,Information Technology,Kulim,Malaysia,active,44.0,4.0
-306,101311,vinay_chandra1,Vinay ,Chandra,Male,Malaysia,1991-05-18,2019-06-12,Sales Engineer,Sales,Kulim,Malaysia,active,33.0,5.0
-307,101312,hongjoon_tan,Hong Joon,Tan,Female,Malaysia,1963-12-23,2023-11-05,Safety Executive,Safety,Kuala Lumpur,Malaysia,active,60.0,0.0
-308,101313,weicheng_low,Wei Cheng,Low,Male,Malaysia,1987-05-12,2023-11-04,Executive Management Analyst,Executive Management,Kulim,Malaysia,active,37.0,1.0
-309,101314,szewei_chua,Sze Wei,Chua,Female,Malaysia,1991-12-30,2023-05-14,Site Management Analyst,Site Management,Surabaya,Indonesia,active,32.0,1.0
-310,101315,choonmei_lim,Choon Mei,Lim,Female,Malaysia,1978-07-01,2024-08-14,Site Management Manager,Site Management,Senai,Malaysia,active,46.0,0.0
-311,101316,liping_lim,Li Ping,Lim,Female,Malaysia,1968-10-03,2024-10-01,Sales Analyst,Sales,Senai,Malaysia,active,56.0,0.0
-312,101317,zhiwei_wong,Zhi Wei,Wong,Female,Malaysia,1983-05-11,2023-02-27,Engineering Analyst,Engineering,Surabaya,Indonesia,active,41.0,1.0
-313,101318,yewjin_lim,Yew Jin,Lim,Female,Malaysia,1988-01-30,2023-04-05,Safety Manager,Safety,Senai,Malaysia,active,36.0,1.0
-314,101319,liping_ong,Li Ping,Ong,Female,Malaysia,1984-02-09,2021-11-24,Site Management Executive,Site Management,Kuala Lumpur,Malaysia,active,40.0,2.0
-315,101320,cheeseng_sim,Chee Seng,Sim,Female,Malaysia,1988-11-16,2024-08-30,Sales Engineer,Sales,Surabaya,Indonesia,active,35.0,0.0
-316,101321,yewjin_tan,Yew Jin,Tan,Female,Malaysia,1990-03-12,2021-05-06,Engineering Analyst,Engineering,Kuala Lumpur,Malaysia,active,34.0,3.0
-317,101322,aiyu_leong,Ai Yu,Leong,Female,Malaysia,1993-06-21,2023-03-14,Sales Analyst,Sales,Surabaya,Indonesia,active,31.0,1.0
-318,101323,yiting_ong,Yi Ting,Ong,Female,Malaysia,1980-12-31,2021-05-13,Engineering Manager,Engineering,Kulim,Malaysia,active,43.0,3.0
-319,101324,xinfang_low,Xin Fang,Low,Male,Malaysia,1998-10-09,2020-06-21,Engineering Executive,Engineering,Surabaya,Indonesia,active,26.0,4.0
-320,101325,meiyan_chai,Mei Yan,Chai,Female,Malaysia,1965-10-19,2023-09-27,Data Analysis Analyst,Data Analysis,Surabaya,Indonesia,active,59.0,1.0
-321,101326,xinyi_lim,Xin Yi,Lim,Male,Malaysia,1994-04-14,2020-09-10,HR Analyst,Human Resource,Senai,Malaysia,active,30.0,4.0
-322,101327,kengyoon_sim,Keng Yoon,Sim,Male,Malaysia,1974-07-30,2024-07-25,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,50.0,0.0
-323,101328,meiyan_lee,Mei Yan,Lee,Female,Malaysia,1971-10-23,2024-07-15,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,53.0,0.0
-324,101329,chenghong_chen,Cheng Hong,Chen,Male,Malaysia,1992-03-15,2024-09-10,Finance Engineer,Finance,Surabaya,Indonesia,active,32.0,0.0
-325,101330,kahmun_chen,Kah Mun,Chen,Male,Malaysia,1999-09-21,2020-01-19,Sales Engineer,Sales,Senai,Malaysia,active,25.0,4.0
-326,101331,jooling_lee,Joo Ling,Lee,Male,Malaysia,1984-01-13,2021-03-12,Information Technology Executive,Information Technology,Surabaya,Indonesia,active,40.0,3.0
-327,101332,xinyi_chua,Xin Yi,Chua,Female,Malaysia,1963-10-18,2021-01-30,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,61.0,3.0
-328,101333,cheeseng_chen,Chee Seng,Chen,Male,Malaysia,1986-12-15,2023-10-02,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,37.0,1.0
-329,101334,jinhao_goh,Jin Hao,Goh,Female,Malaysia,1965-08-23,2024-06-27,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,59.0,0.0
-330,101335,kahmun_wong,Kah Mun,Wong,Male,Malaysia,1984-03-18,2019-12-28,Information Technology Executive,Information Technology,Senai,Malaysia,active,40.0,4.0
-331,101336,aiyu_chai,Ai Yu,Chai,Female,Malaysia,1974-12-14,2022-12-08,Engineering Executive,Engineering,Kuala Lumpur,Malaysia,active,49.0,1.0
-332,101337,meiyan_lau,Mei Yan,Lau,Female,Malaysia,1970-09-14,2022-08-30,Site Support Engineer,Site Support,Senai,Malaysia,active,54.0,2.0
-333,101338,huishan_yeo,Hui Shan,Yeo,Female,Malaysia,1978-02-17,2022-09-25,Engineering Analyst,Engineering,Senai,Malaysia,active,46.0,2.0
-334,101339,ailing_ng,Ai Ling,Ng,Female,Malaysia,1991-09-09,2022-04-13,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,33.0,2.0
-335,101340,shimin_lee,Shi Min,Lee,Female,Malaysia,1986-11-18,2019-11-19,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,37.0,4.0
-336,101341,soonheng_lim,Soon Heng,Lim,Female,Malaysia,1981-11-09,2020-07-25,Finance Executive,Finance,Kulim,Malaysia,active,42.0,4.0
-337,101342,tzeyong_chai,Tze Yong,Chai,Male,Malaysia,1981-10-29,2024-08-29,Safety Analyst,Safety,Kuala Lumpur,Malaysia,active,43.0,0.0
-338,101343,peiying_chen,Pei Ying,Chen,Female,Malaysia,1986-01-17,2023-01-25,Site Management Engineer,Site Management,Kulim,Malaysia,active,38.0,1.0
-339,101344,wanyi_sim,Wan Yi,Sim,Female,Malaysia,1998-04-28,2023-09-28,Engineering Engineer,Engineering,Senai,Malaysia,active,26.0,1.0
-340,101345,puiyung_tan,Pui Yung,Tan,Male,Malaysia,1980-07-22,2019-10-18,HR Manager,Human Resource,Surabaya,Indonesia,active,44.0,5.0
-341,101346,sengchai_chua,Seng Chai,Chua,Female,Malaysia,1983-03-14,2023-01-28,Executive Management Executive,Executive Management,Kulim,Malaysia,active,41.0,1.0
-342,101347,yingying_wong,Ying Ying,Wong,Female,Malaysia,1963-05-11,2020-08-21,HR Manager,Human Resource,Senai,Malaysia,active,61.0,4.0
-343,101348,sookling_chen,Sook Ling,Chen,Female,Malaysia,1994-03-09,2023-02-01,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,30.0,1.0
-344,101349,weicheng_ong,Wei Cheng,Ong,Male,Malaysia,1988-02-07,2021-03-25,Sales Manager,Sales,Kulim,Malaysia,active,36.0,3.0
-345,101350,huixin_ng,Hui Xin,Ng,Female,Malaysia,1974-08-07,2022-04-01,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,50.0,2.0
-346,101351,cheeseng_chua,Chee Seng,Chua,Male,Malaysia,1966-01-19,2021-09-11,Finance Analyst,Finance,Surabaya,Indonesia,active,58.0,3.0
-347,101352,huixin_wong,Hui Xin,Wong,Male,Malaysia,1973-07-23,2021-02-10,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,51.0,3.0
-348,101353,wanyi_lee,Wan Yi,Lee,Female,Malaysia,2000-07-20,2022-06-03,HR Analyst,Human Resource,Surabaya,Indonesia,active,24.0,2.0
-349,101354,yatseng_lee,Yat Seng,Lee,Male,Malaysia,2005-01-08,2020-10-12,Executive Management Executive,Executive Management,Kulim,Malaysia,active,19.0,4.0
-350,101355,huiyi_chua,Hui Yi,Chua,Male,Malaysia,1995-01-04,2023-03-08,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,29.0,1.0
-351,101356,kengyoon_leong,Keng Yoon,Leong,Male,Malaysia,1983-04-12,2022-11-16,Site Support Executive,Site Support,Senai,Malaysia,active,41.0,1.0
-352,101357,kengboon_goh,Keng Boon,Goh,Male,Malaysia,1984-02-05,2023-06-06,Information Technology Executive,Information Technology,Surabaya,Indonesia,active,40.0,1.0
-353,101358,huixin_tan,Hui Xin,Tan,Female,Malaysia,1993-06-24,2024-01-26,HR Analyst,Human Resource,Surabaya,Indonesia,active,31.0,0.0
-354,101359,weicheng_lau,Wei Cheng,Lau,Male,Malaysia,1986-10-23,2024-08-30,Finance Analyst,Finance,Kuala Lumpur,Malaysia,active,38.0,0.0
-355,101360,meiyan_lee1,Mei Yan,Lee,Male,Malaysia,2001-01-21,2024-09-23,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,23.0,0.0
-356,101361,kahmun_lim,Kah Mun,Lim,Female,Malaysia,1978-07-28,2020-10-18,HR Analyst,Human Resource,Kulim,Malaysia,active,46.0,4.0
-357,101362,yuling_ong,Yu Ling,Ong,Male,Malaysia,1974-10-27,2021-11-25,Safety Manager,Safety,Surabaya,Indonesia,active,50.0,2.0
-358,101363,weiying_wong,Wei Ying,Wong,Male,Malaysia,1973-04-15,2021-04-24,Sales Manager,Sales,Kulim,Malaysia,active,51.0,3.0
-359,101364,yiting_low,Yi Ting,Low,Female,Malaysia,1980-11-15,2020-09-03,Sales Engineer,Sales,Senai,Malaysia,active,43.0,4.0
-360,101365,yewjin_tan1,Yew Jin,Tan,Male,Malaysia,1985-07-23,2024-04-16,Site Support Engineer,Site Support,Surabaya,Indonesia,active,39.0,0.0
-361,101366,szeling_yeo,Sze Ling,Yeo,Female,Malaysia,1968-06-07,2023-05-24,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,56.0,1.0
-362,101367,weiying_lim,Wei Ying,Lim,Female,Malaysia,2006-07-16,2021-10-20,Safety Analyst,Safety,Kulim,Malaysia,active,18.0,3.0
-363,101368,hengyew_ong,Heng Yew,Ong,Male,Malaysia,1991-08-06,2021-12-24,Site Support Executive,Site Support,Kuala Lumpur,Malaysia,active,33.0,2.0
-364,101369,zhiliang_lee,Zhi Liang,Lee,Male,Malaysia,1972-06-08,2020-05-01,Site Support Executive,Site Support,Surabaya,Indonesia,active,52.0,4.0
-365,101370,kimsiong_tan,Kim Siong,Tan,Female,Malaysia,1999-06-06,2023-02-16,Finance Engineer,Finance,Kulim,Malaysia,active,25.0,1.0
-366,101371,lixian_sim,Li Xian,Sim,Female,Malaysia,1995-08-31,2024-02-15,Information Technology Executive,Information Technology,Senai,Malaysia,active,29.0,0.0
-367,101372,yingying_wong1,Ying Ying,Wong,Female,Malaysia,1975-01-09,2020-03-15,Executive Management Executive,Executive Management,Kuala Lumpur,Malaysia,active,49.0,4.0
-368,101373,shiwei_wong,Shi Wei,Wong,Male,Malaysia,2000-08-15,2023-06-29,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,24.0,1.0
-369,101374,liling_wong,Li Ling,Wong,Female,Malaysia,1964-09-05,2021-01-11,Engineering Engineer,Engineering,Kulim,Malaysia,active,60.0,3.0
-370,101375,zhiliang_lim,Zhi Liang,Lim,Male,Malaysia,1974-08-11,2021-03-11,Engineering Analyst,Engineering,Kulim,Malaysia,active,50.0,3.0
-371,101376,zhiliang_lim1,Zhi Liang,Lim,Female,Malaysia,1985-06-13,2022-04-09,Sales Manager,Sales,Senai,Malaysia,active,39.0,2.0
-372,101377,yanxiu_wong,Yan Xiu,Wong,Male,Malaysia,2000-11-17,2023-12-22,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,23.0,0.0
-373,101378,weikit_lim,Wei Kit,Lim,Male,Malaysia,1979-03-24,2023-06-26,Finance Manager,Finance,Senai,Malaysia,active,45.0,1.0
-374,101379,huishan_tan,Hui Shan,Tan,Female,Malaysia,1987-09-24,2023-10-07,Site Management Executive,Site Management,Senai,Malaysia,active,37.0,1.0
-375,101380,jinyi_tan,Jin Yi,Tan,Female,Malaysia,1979-01-02,2020-07-17,Executive Management Executive,Executive Management,Senai,Malaysia,active,45.0,4.0
-376,101381,chenghong_tan,Cheng Hong,Tan,Male,Malaysia,1979-07-17,2019-02-12,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,45.0,5.0
-377,101382,liping_tan,Li Ping,Tan,Female,Malaysia,2003-11-06,2020-11-05,Information Technology Analyst,Information Technology,Kulim,Malaysia,active,20.0,3.0
-378,101383,meiyan_lim,Mei Yan,Lim,Female,Malaysia,1985-01-15,2021-05-06,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,39.0,3.0
-379,101384,yingying_ng,Ying Ying,Ng,Female,Malaysia,1968-10-20,2020-06-09,Safety Analyst,Safety,Surabaya,Indonesia,active,56.0,4.0
-380,101385,kenghock_tan,Keng Hock,Tan,Male,Malaysia,1984-04-07,2023-04-27,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,40.0,1.0
-381,101386,yuling_sim,Yu Ling,Sim,Female,Malaysia,1975-05-19,2024-08-26,Finance Analyst,Finance,Kulim,Malaysia,active,49.0,0.0
-382,101387,kengliang_chen,Keng Liang,Chen,Male,Malaysia,1987-10-17,2021-04-08,HR Manager,Human Resource,Senai,Malaysia,active,37.0,3.0
-383,101388,zhiliang_lau,Zhi Liang,Lau,Female,Malaysia,1995-08-08,2024-01-13,Engineering Analyst,Engineering,Kulim,Malaysia,active,29.0,0.0
-384,101389,hengyew_wong,Heng Yew,Wong,Male,Malaysia,1974-08-24,2022-04-13,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,50.0,2.0
-385,101390,peiying_sim,Pei Ying,Sim,Female,Malaysia,1966-12-25,2022-04-09,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,57.0,2.0
-386,101391,puiyung_lim,Pui Yung,Lim,Female,Malaysia,2006-04-19,2023-11-01,Site Management Manager,Site Management,Kulim,Malaysia,active,18.0,1.0
-387,101392,shuyi_wong,Shu Yi,Wong,Female,Malaysia,1999-11-05,2022-07-22,HR Executive,Human Resource,Kulim,Malaysia,active,24.0,2.0
-388,101393,meiling_ong,Mei Ling,Ong,Female,Malaysia,2002-08-05,2020-09-15,Information Technology Executive,Information Technology,Senai,Malaysia,active,22.0,4.0
-389,101394,huanying_low,Huan Ying,Low,Female,Malaysia,1989-01-19,2022-11-16,Executive Management Executive,Executive Management,Surabaya,Indonesia,active,35.0,1.0
-390,101395,sengchai_wong,Seng Chai,Wong,Male,Malaysia,1976-12-26,2021-09-22,Finance Engineer,Finance,Kulim,Malaysia,active,47.0,3.0
-391,101396,lina_lim,Li Na,Lim,Female,Malaysia,1986-08-17,2020-08-29,HR Analyst,Human Resource,Senai,Malaysia,active,38.0,4.0
-392,101397,kahmun_lim1,Kah Mun,Lim,Male,Malaysia,1991-07-01,2023-12-04,Finance Manager,Finance,Surabaya,Indonesia,active,33.0,0.0
-393,101398,szeling_goh,Sze Ling,Goh,Female,Malaysia,1981-05-04,2022-04-03,Finance Analyst,Finance,Kuala Lumpur,Malaysia,active,43.0,2.0
-394,101399,wanyi_wong,Wan Yi,Wong,Male,Malaysia,1986-09-25,2021-04-05,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,38.0,3.0
-395,101400,yingying_goh,Ying Ying,Goh,Female,Malaysia,1982-01-30,2021-01-15,Data Analysis Analyst,Data Analysis,Surabaya,Indonesia,active,42.0,3.0
-396,101401,jinhao_wong,Jin Hao,Wong,Female,Malaysia,1968-11-29,2023-09-14,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,55.0,1.0
-397,101402,xinyi_wong,Xin Yi,Wong,Male,Malaysia,1981-01-07,2021-01-29,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,43.0,3.0
-398,101403,koonpeng_ng,Koon Peng,Ng,Male,Malaysia,2000-04-10,2023-08-11,HR Engineer,Human Resource,Surabaya,Indonesia,active,24.0,1.0
-399,101404,puiyung_yeo,Pui Yung,Yeo,Female,Malaysia,1982-03-29,2020-11-06,Safety Engineer,Safety,Senai,Malaysia,active,42.0,3.0
-400,101405,waiching_sim,Wai Ching,Sim,Female,Malaysia,1965-06-21,2022-01-05,Sales Engineer,Sales,Surabaya,Indonesia,active,59.0,2.0
-401,101406,yingying_ng1,Ying Ying,Ng,Female,Malaysia,1996-09-14,2021-06-09,Site Management Manager,Site Management,Surabaya,Indonesia,active,28.0,3.0
-402,101407,weiting_chai,Wei Ting,Chai,Female,Malaysia,1964-02-04,2023-08-18,HR Analyst,Human Resource,Senai,Malaysia,active,60.0,1.0
-403,101408,jiawei_tan,Jia Wei,Tan,Male,Malaysia,1980-03-30,2024-07-28,Information Technology Manager,Information Technology,Kulim,Malaysia,active,44.0,0.0
-404,101409,xinyi_lim1,Xin Yi,Lim,Female,Malaysia,1968-10-12,2021-04-19,Safety Executive,Safety,Surabaya,Indonesia,active,56.0,3.0
-405,101410,jinhao_tan,Jin Hao,Tan,Male,Malaysia,1973-01-18,2023-05-11,Sales Analyst,Sales,Senai,Malaysia,active,51.0,1.0
-406,101411,zhiwei_wong1,Zhi Wei,Wong,Male,Malaysia,2001-06-22,2022-01-22,Data Analysis Engineer,Data Analysis,Kulim,Malaysia,active,23.0,2.0
-407,101412,donna_ortiz,Donna,Ortiz,Female,Germany,1993-03-16,2024-06-27,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,31.0,0.0
-408,101413,joseph_garner,Joseph,Garner,Female,Spain,1989-10-25,2021-11-27,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,35.0,2.0
-409,101414,travis_higgins,Travis,Higgins,Male,Canada,1979-12-20,2022-01-25,Engineering Engineer,Engineering,Surabaya,Indonesia,active,44.0,2.0
-410,101415,gary_mendoza,Gary,Mendoza,Male,Spain,1979-09-12,2022-01-26,Sales Manager,Sales,Surabaya,Indonesia,active,45.0,2.0
-411,101416,william_johnson,William,Johnson,Female,Spain,2006-08-07,2019-11-19,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,18.0,4.0
-412,101417,natasha_davis,Natasha,Davis,Female,Poland,1984-08-06,2020-11-01,Safety Manager,Safety,Senai,Malaysia,active,40.0,4.0
-413,101418,jasmine_richard,Jasmine,Richard,Female,Germany,2004-12-14,2021-11-30,Safety Engineer,Safety,Surabaya,Indonesia,active,19.0,2.0
-414,101419,kelly_williams,Kelly,Williams,Female,Poland,1997-04-29,2024-08-22,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,27.0,0.0
-415,101420,lindsay_thomas,Lindsay,Thomas,Female,Australia,1991-05-23,2021-04-19,Safety Engineer,Safety,Senai,Malaysia,active,33.0,3.0
-416,101421,allison_andrade,Allison,Andrade,Female,Poland,1968-10-19,2022-01-13,Safety Manager,Safety,Kulim,Malaysia,active,56.0,2.0
-417,101422,chariya_boonmee,Chariya,Boonmee,Female,Thailand,1984-07-17,2022-12-11,Safety Manager,Safety,Kulim,Malaysia,active,40.0,1.0
-418,101423,pamela_blackburn,Pamela,Blackburn,Female,Germany,1992-07-08,2023-06-01,Sales Engineer,Sales,Senai,Malaysia,active,32.0,1.0
-419,101424,stacie_fox,Stacie,Fox,Female,Poland,2006-06-17,2021-05-26,Engineering Manager,Engineering,Senai,Malaysia,active,18.0,3.0
-420,101425,teresa_bass,Teresa,Bass,Female,Australia,2003-11-22,2022-02-06,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,20.0,2.0
-421,101426,christopher_martinez,Christopher,Martinez,Male,Vietnam,1970-10-08,2022-03-31,Site Support Engineer,Site Support,Senai,Malaysia,active,54.0,2.0
-422,101427,sara_mcintyre,Sara,Mcintyre,Female,Spain,1999-08-04,2019-02-12,Sales Engineer,Sales,Kulim,Malaysia,active,25.0,5.0
-423,101428,morgan_briggs,Morgan,Briggs,Male,New Zealand,1972-05-01,2020-08-13,HR Manager,Human Resource,Senai,Malaysia,active,52.0,4.0
-424,101429,justin_anderson,Justin,Anderson,Male,Poland,2001-05-12,2022-04-13,Site Management Engineer,Site Management,Surabaya,Indonesia,active,23.0,2.0
-425,101430,amber_vasquez,Amber,Vasquez,Female,Spain,2002-11-20,2024-07-20,Information Technology Manager,Information Technology,Senai,Malaysia,active,21.0,0.0
-426,101431,melissa_camacho,Melissa,Camacho,Female,Canada,1979-07-12,2021-01-30,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,45.0,3.0
-427,101432,stephanie_goodwin,Stephanie,Goodwin,Female,Spain,2002-10-18,2024-08-04,Safety Engineer,Safety,Kulim,Malaysia,active,22.0,0.0
-428,101433,jonathan_le,Jonathan,Le,Male,Poland,1982-12-15,2024-01-27,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,41.0,0.0
-429,101434,margaret_gutierrez,Margaret,Gutierrez,Female,Indonesia,2005-08-03,2022-04-06,Safety Engineer,Safety,Surabaya,Indonesia,active,19.0,2.0
-430,101435,debra_murillo,Debra,Murillo,Female,Germany,1986-11-10,2024-04-06,HR Manager,Human Resource,Surabaya,Indonesia,active,37.0,0.0
-431,101436,melissa_davis,Melissa,Davis,Female,Germany,1978-04-07,2021-09-04,Site Support Manager,Site Support,Senai,Malaysia,active,46.0,3.0
-432,101437,sarah_kirk,Sarah,Kirk,Female,Indonesia,1991-12-19,2020-10-13,HR Engineer,Human Resource,Kulim,Malaysia,active,32.0,4.0
-433,101438,stephanie_vazquez,Stephanie,Vazquez,Female,Spain,2003-08-05,2021-10-04,Site Management Engineer,Site Management,Senai,Malaysia,active,21.0,3.0
-434,101439,paige_phillips,Paige,Phillips,Female,Australia,1990-11-30,2024-05-28,Site Support Engineer,Site Support,Senai,Malaysia,active,33.0,0.0
-435,101440,anong_chaiprasit,Anong,Chaiprasit,Female,Thailand,1983-11-15,2022-04-09,Engineering Manager,Engineering,Kulim,Malaysia,active,40.0,2.0
-436,101441,sandra_cook,Sandra,Cook,Female,Vietnam,1991-04-12,2022-05-21,Site Support Engineer,Site Support,Kulim,Malaysia,active,33.0,2.0
-437,101442,nicole_hutchinson,Nicole,Hutchinson,Female,Singapore,2003-10-22,2023-12-01,Engineering Engineer,Engineering,Kulim,Malaysia,active,21.0,0.0
-438,101443,worawit_suksan,Worawit,Suksan,Male,Thailand,1980-11-26,2020-01-19,Site Support Manager,Site Support,Surabaya,Indonesia,active,43.0,4.0
-439,101444,francis_ruiz,Francis,Ruiz,Male,Poland,1992-08-30,2024-04-13,Engineering Manager,Engineering,Kulim,Malaysia,active,32.0,0.0
-440,101445,sandra_phillips,Sandra,Phillips,Female,Indonesia,1965-05-20,2020-04-14,Site Management Manager,Site Management,Surabaya,Indonesia,active,59.0,4.0
-441,101446,brian_gardner,Brian,Gardner,Male,Vietnam,1979-02-28,2022-12-12,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,45.0,1.0
-442,101447,jintana_wongchai,Jintana,Wongchai,Female,Thailand,1992-11-20,2024-08-05,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,31.0,0.0
-443,101448,steven_peterson,Steven,Peterson,Male,Spain,1983-05-14,2021-12-04,Executive Management Engineer,Executive Management,Kulim,Malaysia,active,41.0,2.0
-444,101449,heather_hernandez,Heather,Hernandez,Female,Poland,1973-07-29,2021-03-04,Safety Manager,Safety,Surabaya,Indonesia,active,51.0,3.0
-445,101450,jacob_delgado,Jacob,Delgado,Male,Germany,1994-10-04,2023-09-10,Site Support Manager,Site Support,Kulim,Malaysia,active,30.0,1.0
-446,101451,ratchanon_chavalit,Ratchanon,Chavalit,Male,Thailand,1985-04-22,2022-02-09,Site Support Manager,Site Support,Senai,Malaysia,active,39.0,2.0
-447,101452,joe_wade,Joe,Wade,Male,Germany,1964-07-20,2022-02-14,Site Support Engineer,Site Support,Senai,Malaysia,active,60.0,2.0
-448,101453,anita_morris,Anita,Morris,Female,Spain,1997-02-23,2024-03-09,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,27.0,0.0
-449,101454,walter_williamson,Walter,Williamson,Male,Indonesia,1966-12-19,2021-03-04,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,57.0,3.0
-450,101455,kelly_jackson,Kelly,Jackson,Female,Indonesia,1975-03-26,2020-08-05,Engineering Engineer,Engineering,Senai,Malaysia,active,49.0,4.0
-451,101456,kannika_kittisak,Kannika,Kittisak,Female,Thailand,2004-08-12,2024-05-19,Site Support Engineer,Site Support,Senai,Malaysia,active,20.0,0.0
-452,101457,john_roberts,John,Roberts,Male,Germany,2005-10-18,2024-08-25,Site Management Engineer,Site Management,Kulim,Malaysia,active,19.0,0.0
-453,101458,jennifer_brown,Jennifer,Brown,Female,Germany,1967-10-07,2021-10-20,Sales Manager,Sales,Surabaya,Indonesia,active,57.0,3.0
-454,101459,jessica_gibson,Jessica,Gibson,Female,Germany,2001-01-06,2024-12-06,Safety Manager,Safety,Senai,Malaysia,active,23.0,-1.0
-455,101460,lisa_buckley,Lisa,Buckley,Female,Australia,1992-09-15,2021-03-31,Engineering Manager,Engineering,Kulim,Malaysia,active,32.0,3.0
-456,101461,jessica_banks,Jessica,Banks,Female,Australia,1992-02-02,2022-08-23,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,32.0,2.0
-457,101462,charles_thompson,Charles,Thompson,Male,Spain,1986-12-24,2021-05-02,Site Management Manager,Site Management,Surabaya,Indonesia,active,37.0,3.0
-458,101463,jamie_rodriguez,Jamie,Rodriguez,Male,Poland,1995-11-30,2022-04-25,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,28.0,2.0
-459,101464,samantha_cross,Samantha,Cross,Female,Spain,2005-04-27,2023-02-26,Executive Management Engineer,Executive Management,Senai,Malaysia,active,19.0,1.0
-460,101465,sarah_trevino,Sarah,Trevino,Female,Indonesia,1969-02-27,2020-12-04,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,55.0,3.0
-461,101466,patcharaporn_poonpat,Patcharaporn,Poonpat,Female,Thailand,1974-02-01,2022-12-27,Safety Manager,Safety,Senai,Malaysia,active,50.0,1.0
-462,101467,mellisa_tucker,Mellisa,Tucker,Female,Spain,1988-07-29,2023-03-22,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,36.0,1.0
-463,101468,patrick_marsh,Patrick,Marsh,Male,Singapore,1999-07-22,2022-09-18,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,25.0,2.0
-464,101469,nancy_lawson,Nancy,Lawson,Female,Canada,1972-06-18,2024-08-17,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,52.0,0.0
-465,101470,kimberly_gray,Kimberly,Gray,Female,Germany,1996-10-11,2021-10-11,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,28.0,3.0
-466,101471,beth_mcdonald,Beth,Mcdonald,Female,Poland,1973-07-13,2021-03-26,Engineering Manager,Engineering,Surabaya,Indonesia,active,51.0,3.0
-467,101472,jason_collins,Jason,Collins,Male,Singapore,1982-06-29,2023-12-29,Safety Manager,Safety,Surabaya,Indonesia,active,42.0,0.0
-468,101473,brian_vega,Brian,Vega,Male,Germany,1972-01-27,2022-11-13,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,52.0,1.0
-469,101474,chatri_somboon,Chatri,Somboon,Male,Thailand,1993-10-05,2024-06-21,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,31.0,0.0
-470,101475,briana_thomas,Briana,Thomas,Female,Canada,1992-06-04,2024-10-07,Sales Engineer,Sales,Surabaya,Indonesia,active,32.0,0.0
-471,101476,joy_hughes,Joy,Hughes,Female,New Zealand,1971-06-29,2023-05-05,HR Engineer,Human Resource,Kulim,Malaysia,active,53.0,1.0
-472,101477,anthony_leon,Anthony,Leon,Male,Spain,1998-07-31,2022-07-01,Site Management Manager,Site Management,Kulim,Malaysia,active,26.0,2.0
-473,101478,supachai_prasertsak,Supachai,Prasertsak,Male,Thailand,1993-06-03,2022-11-23,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,31.0,1.0
-474,101479,brianna_lawrence,Brianna,Lawrence,Female,Canada,1986-09-13,2022-12-14,HR Manager,Human Resource,Senai,Malaysia,active,38.0,1.0
-475,101480,paul_johns,Paul,Johns,Male,Canada,1999-09-09,2024-06-01,Sales Manager,Sales,Kulim,Malaysia,active,25.0,0.0
-476,101481,william_rodriguez,William,Rodriguez,Male,Canada,1968-08-27,2024-09-23,Finance Engineer,Finance,Senai,Malaysia,active,56.0,0.0
-477,101482,gina_shah,Gina,Shah,Female,Germany,1964-08-14,2020-02-12,Safety Engineer,Safety,Senai,Malaysia,active,60.0,4.0
-478,101483,alan_anderson,Alan,Anderson,Male,New Zealand,1992-01-12,2021-07-05,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,32.0,3.0
-479,101484,laura_lamb,Laura,Lamb,Female,Germany,1988-05-25,2022-11-04,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,36.0,2.0
-480,101485,ronald_rogers,Ronald,Rogers,Male,Canada,1973-02-07,2021-02-18,Engineering Engineer,Engineering,Senai,Malaysia,active,51.0,3.0
-481,101486,shannon_rogers,Shannon,Rogers,Female,Vietnam,2005-01-10,2019-11-22,Finance Engineer,Finance,Kulim,Malaysia,active,19.0,4.0
-482,101487,andrea_baird,Andrea,Baird,Male,Indonesia,1981-08-16,2024-04-05,Site Management Manager,Site Management,Kulim,Malaysia,active,43.0,0.0
-483,101488,rachanee_thammasak,Rachanee,Thammasak,Female,Thailand,1972-07-18,2021-05-22,Site Management Manager,Site Management,Kulim,Malaysia,active,52.0,3.0
-484,101489,ronald_hoover,Ronald,Hoover,Male,Germany,1990-12-11,2021-12-22,HR Manager,Human Resource,Senai,Malaysia,active,33.0,2.0
-485,101490,brandi_lewis,Brandi,Lewis,Male,Australia,1972-01-18,2024-08-08,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,52.0,0.0
-486,101491,sonia_green,Sonia,Green,Female,New Zealand,2002-10-21,2022-04-15,Site Support Manager,Site Support,Senai,Malaysia,active,22.0,2.0
-487,101492,brian_johns,Brian,Johns,Male,Spain,1984-10-03,2021-02-19,Safety Engineer,Safety,Surabaya,Indonesia,active,40.0,3.0
-488,101493,rungnapa_rungroj,Rungnapa,Rungroj,Female,Thailand,1982-01-05,2023-08-27,Finance Engineer,Finance,Senai,Malaysia,active,42.0,1.0
-489,101494,phuwadol_srisuk,Phuwadol,Srisuk,Male,Thailand,1978-03-29,2021-05-03,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,46.0,3.0
-490,101495,katherine_white,Katherine,White,Female,Australia,1971-07-17,2022-05-29,Site Management Engineer,Site Management,Kulim,Malaysia,active,53.0,2.0
-491,101496,katherine_taylor,Katherine,Taylor,Female,Indonesia,1996-03-11,2024-08-06,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,28.0,0.0
-492,101497,randall_obrien,Randall,Obrien,Male,Indonesia,1982-05-31,2023-03-01,Sales Engineer,Sales,Kulim,Malaysia,active,42.0,1.0
-493,101498,amy_powell,Amy,Powell,Female,Singapore,1979-07-26,2021-11-03,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,45.0,3.0
-494,101499,thanawat_suwannarat,Thanawat,Suwannarat,Male,Thailand,2001-08-13,2024-11-08,Site Management Manager,Site Management,Senai,Malaysia,active,23.0,-1.0
-495,101500,russell_smith,Russell,Smith,Male,Canada,1997-10-18,2021-04-08,Engineering Engineer,Engineering,Surabaya,Indonesia,active,27.0,3.0
-496,101501,kyle_hoffman,Kyle,Hoffman,Male,Poland,1996-03-04,2021-04-05,Finance Engineer,Finance,Surabaya,Indonesia,active,28.0,3.0
-497,101502,bobby_carey,Bobby,Carey,Male,Australia,1980-06-05,2023-12-29,Engineering Engineer,Engineering,Kulim,Malaysia,active,44.0,0.0
-498,101503,michelle_brooks,Michelle,Brooks,Female,Indonesia,1972-04-24,2023-08-06,Information Technology Manager,Information Technology,Kulim,Malaysia,active,52.0,1.0
-499,101504,keith_brooks,Keith,Brooks,Male,Singapore,1979-03-20,2020-06-25,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,45.0,4.0
-500,101505,jeffrey_richards,Jeffrey,Richards,Male,Singapore,1999-11-26,2023-08-31,Safety Manager,Safety,Surabaya,Indonesia,active,24.0,1.0
-501,101506,ryan_wyatt,Ryan,Wyatt,Male,Singapore,1974-07-28,2020-08-31,Sales Manager,Sales,Kulim,Malaysia,active,50.0,4.0
-502,101507,lisa_williams,Lisa,Williams,Female,New Zealand,1990-12-04,2022-10-19,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,33.0,2.0
-503,101508,logan_yang,Logan,Yang,Male,Vietnam,1988-04-13,2021-11-10,Sales Manager,Sales,Senai,Malaysia,active,36.0,2.0
-504,101509,david_deleon,David,Deleon,Male,Spain,1991-05-13,2020-04-07,Engineering Engineer,Engineering,Senai,Malaysia,active,33.0,4.0
-505,101510,thomas_campbell,Thomas,Campbell,Male,New Zealand,1994-11-30,2023-09-24,Safety Manager,Safety,Surabaya,Indonesia,active,29.0,1.0
-506,101511,david_delacruz,David,Delacruz,Male,Spain,1998-04-09,2024-05-18,Engineering Manager,Engineering,Surabaya,Indonesia,active,26.0,0.0
-507,101512,amber_hall,Amber,Hall,Female,Spain,1972-01-28,2024-08-09,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,52.0,0.0
-508,101513,saengdao_nimit,Saengdao,Nimit,Female,Thailand,1997-10-11,2024-09-08,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,27.0,0.0
-509,101514,siriporn_thammarat,Siriporn,Thammarat,Female,Thailand,1982-09-26,2019-12-22,HR Manager,Human Resource,Kulim,Malaysia,active,42.0,4.0
-510,101515,angela_moore,Angela,Moore,Female,Australia,1985-06-27,2023-08-15,Sales Engineer,Sales,Surabaya,Indonesia,active,39.0,1.0
-511,101516,marilyn_hess,Marilyn,Hess,Female,Poland,1999-10-18,2021-09-18,Site Support Engineer,Site Support,Kulim,Malaysia,active,25.0,3.0
-512,101517,thipwanee_sangwong,Thip Wanee,Sangwong,Female,Thailand,1971-04-03,2020-11-13,Executive Management Engineer,Executive Management,Kulim,Malaysia,active,53.0,3.0
-513,101518,hannah_rivas,Hannah,Rivas,Female,Australia,2001-09-06,2023-10-04,Executive Management Engineer,Executive Management,Kulim,Malaysia,active,23.0,1.0
-514,101519,sarah_reed,Sarah,Reed,Female,Australia,1979-04-11,2023-07-08,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,45.0,1.0
-515,101520,shane_gonzalez,Shane,Gonzalez,Female,Canada,1973-11-23,2020-10-14,Sales Engineer,Sales,Surabaya,Indonesia,inactive,50.0,4.0
-516,101521,sara_hudson,Sara,Hudson,Female,Poland,1976-05-14,2021-09-22,HR Engineer,Human Resource,Kulim,Malaysia,active,48.0,3.0
-517,101522,michele_stewart,Michele,Stewart,Female,Canada,1989-04-09,2022-12-30,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,35.0,1.0
-518,101523,ian_wilson,Ian,Wilson,Male,New Zealand,1969-04-16,2024-02-06,Site Management Engineer,Site Management,Kulim,Malaysia,active,55.0,0.0
-519,101524,jill_holmes,Jill,Holmes,Female,Poland,1990-11-01,2021-01-21,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,34.0,3.0
-520,101525,glenn_brown,Glenn,Brown,Female,Canada,1966-08-17,2021-05-01,HR Engineer,Human Resource,Senai,Malaysia,active,58.0,3.0
-521,101526,johnny_sullivan,Johnny,Sullivan,Female,Australia,1966-04-20,2019-11-13,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,58.0,4.0
-522,101527,valerie_vongchai,Valerie,Vongchai,Female,Thailand,1984-09-12,2023-12-16,Engineering Manager,Engineering,Surabaya,Indonesia,active,40.0,0.0
-523,101528,cheryl_lee,Cheryl,Lee,Female,Indonesia,1999-09-15,2024-09-29,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,25.0,0.0
-524,101529,thiraphong_boonlert,Thiraphong,Boonlert,Male,Thailand,1976-04-30,2024-01-18,Sales Manager,Sales,Surabaya,Indonesia,active,48.0,0.0
-525,101530,randy_thompson,Randy,Thompson,Male,Spain,1989-07-13,2019-10-30,Engineering Manager,Engineering,Senai,Malaysia,active,35.0,5.0
-526,101531,daniel_payne,Daniel,Payne,Male,Spain,2003-12-30,2019-02-11,Engineering Engineer,Engineering,Senai,Malaysia,active,20.0,5.0
-527,101532,michael_lucas,Michael,Lucas,Male,Poland,1969-06-01,2021-01-17,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,55.0,3.0
-528,101533,sarah_scott,Sarah,Scott,Female,Australia,2002-08-27,2023-03-31,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,22.0,1.0
-529,101534,shawn_herring,Shawn,Herring,Female,Singapore,1998-12-19,2021-05-12,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,25.0,3.0
-530,101535,jorge_clark,Jorge,Clark,Male,Australia,1992-12-20,2022-08-18,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,31.0,2.0
-531,101536,sarawut_srisawat,Sarawut,Srisawat,Male,Thailand,2006-06-16,2024-06-20,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,18.0,0.0
-532,101537,joanna_moore,Joanna,Moore,Female,Canada,1964-12-24,2024-08-31,Safety Engineer,Safety,Kulim,Malaysia,active,59.0,0.0
-533,101538,wayne_alexander,Wayne,Alexander,Male,New Zealand,1974-02-02,2022-06-16,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,50.0,2.0
-534,101539,anita_davis,Anita,Davis,Female,Canada,1993-05-17,2024-12-01,Data Analysis Engineer,Data Analysis,Kulim,Malaysia,active,31.0,-1.0
-535,101540,morgan_mcclure,Morgan,Mcclure,Male,Germany,1988-10-21,2024-03-10,Engineering Engineer,Engineering,Kulim,Malaysia,active,36.0,0.0
-536,101541,danielle_jones,Danielle,Jones,Female,Poland,1980-06-10,2021-07-24,Sales Engineer,Sales,Senai,Malaysia,active,44.0,3.0
-537,101542,patrick_roberts,Patrick,Roberts,Male,Spain,1974-12-22,2022-02-24,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,49.0,2.0
-538,101543,robert_martinez,Robert,Martinez,Male,Spain,1973-09-23,2023-02-19,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,51.0,1.0
-539,101544,chelsea_hart,Chelsea,Hart,Male,Vietnam,1968-04-25,2023-09-14,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,56.0,1.0
-540,101545,anthony_hickman,Anthony,Hickman,Male,Singapore,1995-12-29,2023-12-19,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,28.0,0.0
-541,101546,anthony_huang,Anthony,Huang,Male,New Zealand,2000-12-16,2023-05-07,Finance Manager,Finance,Kulim,Malaysia,active,23.0,1.0
-542,101547,justin_esparza,Justin,Esparza,Male,Poland,1996-10-16,2020-05-24,Finance Manager,Finance,Surabaya,Indonesia,active,28.0,4.0
-543,101548,sarah_flores,Sarah,Flores,Female,Singapore,1996-01-19,2022-12-05,Finance Manager,Finance,Surabaya,Indonesia,active,28.0,1.0
-544,101549,larry_cline,Larry,Cline,Male,Australia,1999-08-22,2019-10-11,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,25.0,5.0
-545,101550,suttipong_yuthasak,Suttipong,Yuthasak,Male,Thailand,1994-06-30,2023-08-09,Sales Engineer,Sales,Senai,Malaysia,active,30.0,1.0
-546,101551,maria_fisher,Maria,Fisher,Female,Canada,1981-09-05,2021-03-07,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,43.0,3.0
-547,101552,holly_lewis,Holly,Lewis,Female,Spain,2004-06-22,2020-11-07,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,20.0,3.0
-548,101553,andrew_reed,Andrew,Reed,Male,Indonesia,1985-04-29,2020-08-18,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,39.0,4.0
-549,101554,mark_gomez,Mark,Gomez,Male,Spain,1974-04-04,2023-04-25,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,50.0,1.0
-550,101555,nicole_mcgrath,Nicole,Mcgrath,Female,Poland,1964-11-11,2024-04-13,Information Technology Manager,Information Technology,Surabaya,Indonesia,active,59.0,0.0
-551,101556,billy_stewart,Billy,Stewart,Female,Poland,1981-06-01,2022-08-07,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,43.0,2.0
-552,101557,carrie_jones,Carrie,Jones,Female,New Zealand,1990-02-20,2022-01-07,Finance Engineer,Finance,Surabaya,Indonesia,active,34.0,2.0
-553,101558,tanya_campbell,Tanya,Campbell,Female,Vietnam,1983-08-25,2022-02-05,Safety Engineer,Safety,Kulim,Malaysia,active,41.0,2.0
-554,101559,peggy_brown,Peggy,Brown,Female,Canada,1963-12-16,2021-10-14,Engineering Manager,Engineering,Surabaya,Indonesia,active,60.0,3.0
-555,101560,tammy_foster,Tammy,Foster,Female,Singapore,1995-06-16,2021-02-15,Finance Manager,Finance,Kulim,Malaysia,active,29.0,3.0
-556,101561,chris_gillespie,Chris,Gillespie,Female,Germany,1991-12-14,2020-12-03,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,32.0,3.0
-557,101562,tyler_owen,Tyler,Owen,Male,Vietnam,1997-06-02,2022-12-04,HR Engineer,Human Resource,Senai,Malaysia,active,27.0,1.0
-558,101563,kevin_jones,Kevin,Jones,Male,Canada,1989-03-17,2024-03-16,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,35.0,0.0
-559,101564,nittaya_intarachai,Nittaya,Intarachai,Female,Thailand,1995-05-07,2020-08-25,HR Manager,Human Resource,Senai,Malaysia,active,29.0,4.0
-560,101565,daniel_pearson,Daniel,Pearson,Male,Singapore,2005-11-05,2024-03-07,Site Support Engineer,Site Support,Surabaya,Indonesia,active,18.0,0.0
-561,101566,carrie_wood,Carrie,Wood,Female,New Zealand,1994-12-02,2022-03-28,Safety Manager,Safety,Surabaya,Indonesia,active,29.0,2.0
-562,101567,dorothy_adams,Dorothy,Adams,Female,Vietnam,2002-03-17,2024-02-17,Finance Manager,Finance,Senai,Malaysia,active,22.0,0.0
-563,101568,pongsak_chaisuwan,Pongsak,Chaisuwan,Male,Thailand,1988-10-31,2022-09-08,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,36.0,2.0
-564,101569,anthony_shelton,Anthony,Shelton,Male,Canada,1997-03-18,2021-05-26,Sales Manager,Sales,Kulim,Malaysia,active,27.0,3.0
-565,101570,juan_fields,Juan,Fields,Male,Germany,2003-01-27,2023-07-24,Sales Engineer,Sales,Senai,Malaysia,active,21.0,1.0
-566,101571,pattama_panyarachun,Pattama,Panyarachun,Female,Thailand,1987-10-30,2023-08-11,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,37.0,1.0
-567,101572,bryan_mayer,Bryan,Mayer,Male,Singapore,1965-06-25,2024-01-23,Information Technology Engineer,Information Technology,Senai,Malaysia,active,59.0,0.0
-568,101573,nattapong_somchai,Nattapong,Somchai,Male,Thailand,2004-12-19,2023-11-08,Engineering Manager,Engineering,Senai,Malaysia,active,19.0,0.0
-569,101574,olivia_shea,Olivia,Shea,Female,Spain,1991-07-20,2024-09-05,Finance Engineer,Finance,Senai,Malaysia,active,33.0,0.0
-570,101575,charles_moore,Charles,Moore,Male,Vietnam,1988-12-14,2020-06-06,Information Technology Manager,Information Technology,Surabaya,Indonesia,active,35.0,4.0
-571,101576,julie_kelly,Julie,Kelly,Female,Poland,1978-08-03,2024-04-16,Sales Engineer,Sales,Kulim,Malaysia,active,46.0,0.0
-572,101577,richard_hampton,Richard,Hampton,Male,Germany,1997-08-18,2022-10-10,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,27.0,2.0
-573,101578,elizabeth_martinez,Elizabeth,Martinez,Female,Indonesia,1998-04-26,2019-12-22,Safety Engineer,Safety,Kulim,Malaysia,active,26.0,4.0
-574,101579,kittisak_kraipob,Kittisak,Kraipob,Male,Thailand,1967-08-14,2021-08-12,Site Management Engineer,Site Management,Senai,Malaysia,active,57.0,3.0
-575,101580,victor_villegas,Victor,Villegas,Female,Germany,1972-10-15,2024-05-02,HR Engineer,Human Resource,Kulim,Malaysia,active,52.0,0.0
-576,101581,elizabeth_novak,Elizabeth,Novak,Female,Indonesia,2004-12-10,2022-11-26,Sales Engineer,Sales,Surabaya,Indonesia,active,19.0,1.0
-577,101582,john_brown,John,Brown,Male,Spain,1972-09-02,2021-11-13,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,52.0,2.0
-578,101583,cynthia_johnson,Cynthia,Johnson,Female,Poland,1966-10-20,2021-11-24,Site Management Manager,Site Management,Kulim,Malaysia,active,58.0,2.0
-579,101584,julie_conway,Julie,Conway,Female,Indonesia,1967-10-27,2020-01-23,Site Management Manager,Site Management,Senai,Malaysia,active,57.0,4.0
-580,101585,kevin_mcfarland,Kevin,Mcfarland,Male,Australia,1968-01-31,2023-05-29,Information Technology Manager,Information Technology,Kuala Lumpur,Malaysia,active,56.0,1.0
-581,101586,bobby_johnson,Bobby,Johnson,Female,Vietnam,1969-06-30,2020-07-27,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,55.0,4.0
-582,101587,derek_choi,Derek,Choi,Male,Spain,2005-09-30,2021-06-21,Site Support Engineer,Site Support,Surabaya,Indonesia,active,19.0,3.0
-583,101588,kevin_peterson,Kevin,Peterson,Female,New Zealand,1975-01-28,2022-11-28,Site Management Engineer,Site Management,Kulim,Malaysia,active,49.0,1.0
-584,101589,heather_lewis,Heather,Lewis,Female,Australia,1995-08-05,2021-12-30,Data Analysis Engineer,Data Analysis,Kulim,Malaysia,active,29.0,2.0
-585,101590,rebecca_russell,Rebecca,Russell,Female,New Zealand,1987-10-16,2020-03-03,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,37.0,4.0
-586,101591,jon_oliver,Jon,Oliver,Male,Spain,1971-07-26,2021-02-16,Engineering Manager,Engineering,Surabaya,Indonesia,active,53.0,3.0
-587,101592,shannon_phillips,Shannon,Phillips,Female,Australia,1988-12-13,2023-02-12,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,35.0,1.0
-588,101593,casey_dean,Casey,Dean,Male,Poland,1991-09-25,2022-09-10,Sales Engineer,Sales,Kulim,Malaysia,active,33.0,2.0
-589,101594,supatra_wattanachai,Supatra,Wattanachai,Female,Thailand,1975-03-04,2024-01-26,Engineering Manager,Engineering,Surabaya,Indonesia,active,49.0,0.0
-590,101595,viyadaploy_boonserm,Viyada Ploy ,Boonserm,Female,Thailand,1966-02-01,2022-07-12,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,58.0,2.0
-591,101596,rose_anderson,Rose,Anderson,Female,Germany,2006-09-13,2024-09-07,Site Support Engineer,Site Support,Kulim,Malaysia,active,18.0,0.0
-592,101597,orathai_supasiri,Orathai,Supasiri,Female,Thailand,1972-03-09,2021-07-05,Finance Engineer,Finance,Kulim,Malaysia,active,52.0,3.0
-593,101598,james_keith,James,Keith,Male,Poland,1970-02-28,2023-05-11,Site Management Engineer,Site Management,Senai,Malaysia,active,54.0,1.0
-594,101599,jenna_johnson,Jenna,Johnson,Female,Australia,1967-11-14,2020-08-13,Sales Engineer,Sales,Senai,Malaysia,active,56.0,4.0
-595,101600,terri_short,Terri,Short,Female,New Zealand,1981-08-17,2023-01-09,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,43.0,1.0
-596,101601,julie_richardson,Julie,Richardson,Female,Germany,2001-08-07,2023-11-24,Information Technology Manager,Information Technology,Kulim,Malaysia,active,23.0,0.0
-597,101602,beverly_curtis,Beverly,Curtis,Male,Germany,2002-09-24,2022-06-01,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,22.0,2.0
-598,101603,luke_kelley,Luke,Kelley,Male,Germany,1997-11-18,2021-02-15,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,26.0,3.0
-599,101604,susan_west,Susan,West,Female,Vietnam,1974-09-04,2022-04-24,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,50.0,2.0
-600,101605,sally_bailey,Sally,Bailey,Female,Vietnam,1972-10-19,2021-10-17,Information Technology Manager,Information Technology,Senai,Malaysia,active,52.0,3.0
-601,101606,megan_rojas,Megan,Rojas,Female,Indonesia,1971-03-24,2023-04-08,Site Support Manager,Site Support,Surabaya,Indonesia,active,53.0,1.0
-602,101607,susan_jackson,Susan,Jackson,Female,Indonesia,1978-05-28,2021-12-01,Executive Management Manager,Executive Management,Kulim,Malaysia,active,46.0,2.0
-603,101608,richard_jones,Richard,Jones,Male,Singapore,1995-08-26,2022-06-18,Site Management Manager,Site Management,Senai,Malaysia,active,29.0,2.0
-604,101609,dawn_wilcox,Dawn,Wilcox,Male,Poland,1963-12-12,2022-12-30,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,60.0,1.0
-605,101610,cynthia_russell,Cynthia,Russell,Female,Canada,1997-10-31,2021-01-16,Site Support Engineer,Site Support,Surabaya,Indonesia,active,27.0,3.0
-606,101611,travis_norman,Travis,Norman,Female,Spain,1991-02-18,2024-06-15,Engineering Engineer,Engineering,Kulim,Malaysia,active,33.0,0.0
+emp_id,Username,First_Name,Last_Name,Gender,OriginCountry,Date_of_Birth,Date_Hired,Position,Department,Site,Site_Country,status,Age,Hired_period
+101005,hussian_jalal,Hussian,Jalal,Male,Malaysia,1967-04-07,2022-01-04,Chief Executive Officer,Executive Management,Kulim,Malaysia,active,57.0,2.0
+101006,allison_kim,Allison,Kim,Female,Guyana,1982-06-27,2024-07-21,Chief Information Officer,Executive Management,Kulim,Malaysia,active,42.0,0.0
+101007,gregory_velazquez,Gregory,Velazquez,Male,Luxembourg,1967-12-15,2023-07-11,Chief Financial Officer,Executive Management,Kulim,Malaysia,active,56.0,1.0
+101008,madison_ramirez,Madison,Ramirez,Female,Columbia,1991-03-31,2020-09-18,Kulim Site Manager,Site Management,Kulim,Malaysia,active,33.0,4.0
+101009,savannah_miller,Savannah,Miller,Female,Malaysia,1968-02-24,2021-08-01,Kuala Lumpur Site Manager,Site Management,Kuala Lumpur,Malaysia,active,56.0,3.0
+101010,amanda_ochoa,Amanda,Ochoa,Female,Namibia,1988-03-15,2023-12-19,Senai Site Manager,Site Management,Senai,Malaysia,active,36.0,0.0
+101011,melissa_meyer,Melissa,Meyer,Female,Indonesia,1978-10-04,2024-01-09,Surabaya Site Manager,Site Management,Surabaya,Indonesia,active,46.0,0.0
+101012,thaqif_salim,Thaqif,Salim,Male,Malaysia,1993-02-02,2022-01-26,Safety Manager,Safety,Senai,Malaysia,active,31.0,2.0
+101013,daniel_shamsul,Daniel,Shamsul,Male,Malaysia,2003-06-03,2020-08-23,Executive Management Engineer,Executive Management,Senai,Malaysia,active,21.0,4.0
+101014,hafiz_wahid,Hafiz,Wahid,Male,Indonesia,1981-12-19,2022-11-18,Information Technology Manager,Information Technology,Surabaya,Indonesia,active,42.0,1.0
+101015,thaqif_rizam,Thaqif,Rizam,Male,Indonesia,1982-10-05,2024-06-16,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,42.0,0.0
+101016,zainuddin_mohamad,Zainuddin,Mohamad,Male,Malaysia,1984-07-07,2022-11-19,Site Support Analyst,Site Support,Kuala Lumpur,Malaysia,active,40.0,1.0
+101017,zainuddin_rami,Zainuddin,Rami,Male,Malaysia,1979-07-15,2019-12-26,Site Support Executive,Site Support,Senai,Malaysia,active,45.0,4.0
+101018,fariz_idris,Fariz,Idris,Male,Malaysia,1975-07-06,2022-02-09,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,49.0,2.0
+101019,sulaiman_saad,Sulaiman,Saad,Male,Malaysia,1987-07-22,2022-07-23,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,37.0,2.0
+101020,luqman_omar,Luqman,Omar,Male,Malaysia,1986-07-22,2022-08-06,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,38.0,2.0
+101021,fadhil_shamsul,Fadhil,Shamsul,Male,Malaysia,1976-05-17,2022-05-05,Information Technology Manager,Information Technology,Kulim,Malaysia,active,48.0,2.0
+101022,junaid_zainuddin,Junaid,Zainuddin,Male,Indonesia,1973-09-02,2024-02-16,Site Support Manager,Site Support,Surabaya,Indonesia,active,51.0,0.0
+101023,ilham_zahid,Ilham,Zahid,Male,Malaysia,1989-12-18,2023-07-03,HR Executive,Human Resource,Kuala Lumpur,Malaysia,active,34.0,1.0
+101024,arif_rizki,Arif,Rizki,Male,Indonesia,1966-08-23,2020-09-07,HR Engineer,Human Resource,Surabaya,Indonesia,active,58.0,4.0
+101025,syafiq_safwan,Syafiq,Safwan,Male,Malaysia,1979-08-22,2022-12-22,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,45.0,1.0
+101026,haziq_zulkifli,Haziq,Zulkifli,Male,Malaysia,1980-10-05,2024-03-05,Site Management Manager,Site Management,Surabaya,Indonesia,active,44.0,0.0
+101027,ridwan_farhan,Ridwan,Farhan,Male,Malaysia,2005-06-15,2022-03-17,Engineering Engineer,Engineering,Surabaya,Indonesia,active,19.0,2.0
+101028,taufik_mustaqim,Taufik,Mustaqim,Male,Malaysia,1984-05-05,2022-05-19,Information Technology Manager,Information Technology,Kulim,Malaysia,active,40.0,2.0
+101029,qayyum_khalid,Qayyum,Khalid,Male,Indonesia,2001-12-17,2024-02-04,Site Management Manager,Site Management,Surabaya,Indonesia,active,22.0,0.0
+101030,nizamuddin_rizam,Nizamuddin,Rizam,Male,Malaysia,2004-12-01,2020-09-30,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,19.0,4.0
+101031,abid_zulkifli,Abid,Zulkifli,Male,Malaysia,1964-12-22,2019-12-13,Sales Executive,Sales,Surabaya,Indonesia,active,59.0,4.0
+101032,danish_arif,Danish,Arif,Male,Malaysia,1982-04-15,2022-07-23,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,42.0,2.0
+101033,omar_zainudeen,Omar,Zainudeen,Male,Malaysia,2002-12-06,2022-08-04,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,21.0,2.0
+101034,zikri_shamsul,Zikri,Shamsul,Male,Indonesia,2006-03-22,2021-11-21,Site Management Analyst,Site Management,Surabaya,Indonesia,active,18.0,2.0
+101035,ridwan_wahid,Ridwan,Wahid,Male,Malaysia,1968-05-04,2023-06-10,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,56.0,1.0
+101036,omar_zawawi,Omar,Zawawi,Male,Malaysia,1997-12-12,2020-09-08,Executive Management Executive,Executive Management,Kulim,Malaysia,active,26.0,4.0
+101037,khairul_yasin,Khairul,Yasin,Male,Malaysia,2000-08-18,2020-03-03,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,24.0,4.0
+101038,ihsan_rahman,Ihsan,Rahman,Male,Malaysia,2002-10-22,2020-07-25,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,22.0,4.0
+101039,haikal_basri,Haikal,Basri,Male,Malaysia,1998-06-03,2023-04-28,HR Analyst,Human Resource,Surabaya,Indonesia,active,26.0,1.0
+101040,ridwan_omar,Ridwan,Omar,Male,Malaysia,1978-09-13,2021-08-16,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,46.0,3.0
+101041,sufyan_irwan,Sufyan,Irwan,Male,Malaysia,1994-08-29,2024-05-08,Sales Executive,Sales,Senai,Malaysia,active,30.0,0.0
+101042,azzam_zainuddin,Azzam,Zainuddin,Male,Malaysia,2006-09-03,2020-12-10,Finance Engineer,Finance,Kulim,Malaysia,active,18.0,3.0
+101043,thaqif_saad,Thaqif,Saad,Male,Malaysia,1997-01-08,2022-06-13,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,27.0,2.0
+101044,jihan_wahid,Jihan,Wahid,Male,Indonesia,1985-10-13,2020-07-06,Finance Engineer,Finance,Surabaya,Indonesia,active,39.0,4.0
+101045,farid_syedmohammedjalal,Farid,Syed Mohammed Jalal,Male,Malaysia,1989-01-19,2024-05-03,Site Support Manager,Site Support,Kulim,Malaysia,active,35.0,0.0
+101046,haikal_rahman,Haikal,Rahman,Male,Malaysia,1988-02-26,2022-02-03,Sales Engineer,Sales,Senai,Malaysia,active,36.0,2.0
+101047,ikram_shahbaz,Ikram,Shahbaz,Male,Malaysia,1993-03-11,2022-05-16,Safety Engineer,Safety,Senai,Malaysia,active,31.0,2.0
+101048,bahar_pasha,Bahar,Pasha,Male,Malaysia,2003-09-05,2021-04-22,Engineering Analyst,Engineering,Senai,Malaysia,active,21.0,3.0
+101049,iqbal_tohir,Iqbal,Tohir,Male,Malaysia,1998-06-06,2023-05-29,Data Analysis Analyst,Data Analysis,Kulim,Malaysia,active,26.0,1.0
+101050,taufik_zulkifli,Taufik,Zulkifli,Male,Indonesia,1986-11-17,2020-01-19,Finance Executive,Finance,Surabaya,Indonesia,active,37.0,4.0
+101051,raziq_malik,Raziq,Malik,Male,Indonesia,1987-10-28,2021-05-17,Finance Executive,Finance,Surabaya,Indonesia,active,37.0,3.0
+101052,qudrat_hisham,Qudrat,Hisham,Male,Malaysia,1965-11-01,2024-02-06,Information Technology Analyst,Information Technology,Senai,Malaysia,active,59.0,0.0
+101053,saad_ahmad,Saad,Ahmad,Male,Indonesia,1965-07-26,2023-10-05,Finance Engineer,Finance,Surabaya,Indonesia,active,59.0,1.0
+101054,nizam_rami,Nizam,Rami,Male,Malaysia,1971-01-04,2021-09-19,Site Management Analyst,Site Management,Surabaya,Indonesia,active,53.0,3.0
+101055,mikhail_azman,Mikhail,Azman,Male,Malaysia,1974-07-11,2020-04-27,Information Technology Manager,Information Technology,Kuala Lumpur,Malaysia,active,50.0,4.0
+101056,shahir_mohammad,Shahir,Mohammad,Male,Malaysia,1979-02-17,2021-02-05,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,45.0,3.0
+101057,khodir_zahid,Khodir,Zahid,Male,Indonesia,1968-04-15,2024-07-27,Information Technology Executive,Information Technology,Surabaya,Indonesia,active,56.0,0.0
+101058,azhari_firas,Azhari,Firas,Male,Malaysia,1984-06-11,2023-05-20,Site Support Engineer,Site Support,Surabaya,Indonesia,active,40.0,1.0
+101059,bahtiar_syahril,Bahtiar,Syahril,Male,Malaysia,1972-10-30,2020-10-02,Sales Analyst,Sales,Senai,Malaysia,active,52.0,4.0
+101060,ikmal_bakar,Ikmal,Bakar,Male,Malaysia,1972-08-24,2024-01-16,HR Engineer,Human Resource,Senai,Malaysia,active,52.0,0.0
+101061,saad_nabil,Saad,Nabil,Male,Malaysia,1977-08-11,2023-04-10,Information Technology Analyst,Information Technology,Senai,Malaysia,active,47.0,1.0
+101062,zulfadli_bashir,Zulfadli,Bashir,Male,Malaysia,2002-01-01,2022-02-06,Executive Management Manager,Executive Management,Kulim,Malaysia,active,22.0,2.0
+101063,kamal_zahid,Kamal,Zahid,Male,Malaysia,1968-10-09,2021-10-01,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,56.0,3.0
+101064,thaqif_shamsul,Thaqif,Shamsul,Male,Indonesia,1975-11-26,2022-07-01,Engineering Analyst,Engineering,Surabaya,Indonesia,active,48.0,2.0
+101065,ihsan_farhan,Ihsan,Farhan,Male,Malaysia,2005-09-26,2023-10-03,Executive Management Analyst,Executive Management,Senai,Malaysia,active,19.0,1.0
+101066,omar_misbah,Omar,Misbah,Male,Malaysia,1975-10-28,2023-09-29,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,49.0,1.0
+101067,malik_yusof,Malik,Yusof,Male,Malaysia,1988-07-23,2022-03-10,Executive Management Analyst,Executive Management,Senai,Malaysia,active,36.0,2.0
+101068,mikhail_luqman,Mikhail,Luqman,Male,Malaysia,2001-07-03,2022-07-12,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,23.0,2.0
+101069,lutfi_umar,Lutfi,Umar,Male,Malaysia,1989-09-12,2022-03-15,Site Management Executive,Site Management,Kulim,Malaysia,active,35.0,2.0
+101070,rayyan_zulkarnain,Rayyan,Zulkarnain,Male,Indonesia,1995-02-13,2020-06-16,Sales Engineer,Sales,Surabaya,Indonesia,active,29.0,4.0
+101071,zulfadli_rizam,Zulfadli,Rizam,Male,Malaysia,1978-07-19,2021-01-08,Site Management Engineer,Site Management,Surabaya,Indonesia,active,46.0,3.0
+101072,farhan_bakar,Farhan,Bakar,Male,Malaysia,1979-08-25,2020-05-28,Site Management Manager,Site Management,Kulim,Malaysia,active,45.0,4.0
+101073,zulkarnain_mansor,Zulkarnain,Mansor,Male,Malaysia,1974-07-15,2022-12-16,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,50.0,1.0
+101074,farhan_mansor,Farhan,Mansor,Male,Malaysia,1986-11-24,2023-02-04,Executive Management Manager,Executive Management,Kuala Lumpur,Malaysia,active,37.0,1.0
+101075,khai_hafiz,Khai,Hafiz,Male,Indonesia,1983-01-10,2024-06-09,Safety Analyst,Safety,Surabaya,Indonesia,active,41.0,0.0
+101076,emran_shahrul,Emran,Shahrul,Male,Malaysia,1971-03-15,2022-03-20,Finance Manager,Finance,Kulim,Malaysia,active,53.0,2.0
+101077,danish_ibrahim,Danish,Ibrahim,Male,Malaysia,2001-10-08,2021-09-09,Engineering Executive,Engineering,Surabaya,Indonesia,active,23.0,3.0
+101078,bahar_zaman,Bahar,Zaman,Male,Malaysia,2006-08-23,2020-10-27,Sales Analyst,Sales,Kulim,Malaysia,active,18.0,4.0
+101079,firas_tajuddin,Firas,Tajuddin,Male,Malaysia,1995-01-31,2021-07-06,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,29.0,3.0
+101080,jazlan_nabil,Jazlan,Nabil,Male,Malaysia,1998-07-06,2021-01-14,Information Technology Executive,Information Technology,Kuala Lumpur,Malaysia,active,26.0,3.0
+101081,ramzi_rahman,Ramzi,Rahman,Male,Malaysia,1980-04-07,2024-07-18,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,44.0,0.0
+101082,aidan_firas,Aidan,Firas,Male,Malaysia,1997-02-24,2021-09-25,HR Executive,Human Resource,Surabaya,Indonesia,active,27.0,3.0
+101083,eshan_basri,Eshan,Basri,Male,Malaysia,1997-10-12,2024-12-09,Site Support Analyst,Site Support,Kulim,Malaysia,active,27.0,-1.0
+101084,farhan_hisham,Farhan,Hisham,Male,Malaysia,1991-10-15,2021-06-06,Executive Management Analyst,Executive Management,Surabaya,Indonesia,active,33.0,3.0
+101085,junaid_irwan,Junaid,Irwan,Male,Malaysia,2000-02-16,2020-10-08,Engineering Manager,Engineering,Surabaya,Indonesia,active,24.0,4.0
+101086,naim_safwan,Naim,Safwan,Male,Malaysia,1998-11-06,2024-01-31,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,25.0,0.0
+101087,wani_zaki,Wani,Zaki,Female,Malaysia,1990-02-16,2020-07-12,Safety Manager,Safety,Kulim,Malaysia,active,34.0,4.0
+101088,raniah_wahid,Raniah,Wahid,Female,Malaysia,1979-07-31,2021-07-21,Information Technology Analyst,Information Technology,Senai,Malaysia,active,45.0,3.0
+101089,zehra_hamid,Zehra,Hamid,Female,Malaysia,1967-04-29,2020-12-17,Engineering Executive,Engineering,Kuala Lumpur,Malaysia,active,57.0,3.0
+101090,amira_mahyudeen,Amira,Mahyudeen,Female,Malaysia,1978-11-22,2023-03-18,Sales Analyst,Sales,Kulim,Malaysia,active,45.0,1.0
+101091,syira_shamsul,Syira,Shamsul,Female,Indonesia,1999-03-26,2021-06-07,Site Management Analyst,Site Management,Surabaya,Indonesia,active,25.0,3.0
+101092,khairunnisa_mohamad,Khairunnisa,Mohamad,Female,Malaysia,1986-11-22,2023-12-05,Site Support Engineer,Site Support,Surabaya,Indonesia,active,37.0,0.0
+101093,azmira_mahmud,Azmira,Mahmud,Female,Malaysia,1979-08-22,2024-01-15,Site Management Manager,Site Management,Kuala Lumpur,Malaysia,active,45.0,0.0
+101094,hanis_rahman,Hanis,Rahman,Female,Malaysia,2000-09-15,2021-06-10,Finance Analyst,Finance,Senai,Malaysia,active,24.0,3.0
+101095,farisha_iskandar,Farisha,Iskandar,Female,Malaysia,1973-05-04,2020-05-30,Information Technology Engineer,Information Technology,Senai,Malaysia,active,51.0,4.0
+101096,intan_ali,Intan,Ali,Female,Malaysia,2003-08-17,2020-12-27,Engineering Manager,Engineering,Senai,Malaysia,active,21.0,3.0
+101097,darlina_noh,Darlina,Noh,Female,Malaysia,1988-12-30,2023-02-16,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,35.0,1.0
+101098,najwa_mahyudeen,Najwa,Mahyudeen,Female,Malaysia,1990-06-22,2021-07-21,Safety Executive,Safety,Senai,Malaysia,active,34.0,3.0
+101099,raniah_nabil,Raniah,Nabil,Female,Indonesia,1980-11-04,2024-02-24,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,44.0,0.0
+101100,aida_umar,Aida,Umar,Female,Malaysia,1981-02-01,2023-11-27,Site Management Analyst,Site Management,Kulim,Malaysia,active,43.0,0.0
+101101,veeradena_azzam,Veeradena,Azzam,Female,Indonesia,1967-05-31,2023-08-10,Sales Analyst,Sales,Surabaya,Indonesia,active,57.0,1.0
+101102,tasha_basri,Tasha,Basri,Female,Malaysia,1991-09-01,2020-01-01,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,33.0,4.0
+101103,najwa_zulkarnain,Najwa,Zulkarnain,Female,Malaysia,1973-07-12,2022-10-02,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,51.0,2.0
+101104,nabila_rizam,Nabila,Rizam,Female,Indonesia,1972-07-01,2023-08-30,Engineering Manager,Engineering,Surabaya,Indonesia,active,52.0,1.0
+101105,syafikah_safwan,Syafikah,Safwan,Female,Malaysia,1972-07-07,2024-10-09,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,52.0,0.0
+101106,jannah_nasir,Jannah,Nasir,Female,Malaysia,1978-07-24,2022-09-02,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,46.0,2.0
+101107,pusparatnasari_mizan,Puspa Ratnasari,Mizan,Female,Indonesia,1968-12-03,2023-11-01,Safety Engineer,Safety,Surabaya,Indonesia,active,55.0,1.0
+101108,zainab_sukiman,Zainab,Sukiman,Female,Malaysia,2000-05-23,2024-11-01,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,24.0,0.0
+101109,elina_karim,Elina,Karim,Female,Malaysia,1995-08-05,2023-06-13,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,29.0,1.0
+101110,fariha_iskandar,Fariha,Iskandar,Female,Indonesia,1982-01-19,2023-05-07,Data Analysis Manager,Data Analysis,Surabaya,Indonesia,active,42.0,1.0
+101111,zainab_rusli,Zainab,Rusli,Female,Malaysia,1979-09-24,2022-02-23,Site Support Manager,Site Support,Kulim,Malaysia,active,45.0,2.0
+101112,nadira_iskandar,Nadira,Iskandar,Female,Malaysia,1964-06-04,2021-06-19,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,60.0,3.0
+101113,shazwani_zainul,Shazwani,Zainul,Female,Malaysia,1983-08-07,2024-03-15,Sales Manager,Sales,Surabaya,Indonesia,active,41.0,0.0
+101114,sarimah_tajuddin,Sarimah,Tajuddin,Female,Malaysia,1972-08-31,2023-07-22,Safety Executive,Safety,Surabaya,Indonesia,active,52.0,1.0
+101115,syafira_syedmohammedjalal,Syafira,Syed Mohammed Jalal,Female,Malaysia,1977-02-13,2019-10-27,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,47.0,5.0
+101116,hani_ahmad,Hani,Ahmad,Female,Malaysia,1964-10-08,2020-12-04,Engineering Manager,Engineering,Surabaya,Indonesia,active,60.0,3.0
+101117,amira_zaman,Amira,Zaman,Female,Malaysia,1991-07-26,2023-03-01,Site Management Analyst,Site Management,Surabaya,Indonesia,active,33.0,1.0
+101118,sofiya_naim,Sofiya,Naim,Female,Malaysia,1979-04-20,2024-02-01,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,45.0,0.0
+101119,amani_amir,Amani,Amir,Female,Malaysia,1968-08-21,2021-08-23,Safety Analyst,Safety,Kuala Lumpur,Malaysia,active,56.0,3.0
+101120,amirah_rizki,Amirah,Rizki,Female,Malaysia,1976-05-20,2023-07-17,Site Management Manager,Site Management,Kulim,Malaysia,active,48.0,1.0
+101121,laila_zaki,Laila,Zaki,Female,Malaysia,1990-12-18,2023-03-14,Engineering Manager,Engineering,Kulim,Malaysia,active,33.0,1.0
+101122,wati_khairul,Wati,Khairul,Female,Malaysia,1989-05-25,2020-05-12,Data Analysis Analyst,Data Analysis,Kuala Lumpur,Malaysia,active,35.0,4.0
+101123,qistina_ahmad,Qistina,Ahmad,Female,Malaysia,1978-11-27,2024-03-19,Information Technology Engineer,Information Technology,Senai,Malaysia,active,45.0,0.0
+101124,wati_roslan,Wati,Roslan,Female,Malaysia,1990-02-03,2023-06-24,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,34.0,1.0
+101125,puteh_naim,Puteh,Naim,Female,Malaysia,1968-10-23,2022-02-16,Executive Management Executive,Executive Management,Kulim,Malaysia,active,56.0,2.0
+101126,zehra_safwan,Zehra,Safwan,Female,Malaysia,1987-05-17,2021-09-30,Safety Executive,Safety,Senai,Malaysia,active,37.0,3.0
+101127,safira_rudi,Safira,Rudi,Female,Malaysia,1981-04-20,2022-03-10,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,43.0,2.0
+101128,jannah_khairi,Jannah,Khairi,Female,Malaysia,1990-10-28,2020-09-29,Executive Management Manager,Executive Management,Senai,Malaysia,active,34.0,4.0
+101129,wani_khairul,Wani,Khairul,Female,Malaysia,1972-05-26,2020-03-16,Sales Executive,Sales,Kuala Lumpur,Malaysia,active,52.0,4.0
+101130,robiah_mazlan,Robiah,Mazlan,Female,Malaysia,1993-12-06,2024-04-25,Engineering Analyst,Engineering,Kulim,Malaysia,active,30.0,0.0
+101131,qilasuhaila_mazlan,Qila Suhaila,Mazlan,Female,Indonesia,1985-05-19,2020-09-11,Sales Executive,Sales,Surabaya,Indonesia,active,39.0,4.0
+101132,elisha_zaki,Elisha,Zaki,Female,Malaysia,1991-06-08,2019-08-11,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,33.0,5.0
+101133,tiara_salim,Tiara,Salim,Female,Malaysia,1992-07-02,2024-01-17,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,32.0,0.0
+101134,nurul_tohir,Nurul,Tohir,Female,Indonesia,1993-06-27,2022-03-05,HR Engineer,Human Resource,Surabaya,Indonesia,active,31.0,2.0
+101135,farisha_pasha,Farisha,Pasha,Female,Indonesia,2001-02-24,2023-06-15,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,23.0,1.0
+101136,iman_malik,Iman,Malik,Female,Indonesia,1980-11-11,2023-04-09,Safety Manager,Safety,Surabaya,Indonesia,active,43.0,1.0
+101137,veeradena_munir,Veeradena,Munir,Female,Malaysia,1985-01-21,2024-05-22,Information Technology Analyst,Information Technology,Senai,Malaysia,active,39.0,0.0
+101138,pusparatnasari_rizal,Puspa Ratnasari,Rizal,Female,Indonesia,1984-02-28,2021-02-19,Sales Executive,Sales,Surabaya,Indonesia,active,40.0,3.0
+101139,damia_firdaus,Damia,Firdaus,Female,Indonesia,1981-02-24,2023-09-24,Safety Manager,Safety,Surabaya,Indonesia,active,43.0,1.0
+101140,ummi_omar,Ummi,Omar,Female,Indonesia,1995-09-16,2022-07-10,Engineering Executive,Engineering,Surabaya,Indonesia,active,29.0,2.0
+101141,syarifah_ahmad,Syarifah,Ahmad,Female,Malaysia,1980-08-17,2022-09-01,Engineering Manager,Engineering,Senai,Malaysia,active,44.0,2.0
+101142,zalwani_johan,Zalwani,Johan,Female,Malaysia,1989-02-28,2022-10-30,Executive Management Manager,Executive Management,Senai,Malaysia,active,35.0,2.0
+101143,tasha_malik,Tasha,Malik,Female,Malaysia,1995-02-06,2021-10-22,Site Management Executive,Site Management,Kulim,Malaysia,active,29.0,3.0
+101144,mirafilzah_badri,Mira Filzah,Badri,Female,Malaysia,2001-03-05,2024-07-07,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,23.0,0.0
+101145,alisha_rizam,Alisha,Rizam,Female,Indonesia,1994-12-02,2023-04-03,Site Support Engineer,Site Support,Surabaya,Indonesia,active,29.0,1.0
+101146,tatisuriati_zainul,Tati Suriati,Zainul,Female,Malaysia,1984-04-15,2022-09-14,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,40.0,2.0
+101147,elisha_mizan,Elisha,Mizan,Female,Indonesia,1967-03-26,2024-02-16,Site Support Analyst,Site Support,Surabaya,Indonesia,active,57.0,0.0
+101148,hanis_shahin,Hanis,Shahin,Female,Malaysia,1967-03-31,2022-12-17,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,57.0,1.0
+101149,nuraina_rizam,Nuraina,Rizam,Female,Malaysia,2005-06-20,2020-10-29,Site Support Analyst,Site Support,Kulim,Malaysia,active,19.0,4.0
+101150,elina_idris,Elina,Idris,Female,Malaysia,1991-08-22,2020-12-17,Safety Manager,Safety,Kulim,Malaysia,active,33.0,3.0
+101151,thalia_rahman,Thalia,Rahman,Female,Malaysia,1965-12-12,2024-02-08,Information Technology Analyst,Information Technology,Kulim,Malaysia,active,58.0,0.0
+101152,yara_firas,Yara,Firas,Female,Malaysia,1976-08-28,2021-03-16,Safety Manager,Safety,Senai,Malaysia,active,48.0,3.0
+101153,veeradena_salim,Veeradena,Salim,Female,Malaysia,1977-05-20,2024-09-20,Executive Management Analyst,Executive Management,Senai,Malaysia,active,47.0,0.0
+101154,khairunnisa_firas,Khairunnisa,Firas,Female,Malaysia,2001-04-16,2020-09-26,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,23.0,4.0
+101155,tiara_khairi,Tiara,Khairi,Female,Malaysia,1965-02-11,2022-09-29,Sales Executive,Sales,Kuala Lumpur,Malaysia,active,59.0,2.0
+101156,qilasuhaila_hisham,Qila Suhaila,Hisham,Female,Malaysia,1965-09-26,2020-03-24,HR Executive,Human Resource,Senai,Malaysia,active,59.0,4.0
+101157,alia_kamal,Alia,Kamal,Female,Malaysia,1977-10-31,2020-08-28,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,47.0,4.0
+101158,nuraina_zaman,Nuraina,Zaman,Female,Malaysia,1998-03-29,2024-01-05,Site Support Executive,Site Support,Surabaya,Indonesia,active,26.0,0.0
+101159,kamila_zahir,Kamila,Zahir,Female,Malaysia,1980-01-18,2023-07-07,Information Technology Executive,Information Technology,Kulim,Malaysia,active,44.0,1.0
+101160,elina_wafi,Elina,Wafi,Female,Indonesia,1980-01-28,2023-09-28,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,44.0,1.0
+101161,sarina_kamal,Sarina,Kamal,Female,Malaysia,1975-12-18,2023-02-21,Information Technology Executive,Information Technology,Senai,Malaysia,active,48.0,1.0
+101162,dinesh_sivasubramaniam,Dinesh ,Sivasubramaniam,Male,Malaysia,1975-08-23,2019-10-29,Site Management Engineer,Site Management,Senai,Malaysia,active,49.0,5.0
+101163,ravikumar_sivasubramaniam,Ravi Kumar ,Sivasubramaniam,Male,Malaysia,1987-07-30,2023-06-09,Executive Management Analyst,Executive Management,Senai,Malaysia,active,37.0,1.0
+101164,rajeshreddy_balakrishnan,Rajesh Reddy ,Balakrishnan,Male,Malaysia,1987-11-22,2024-01-14,Site Management Executive,Site Management,Kuala Lumpur,Malaysia,active,36.0,0.0
+101165,balaji_ramasamy,Balaji ,Ramasamy,Male,Malaysia,1987-10-20,2024-03-18,Data Analysis Executive,Data Analysis,Kuala Lumpur,Malaysia,active,37.0,0.0
+101166,karthik_vellayan,Karthik ,Vellayan,Male,Malaysia,1987-02-12,2021-08-11,Safety Manager,Safety,Surabaya,Indonesia,active,37.0,3.0
+101167,harish_arumugam,Harish ,Arumugam,Male,Malaysia,1978-03-08,2020-05-15,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,46.0,4.0
+101168,harish_ramalingam,Harish ,Ramalingam,Male,Malaysia,1990-06-04,2023-07-23,Site Support Analyst,Site Support,Senai,Malaysia,active,34.0,1.0
+101169,surendran_rajesh,Surendran ,Rajesh,Male,Malaysia,2005-08-03,2024-04-19,Safety Analyst,Safety,Kuala Lumpur,Malaysia,active,19.0,0.0
+101170,uthaya_venkatesan,Uthaya ,Venkatesan,Male,Malaysia,1983-06-28,2021-11-07,Sales Engineer,Sales,Senai,Malaysia,active,41.0,2.0
+101171,ajith_sundararajan,Ajith ,Sundararajan,Female,Malaysia,1973-11-25,2020-12-14,Site Management Engineer,Site Management,Surabaya,Indonesia,inactive,50.0,3.0
+101172,thamilselvan_rajendran,Thamil Selvan ,Rajendran,Male,Malaysia,1974-08-02,2021-07-22,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,50.0,3.0
+101173,suresh_murugan,Suresh ,Murugan,Male,Malaysia,1975-07-16,2022-06-09,Executive Management Manager,Executive Management,Kuala Lumpur,Malaysia,active,49.0,2.0
+101174,balaji_thirunavukarasu,Balaji ,Thirunavukarasu,Male,Malaysia,2005-04-13,2020-01-20,Safety Engineer,Safety,Kulim,Malaysia,active,19.0,4.0
+101175,rajeshreddy_ramalingam,Rajesh Reddy ,Ramalingam,Male,Malaysia,1993-02-03,2021-02-02,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,31.0,3.0
+101176,prakash_palani,Prakash ,Palani,Female,Malaysia,1991-08-13,2022-01-28,Sales Analyst,Sales,Kulim,Malaysia,active,33.0,2.0
+101177,aiyappan_balakrishnan,Aiyappan ,Balakrishnan,Male,Malaysia,1981-11-30,2024-02-09,Finance Engineer,Finance,Surabaya,Indonesia,active,42.0,0.0
+101178,prakash_subash,Prakash ,Subash,Male,Malaysia,1995-07-09,2020-04-01,Sales Executive,Sales,Senai,Malaysia,active,29.0,4.0
+101179,mahesh_venkatesan,Mahesh ,Venkatesan,Male,Malaysia,1966-01-18,2022-10-22,Sales Manager,Sales,Senai,Malaysia,active,58.0,2.0
+101180,nadarajah_jayakumar,Nadarajah ,Jayakumar,Female,Malaysia,1968-07-31,2024-04-01,HR Manager,Human Resource,Kulim,Malaysia,active,56.0,0.0
+101181,ajith_vellayan,Ajith ,Vellayan,Male,Malaysia,1993-07-02,2023-07-22,Engineering Engineer,Engineering,Kuala Lumpur,Malaysia,active,31.0,1.0
+101182,surendran_marimuthu,Surendran ,Marimuthu,Male,Malaysia,1992-03-25,2021-10-14,Finance Analyst,Finance,Kuala Lumpur,Malaysia,active,32.0,3.0
+101183,ramesh_thangavelu,Ramesh ,Thangavelu,Male,Malaysia,2005-07-03,2022-04-05,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,19.0,2.0
+101184,kumaravel_narasimhan,Kumaravel ,Narasimhan,Male,Malaysia,1986-05-29,2020-01-28,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,38.0,4.0
+101185,dinesh_palanisamy,Dinesh ,Palanisamy,Male,Malaysia,1984-02-04,2022-11-25,Sales Manager,Sales,Surabaya,Indonesia,active,40.0,1.0
+101186,uthaya_murugan,Uthaya ,Murugan,Male,Malaysia,1965-05-24,2020-03-24,Executive Management Executive,Executive Management,Senai,Malaysia,active,59.0,4.0
+101187,anand_vellayan,Anand ,Vellayan,Male,Malaysia,1983-10-26,2019-12-16,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,41.0,4.0
+101188,ravikumar_ramasamy,Ravi Kumar ,Ramasamy,Male,Malaysia,2004-09-27,2023-11-17,Executive Management Manager,Executive Management,Senai,Malaysia,active,20.0,0.0
+101189,surendran_kanna,Surendran ,Kanna,Male,Malaysia,1969-06-28,2023-03-22,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,55.0,1.0
+101190,praveen_govindasamy,Praveen ,Govindasamy,Male,Malaysia,2006-05-17,2024-08-21,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,18.0,0.0
+101191,premkumar_kanna,Prem Kumar ,Kanna,Male,Malaysia,2000-02-09,2023-08-19,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,24.0,1.0
+101192,surendran_marimuthu1,Surendran ,Marimuthu,Male,Malaysia,2006-03-03,2022-10-10,Site Management Engineer,Site Management,Surabaya,Indonesia,active,18.0,2.0
+101193,mahesh_subash,Mahesh ,Subash,Male,Malaysia,1992-11-03,2023-09-05,Sales Executive,Sales,Senai,Malaysia,active,32.0,1.0
+101194,nadarajah_kanna,Nadarajah ,Kanna,Female,Malaysia,1991-09-24,2023-08-10,Site Support Engineer,Site Support,Kulim,Malaysia,active,33.0,1.0
+101195,anand_ramachandran,Anand ,Ramachandran,Male,Malaysia,1969-12-20,2024-07-29,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,54.0,0.0
+101196,arjun_narayanan,Arjun ,Narayanan,Male,Malaysia,1993-12-18,2020-01-19,Engineering Manager,Engineering,Senai,Malaysia,active,30.0,4.0
+101197,santhosh_thirunavukarasu,Santhosh ,Thirunavukarasu,Male,Malaysia,2001-08-19,2023-04-19,Information Technology Manager,Information Technology,Senai,Malaysia,active,23.0,1.0
+101198,vinay_sundararajan,Vinay ,Sundararajan,Male,Malaysia,2003-11-14,2024-02-14,Sales Engineer,Sales,Surabaya,Indonesia,active,20.0,0.0
+101199,ram_dhanapal,Ram ,Dhanapal,Male,Malaysia,1990-03-07,2024-04-24,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,34.0,0.0
+101200,praveen_ramasamy,Praveen ,Ramasamy,Male,Malaysia,1995-01-20,2024-04-02,Engineering Analyst,Engineering,Kulim,Malaysia,active,29.0,0.0
+101201,senthil_arumugam,Senthil ,Arumugam,Female,Malaysia,1987-06-10,2023-01-21,Information Technology Analyst,Information Technology,Kulim,Malaysia,active,37.0,1.0
+101202,rajendran_sivasubramaniam,Rajendran ,Sivasubramaniam,Male,Malaysia,1975-07-17,2022-07-15,Site Management Analyst,Site Management,Surabaya,Indonesia,active,49.0,2.0
+101203,surendran_govindasamy,Surendran ,Govindasamy,Male,Malaysia,1998-09-04,2024-08-28,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,26.0,0.0
+101204,prakash_marimuthu,Prakash ,Marimuthu,Male,Malaysia,1983-06-17,2023-05-23,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,41.0,1.0
+101205,rajendran_muthusamy,Rajendran ,Muthusamy,Male,Malaysia,1976-09-12,2022-02-24,Finance Analyst,Finance,Senai,Malaysia,active,48.0,2.0
+101206,arjun_muthusamy,Arjun ,Muthusamy,Male,Malaysia,1999-11-18,2020-09-04,Executive Management Executive,Executive Management,Kuala Lumpur,Malaysia,active,24.0,4.0
+101207,vikas_govindasamy,Vikas ,Govindasamy,Female,Malaysia,1985-02-12,2021-09-28,HR Executive,Human Resource,Kulim,Malaysia,active,39.0,3.0
+101208,ramesh_palani,Ramesh ,Palani,Male,Malaysia,1994-11-19,2021-10-08,Safety Executive,Safety,Kulim,Malaysia,active,29.0,3.0
+101209,balaji_muthusamy,Balaji ,Muthusamy,Male,Malaysia,1994-04-21,2023-12-21,HR Engineer,Human Resource,Senai,Malaysia,active,30.0,0.0
+101210,vignesh_sivasubramaniam,Vignesh ,Sivasubramaniam,Female,Malaysia,1997-02-08,2023-06-21,Safety Engineer,Safety,Kulim,Malaysia,active,27.0,1.0
+101211,ravikumar_jayakumar,Ravi Kumar ,Jayakumar,Male,Malaysia,1984-10-22,2021-09-08,Safety Engineer,Safety,Kulim,Malaysia,active,40.0,3.0
+101212,mohan_palani,Mohan ,Palani,Male,Malaysia,1994-12-11,2020-04-26,Site Management Analyst,Site Management,Kulim,Malaysia,active,29.0,4.0
+101213,santhosh_jayakumar,Santhosh ,Jayakumar,Male,Malaysia,1975-01-01,2023-01-20,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,49.0,1.0
+101214,prakash_balakrishnan,Prakash ,Balakrishnan,Male,Malaysia,2001-07-07,2023-06-06,Site Support Manager,Site Support,Senai,Malaysia,active,23.0,1.0
+101215,uthaya_venkatesan1,Uthaya ,Venkatesan,Male,Malaysia,1965-12-25,2023-06-19,Site Support Engineer,Site Support,Surabaya,Indonesia,active,58.0,1.0
+101216,sathish_dhanapal,Sathish ,Dhanapal,Male,Malaysia,1988-09-19,2022-10-20,HR Executive,Human Resource,Surabaya,Indonesia,active,36.0,2.0
+101217,praveen_ganesan,Praveen ,Ganesan,Male,Malaysia,1980-05-06,2021-07-21,Data Analysis Analyst,Data Analysis,Kuala Lumpur,Malaysia,active,44.0,3.0
+101218,jagan_subash,Jagan ,Subash,Male,Malaysia,1995-05-08,2024-01-23,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,29.0,0.0
+101219,kannan_dhanapal,Kannan ,Dhanapal,Male,Malaysia,1980-03-30,2020-09-22,Engineering Engineer,Engineering,Surabaya,Indonesia,active,44.0,4.0
+101220,senthil_vellayan,Senthil ,Vellayan,Male,Malaysia,1968-12-05,2024-08-31,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,55.0,0.0
+101221,vicnesswary_ramachandran,Vicnesswary,Ramachandran,Female,Malaysia,2005-05-09,2024-03-04,Finance Analyst,Finance,Kulim,Malaysia,active,19.0,0.0
+101222,vinay_chandra,Vinay ,Chandra,Male,Malaysia,1994-03-07,2021-07-02,Site Management Manager,Site Management,Surabaya,Indonesia,active,30.0,3.0
+101223,sathish_ramachandran,Sathish ,Ramachandran,Male,Malaysia,1969-10-22,2020-05-14,HR Manager,Human Resource,Surabaya,Indonesia,active,55.0,4.0
+101224,sathish_ramu,Sathish ,Ramu,Male,Malaysia,1996-06-23,2021-10-25,Data Analysis Manager,Data Analysis,Surabaya,Indonesia,active,28.0,3.0
+101225,ajith_palani,Ajith ,Palani,Female,Malaysia,1996-10-29,2023-08-17,Executive Management Executive,Executive Management,Surabaya,Indonesia,active,28.0,1.0
+101226,anand_marimuthu,Anand ,Marimuthu,Male,Malaysia,1997-12-17,2022-10-24,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,26.0,2.0
+101227,ravikumar_kanna,Ravi Kumar ,Kanna,Male,Malaysia,1990-01-20,2020-12-11,Site Management Analyst,Site Management,Kulim,Malaysia,active,34.0,3.0
+101228,prakash_arumugam,Prakash ,Arumugam,Male,Malaysia,2001-04-16,2020-11-01,Engineering Executive,Engineering,Kulim,Malaysia,active,23.0,4.0
+101229,prakash_somasundaram,Prakash ,Somasundaram,Male,Malaysia,1989-03-02,2020-02-28,HR Executive,Human Resource,Surabaya,Indonesia,active,35.0,4.0
+101230,vinay_murugan,Vinay ,Murugan,Male,Malaysia,1981-02-27,2021-09-10,Executive Management Engineer,Executive Management,Senai,Malaysia,active,43.0,3.0
+101231,vinay_arumugam,Vinay ,Arumugam,Male,Malaysia,1986-11-21,2020-06-10,Engineering Analyst,Engineering,Kuala Lumpur,Malaysia,active,37.0,4.0
+101232,senthil_arumugam1,Senthil ,Arumugam,Male,Malaysia,1969-04-06,2021-07-09,Safety Executive,Safety,Surabaya,Indonesia,active,55.0,3.0
+101233,ganeshpillai_ramasamy,Ganesh Pillai ,Ramasamy,Male,Malaysia,1968-07-30,2019-12-15,Site Management Engineer,Site Management,Surabaya,Indonesia,active,56.0,4.0
+101234,surya_ramu,Surya ,Ramu,Female,Malaysia,1990-01-31,2021-03-08,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,34.0,3.0
+101235,rishi_govindasamy,Rishi ,Govindasamy,Female,Malaysia,1985-01-17,2021-02-08,Site Support Executive,Site Support,Kuala Lumpur,Malaysia,active,39.0,3.0
+101236,vinod_ramu,Vinod ,Ramu,Male,Malaysia,2005-03-26,2021-03-16,Sales Engineer,Sales,Surabaya,Indonesia,active,19.0,3.0
+101237,aiyappan_dhanapal,Aiyappan ,Dhanapal,Male,Malaysia,1990-12-17,2023-02-04,Site Support Executive,Site Support,Surabaya,Indonesia,active,33.0,1.0
+101238,mohan_thangavelu,Mohan ,Thangavelu,Male,Malaysia,1971-08-31,2020-09-01,Sales Engineer,Sales,Senai,Malaysia,active,53.0,4.0
+101239,suresh_balasubramanian,Suresh ,Balasubramanian,Male,Malaysia,1988-01-26,2019-10-18,Site Management Manager,Site Management,Kuala Lumpur,Malaysia,active,36.0,5.0
+101240,ganeshpillai_saravanan,Ganesh Pillai ,Saravanan,Male,Malaysia,1966-05-23,2021-06-05,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,58.0,3.0
+101241,uthaya_saravanan,Uthaya ,Saravanan,Male,Malaysia,1979-11-12,2021-09-16,Sales Executive,Sales,Surabaya,Indonesia,active,44.0,3.0
+101242,rajeshreddy_chandra,Rajesh Reddy ,Chandra,Male,Malaysia,1965-04-20,2022-01-08,Engineering Analyst,Engineering,Surabaya,Indonesia,active,59.0,2.0
+101243,senthil_muthusamy,Senthil ,Muthusamy,Male,Malaysia,1981-01-26,2020-09-29,HR Manager,Human Resource,Senai,Malaysia,active,43.0,4.0
+101244,nadarajah_krishnan,Nadarajah ,Krishnan,Male,Malaysia,1984-07-20,2021-12-29,Site Support Manager,Site Support,Kulim,Malaysia,active,40.0,2.0
+101245,vinod_somasundaram,Vinod ,Somasundaram,Male,Malaysia,1989-12-27,2020-09-19,Safety Executive,Safety,Surabaya,Indonesia,active,34.0,4.0
+101246,senthil_ramalingam,Senthil ,Ramalingam,Male,Malaysia,1996-01-21,2021-01-25,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,28.0,3.0
+101247,vinay_dhanapal,Vinay ,Dhanapal,Male,Malaysia,1995-03-14,2020-02-23,Engineering Executive,Engineering,Kuala Lumpur,Malaysia,active,29.0,4.0
+101248,kumaravel_subramaniam,Kumaravel ,Subramaniam,Male,Malaysia,1989-10-26,2020-08-05,Safety Executive,Safety,Senai,Malaysia,active,35.0,4.0
+101249,aiyappan_narasimhan,Aiyappan ,Narasimhan,Male,Malaysia,2001-10-04,2021-08-02,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,23.0,3.0
+101250,vikas_narasimhan,Vikas ,Narasimhan,Male,Malaysia,1995-09-20,2022-03-28,Site Support Engineer,Site Support,Surabaya,Indonesia,active,29.0,2.0
+101251,karthik_nadarajah,Karthik ,Nadarajah,Male,Malaysia,1989-06-11,2020-12-19,Finance Executive,Finance,Kuala Lumpur,Malaysia,active,35.0,3.0
+101252,vinod_subash,Vinod ,Subash,Male,Malaysia,1985-08-07,2020-09-01,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,39.0,4.0
+101253,ramesh_ponnusamy,Ramesh ,Ponnusamy,Male,Malaysia,1998-07-07,2022-12-01,Engineering Executive,Engineering,Senai,Malaysia,active,26.0,1.0
+101254,karthik_kuppusamy,Karthik ,Kuppusamy,Male,Malaysia,1976-08-02,2023-06-04,Safety Analyst,Safety,Surabaya,Indonesia,active,48.0,1.0
+101255,manikandan_subramaniam,Manikandan ,Subramaniam,Male,Malaysia,1970-11-28,2023-05-31,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,53.0,1.0
+101256,kumaravel_kalyanasundaram,Kumaravel ,Kalyanasundaram,Male,Malaysia,1994-02-28,2022-04-21,Site Support Executive,Site Support,Kulim,Malaysia,active,30.0,2.0
+101257,karthik_saravanan,Karthik ,Saravanan,Male,Malaysia,1983-12-12,2022-10-03,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,40.0,2.0
+101258,surya_vellayan,Surya ,Vellayan,Male,Malaysia,1977-08-17,2022-06-13,HR Manager,Human Resource,Senai,Malaysia,active,47.0,2.0
+101259,praveen_ramu,Praveen ,Ramu,Male,Malaysia,2004-02-25,2021-09-18,Site Support Executive,Site Support,Surabaya,Indonesia,active,20.0,3.0
+101260,sharmila_govindasamy,Sharmila,Govindasamy,Female,Malaysia,1981-06-24,2020-11-22,Site Management Manager,Site Management,Kulim,Malaysia,active,43.0,3.0
+101261,balasubramaniam_krishnan,Balasubramaniam,Krishnan,Male,Malaysia,1984-05-22,2022-04-04,Site Support Executive,Site Support,Kulim,Malaysia,active,40.0,2.0
+101262,nadarajah_somasundaram,Nadarajah ,Somasundaram,Female,Malaysia,1990-09-14,2024-10-16,Information Technology Engineer,Information Technology,Senai,Malaysia,active,34.0,0.0
+101263,premkumar_somasundaram,Prem Kumar ,Somasundaram,Male,Malaysia,2001-12-02,2022-02-28,Sales Engineer,Sales,Surabaya,Indonesia,active,22.0,2.0
+101264,vikas_sivasubramaniam,Vikas ,Sivasubramaniam,Female,Malaysia,1998-10-21,2020-12-07,Site Support Engineer,Site Support,Surabaya,Indonesia,active,26.0,3.0
+101265,ashiwara_kanna,Ashiwara,Kanna,Female,Malaysia,1990-12-23,2023-09-09,Finance Engineer,Finance,Kulim,Malaysia,active,33.0,1.0
+101266,vikas_sundararajan,Vikas ,Sundararajan,Female,Malaysia,1984-11-05,2021-11-12,Site Support Executive,Site Support,Kuala Lumpur,Malaysia,active,39.0,2.0
+101267,kumaravel_narasimhan1,Kumaravel ,Narasimhan,Male,Malaysia,1974-10-25,2023-09-02,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,50.0,1.0
+101268,uthaya_ramachandran,Uthaya ,Ramachandran,Female,Malaysia,1974-03-14,2021-01-01,Information Technology Manager,Information Technology,Senai,Malaysia,active,50.0,3.0
+101269,manikandan_ponnusamy,Manikandan ,Ponnusamy,Male,Malaysia,1972-02-07,2019-12-25,Site Management Manager,Site Management,Surabaya,Indonesia,active,52.0,4.0
+101270,suresh_jayakumar,Suresh ,Jayakumar,Male,Malaysia,1989-05-01,2023-08-14,Finance Executive,Finance,Kulim,Malaysia,active,35.0,1.0
+101271,ganeshpillai_ramachandran,Ganesh Pillai ,Ramachandran,Male,Malaysia,2002-12-16,2021-09-21,HR Analyst,Human Resource,Kulim,Malaysia,active,21.0,3.0
+101272,praveen_sundararajan,Praveen ,Sundararajan,Male,Malaysia,1980-02-24,2021-11-20,Site Support Analyst,Site Support,Surabaya,Indonesia,active,44.0,2.0
+101273,arvindsingh_venkatesan,Arvind Singh ,Venkatesan,Female,Malaysia,1971-11-27,2024-04-25,Safety Analyst,Safety,Senai,Malaysia,active,52.0,0.0
+101274,raghavan_ramalingam,Raghavan ,Ramalingam,Male,Malaysia,1966-02-21,2022-10-26,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,58.0,2.0
+101275,nadarajah_chandra,Nadarajah ,Chandra,Male,Malaysia,1963-12-29,2022-10-10,Information Technology Analyst,Information Technology,Senai,Malaysia,active,60.0,2.0
+101276,harish_muthusamy,Harish ,Muthusamy,Male,Malaysia,1980-10-11,2023-08-31,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,44.0,1.0
+101277,kannan_saravanan,Kannan ,Saravanan,Male,Malaysia,1997-10-19,2020-02-27,Site Management Analyst,Site Management,Surabaya,Indonesia,active,27.0,4.0
+101278,vignesh_ramasamy,Vignesh ,Ramasamy,Male,Malaysia,2006-08-21,2024-09-23,Data Analysis Executive,Data Analysis,Kulim,Malaysia,active,18.0,0.0
+101279,surya_chandra,Surya ,Chandra,Female,Malaysia,1981-03-05,2024-05-30,Site Support Executive,Site Support,Surabaya,Indonesia,active,43.0,0.0
+101280,manikandan_murugan,Manikandan ,Murugan,Male,Malaysia,1994-06-12,2020-09-17,Engineering Analyst,Engineering,Kuala Lumpur,Malaysia,active,30.0,4.0
+101281,nadarajah_ramasamy,Nadarajah ,Ramasamy,Male,Malaysia,1996-08-04,2019-10-21,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,28.0,5.0
+101282,harish_kanna,Harish ,Kanna,Male,Malaysia,2001-01-24,2023-08-30,Site Support Executive,Site Support,Kulim,Malaysia,active,23.0,1.0
+101283,suresh_sivasubramaniam,Suresh ,Sivasubramaniam,Male,Malaysia,1984-04-21,2023-04-20,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,40.0,1.0
+101284,ramesh_muthusamy,Ramesh ,Muthusamy,Male,Malaysia,1971-06-09,2022-11-06,Finance Executive,Finance,Kulim,Malaysia,active,53.0,1.0
+101285,balaji_rajendran,Balaji ,Rajendran,Female,Malaysia,1998-07-30,2023-11-19,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,26.0,0.0
+101286,surya_thirunavukarasu,Surya ,Thirunavukarasu,Female,Malaysia,2004-02-01,2021-07-07,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,20.0,3.0
+101287,thamilselvan_saravanan,Thamil Selvan ,Saravanan,Male,Malaysia,1997-08-14,2022-03-30,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,27.0,2.0
+101288,surya_ramachandran,Surya ,Ramachandran,Female,Malaysia,1975-09-17,2022-12-26,Site Management Engineer,Site Management,Surabaya,Indonesia,active,49.0,1.0
+101289,karthik_marimuthu,Karthik ,Marimuthu,Female,Malaysia,2001-11-11,2021-10-20,Site Management Manager,Site Management,Surabaya,Indonesia,active,22.0,3.0
+101290,vikas_narasimhan1,Vikas ,Narasimhan,Female,Malaysia,1984-12-10,2021-02-03,Executive Management Executive,Executive Management,Kuala Lumpur,Malaysia,active,39.0,3.0
+101291,raghavan_sivasubramaniam,Raghavan ,Sivasubramaniam,Male,Malaysia,2003-04-29,2021-05-29,Data Analysis Executive,Data Analysis,Kuala Lumpur,Malaysia,active,21.0,3.0
+101292,ravikumar_govindasamy,Ravi Kumar ,Govindasamy,Male,Malaysia,2005-02-06,2022-07-24,Finance Engineer,Finance,Surabaya,Indonesia,active,19.0,2.0
+101293,harish_balakrishnan,Harish ,Balakrishnan,Male,Malaysia,1988-02-22,2020-03-13,Site Support Manager,Site Support,Surabaya,Indonesia,active,36.0,4.0
+101294,suresh_balakrishnan,Suresh ,Balakrishnan,Male,Malaysia,1990-06-19,2021-08-19,Finance Analyst,Finance,Kulim,Malaysia,active,34.0,3.0
+101295,thamilselvan_murugan,Thamil Selvan ,Murugan,Male,Malaysia,1993-12-01,2021-03-20,Site Support Engineer,Site Support,Kulim,Malaysia,active,30.0,3.0
+101296,jagan_narayanan,Jagan ,Narayanan,Male,Malaysia,1993-10-12,2022-12-27,Data Analysis Executive,Data Analysis,Senai,Malaysia,active,31.0,1.0
+101297,vinay_dhanapal1,Vinay ,Dhanapal,Male,Malaysia,1972-06-08,2023-08-06,Site Management Manager,Site Management,Kulim,Malaysia,active,52.0,1.0
+101298,suresh_palanisamy,Suresh ,Palanisamy,Male,Malaysia,1965-07-26,2020-12-20,Finance Engineer,Finance,Kulim,Malaysia,active,59.0,3.0
+101299,vijaya_subash,Vijaya,Subash,Male,Malaysia,1979-03-28,2024-09-24,Finance Executive,Finance,Kulim,Malaysia,active,45.0,0.0
+101300,manikandan_murugan1,Manikandan ,Murugan,Male,Malaysia,1972-08-21,2023-03-30,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,52.0,1.0
+101301,kumaravel_narasimhan12,Kumaravel ,Narasimhan,Male,Malaysia,1970-06-20,2023-03-08,Site Management Analyst,Site Management,Senai,Malaysia,active,54.0,1.0
+101302,rishi_venkatesan,Rishi ,Venkatesan,Female,Malaysia,2000-12-07,2022-10-25,HR Analyst,Human Resource,Senai,Malaysia,active,23.0,2.0
+101303,sathish_nadarajah,Sathish ,Nadarajah,Male,Malaysia,1977-08-27,2023-11-14,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,47.0,0.0
+101304,kannan_chandra,Kannan ,Chandra,Male,Malaysia,1997-01-07,2024-11-04,Site Support Engineer,Site Support,Surabaya,Indonesia,active,27.0,0.0
+101305,mohan_venkatesan,Mohan ,Venkatesan,Male,Malaysia,1986-10-24,2024-04-20,Information Technology Engineer,Information Technology,Senai,Malaysia,active,38.0,0.0
+101306,manikandan_narasimhan,Manikandan ,Narasimhan,Male,Malaysia,1988-01-14,2020-04-10,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,36.0,4.0
+101307,ajith_jayakumar,Ajith ,Jayakumar,Male,Malaysia,1972-12-07,2021-07-08,Safety Engineer,Safety,Surabaya,Indonesia,active,51.0,3.0
+101308,senthil_subash,Senthil ,Subash,Male,Malaysia,1978-05-14,2023-03-18,Safety Engineer,Safety,Senai,Malaysia,active,46.0,1.0
+101309,praveen_narasimhan,Praveen ,Narasimhan,Male,Malaysia,1989-11-23,2024-03-01,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,34.0,0.0
+101310,mahesh_subramaniam,Mahesh ,Subramaniam,Male,Malaysia,1980-03-29,2020-09-15,Information Technology Executive,Information Technology,Kulim,Malaysia,active,44.0,4.0
+101311,vinay_chandra1,Vinay ,Chandra,Male,Malaysia,1991-05-18,2019-06-12,Sales Engineer,Sales,Kulim,Malaysia,active,33.0,5.0
+101312,hongjoon_tan,Hong Joon,Tan,Female,Malaysia,1963-12-23,2023-11-05,Safety Executive,Safety,Kuala Lumpur,Malaysia,active,60.0,0.0
+101313,weicheng_low,Wei Cheng,Low,Male,Malaysia,1987-05-12,2023-11-04,Executive Management Analyst,Executive Management,Kulim,Malaysia,active,37.0,1.0
+101314,szewei_chua,Sze Wei,Chua,Female,Malaysia,1991-12-30,2023-05-14,Site Management Analyst,Site Management,Surabaya,Indonesia,active,32.0,1.0
+101315,choonmei_lim,Choon Mei,Lim,Female,Malaysia,1978-07-01,2024-08-14,Site Management Manager,Site Management,Senai,Malaysia,active,46.0,0.0
+101316,liping_lim,Li Ping,Lim,Female,Malaysia,1968-10-03,2024-10-01,Sales Analyst,Sales,Senai,Malaysia,active,56.0,0.0
+101317,zhiwei_wong,Zhi Wei,Wong,Female,Malaysia,1983-05-11,2023-02-27,Engineering Analyst,Engineering,Surabaya,Indonesia,active,41.0,1.0
+101318,yewjin_lim,Yew Jin,Lim,Female,Malaysia,1988-01-30,2023-04-05,Safety Manager,Safety,Senai,Malaysia,active,36.0,1.0
+101319,liping_ong,Li Ping,Ong,Female,Malaysia,1984-02-09,2021-11-24,Site Management Executive,Site Management,Kuala Lumpur,Malaysia,active,40.0,2.0
+101320,cheeseng_sim,Chee Seng,Sim,Female,Malaysia,1988-11-16,2024-08-30,Sales Engineer,Sales,Surabaya,Indonesia,active,35.0,0.0
+101321,yewjin_tan,Yew Jin,Tan,Female,Malaysia,1990-03-12,2021-05-06,Engineering Analyst,Engineering,Kuala Lumpur,Malaysia,active,34.0,3.0
+101322,aiyu_leong,Ai Yu,Leong,Female,Malaysia,1993-06-21,2023-03-14,Sales Analyst,Sales,Surabaya,Indonesia,active,31.0,1.0
+101323,yiting_ong,Yi Ting,Ong,Female,Malaysia,1980-12-31,2021-05-13,Engineering Manager,Engineering,Kulim,Malaysia,active,43.0,3.0
+101324,xinfang_low,Xin Fang,Low,Male,Malaysia,1998-10-09,2020-06-21,Engineering Executive,Engineering,Surabaya,Indonesia,active,26.0,4.0
+101325,meiyan_chai,Mei Yan,Chai,Female,Malaysia,1965-10-19,2023-09-27,Data Analysis Analyst,Data Analysis,Surabaya,Indonesia,active,59.0,1.0
+101326,xinyi_lim,Xin Yi,Lim,Male,Malaysia,1994-04-14,2020-09-10,HR Analyst,Human Resource,Senai,Malaysia,active,30.0,4.0
+101327,kengyoon_sim,Keng Yoon,Sim,Male,Malaysia,1974-07-30,2024-07-25,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,50.0,0.0
+101328,meiyan_lee,Mei Yan,Lee,Female,Malaysia,1971-10-23,2024-07-15,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,53.0,0.0
+101329,chenghong_chen,Cheng Hong,Chen,Male,Malaysia,1992-03-15,2024-09-10,Finance Engineer,Finance,Surabaya,Indonesia,active,32.0,0.0
+101330,kahmun_chen,Kah Mun,Chen,Male,Malaysia,1999-09-21,2020-01-19,Sales Engineer,Sales,Senai,Malaysia,active,25.0,4.0
+101331,jooling_lee,Joo Ling,Lee,Male,Malaysia,1984-01-13,2021-03-12,Information Technology Executive,Information Technology,Surabaya,Indonesia,active,40.0,3.0
+101332,xinyi_chua,Xin Yi,Chua,Female,Malaysia,1963-10-18,2021-01-30,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,61.0,3.0
+101333,cheeseng_chen,Chee Seng,Chen,Male,Malaysia,1986-12-15,2023-10-02,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,37.0,1.0
+101334,jinhao_goh,Jin Hao,Goh,Female,Malaysia,1965-08-23,2024-06-27,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,59.0,0.0
+101335,kahmun_wong,Kah Mun,Wong,Male,Malaysia,1984-03-18,2019-12-28,Information Technology Executive,Information Technology,Senai,Malaysia,active,40.0,4.0
+101336,aiyu_chai,Ai Yu,Chai,Female,Malaysia,1974-12-14,2022-12-08,Engineering Executive,Engineering,Kuala Lumpur,Malaysia,active,49.0,1.0
+101337,meiyan_lau,Mei Yan,Lau,Female,Malaysia,1970-09-14,2022-08-30,Site Support Engineer,Site Support,Senai,Malaysia,active,54.0,2.0
+101338,huishan_yeo,Hui Shan,Yeo,Female,Malaysia,1978-02-17,2022-09-25,Engineering Analyst,Engineering,Senai,Malaysia,active,46.0,2.0
+101339,ailing_ng,Ai Ling,Ng,Female,Malaysia,1991-09-09,2022-04-13,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,33.0,2.0
+101340,shimin_lee,Shi Min,Lee,Female,Malaysia,1986-11-18,2019-11-19,Site Support Manager,Site Support,Kuala Lumpur,Malaysia,active,37.0,4.0
+101341,soonheng_lim,Soon Heng,Lim,Female,Malaysia,1981-11-09,2020-07-25,Finance Executive,Finance,Kulim,Malaysia,active,42.0,4.0
+101342,tzeyong_chai,Tze Yong,Chai,Male,Malaysia,1981-10-29,2024-08-29,Safety Analyst,Safety,Kuala Lumpur,Malaysia,active,43.0,0.0
+101343,peiying_chen,Pei Ying,Chen,Female,Malaysia,1986-01-17,2023-01-25,Site Management Engineer,Site Management,Kulim,Malaysia,active,38.0,1.0
+101344,wanyi_sim,Wan Yi,Sim,Female,Malaysia,1998-04-28,2023-09-28,Engineering Engineer,Engineering,Senai,Malaysia,active,26.0,1.0
+101345,puiyung_tan,Pui Yung,Tan,Male,Malaysia,1980-07-22,2019-10-18,HR Manager,Human Resource,Surabaya,Indonesia,active,44.0,5.0
+101346,sengchai_chua,Seng Chai,Chua,Female,Malaysia,1983-03-14,2023-01-28,Executive Management Executive,Executive Management,Kulim,Malaysia,active,41.0,1.0
+101347,yingying_wong,Ying Ying,Wong,Female,Malaysia,1963-05-11,2020-08-21,HR Manager,Human Resource,Senai,Malaysia,active,61.0,4.0
+101348,sookling_chen,Sook Ling,Chen,Female,Malaysia,1994-03-09,2023-02-01,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,30.0,1.0
+101349,weicheng_ong,Wei Cheng,Ong,Male,Malaysia,1988-02-07,2021-03-25,Sales Manager,Sales,Kulim,Malaysia,active,36.0,3.0
+101350,huixin_ng,Hui Xin,Ng,Female,Malaysia,1974-08-07,2022-04-01,Data Analysis Analyst,Data Analysis,Senai,Malaysia,active,50.0,2.0
+101351,cheeseng_chua,Chee Seng,Chua,Male,Malaysia,1966-01-19,2021-09-11,Finance Analyst,Finance,Surabaya,Indonesia,active,58.0,3.0
+101352,huixin_wong,Hui Xin,Wong,Male,Malaysia,1973-07-23,2021-02-10,Executive Management Analyst,Executive Management,Kuala Lumpur,Malaysia,active,51.0,3.0
+101353,wanyi_lee,Wan Yi,Lee,Female,Malaysia,2000-07-20,2022-06-03,HR Analyst,Human Resource,Surabaya,Indonesia,active,24.0,2.0
+101354,yatseng_lee,Yat Seng,Lee,Male,Malaysia,2005-01-08,2020-10-12,Executive Management Executive,Executive Management,Kulim,Malaysia,active,19.0,4.0
+101355,huiyi_chua,Hui Yi,Chua,Male,Malaysia,1995-01-04,2023-03-08,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,29.0,1.0
+101356,kengyoon_leong,Keng Yoon,Leong,Male,Malaysia,1983-04-12,2022-11-16,Site Support Executive,Site Support,Senai,Malaysia,active,41.0,1.0
+101357,kengboon_goh,Keng Boon,Goh,Male,Malaysia,1984-02-05,2023-06-06,Information Technology Executive,Information Technology,Surabaya,Indonesia,active,40.0,1.0
+101358,huixin_tan,Hui Xin,Tan,Female,Malaysia,1993-06-24,2024-01-26,HR Analyst,Human Resource,Surabaya,Indonesia,active,31.0,0.0
+101359,weicheng_lau,Wei Cheng,Lau,Male,Malaysia,1986-10-23,2024-08-30,Finance Analyst,Finance,Kuala Lumpur,Malaysia,active,38.0,0.0
+101360,meiyan_lee1,Mei Yan,Lee,Male,Malaysia,2001-01-21,2024-09-23,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,23.0,0.0
+101361,kahmun_lim,Kah Mun,Lim,Female,Malaysia,1978-07-28,2020-10-18,HR Analyst,Human Resource,Kulim,Malaysia,active,46.0,4.0
+101362,yuling_ong,Yu Ling,Ong,Male,Malaysia,1974-10-27,2021-11-25,Safety Manager,Safety,Surabaya,Indonesia,active,50.0,2.0
+101363,weiying_wong,Wei Ying,Wong,Male,Malaysia,1973-04-15,2021-04-24,Sales Manager,Sales,Kulim,Malaysia,active,51.0,3.0
+101364,yiting_low,Yi Ting,Low,Female,Malaysia,1980-11-15,2020-09-03,Sales Engineer,Sales,Senai,Malaysia,active,43.0,4.0
+101365,yewjin_tan1,Yew Jin,Tan,Male,Malaysia,1985-07-23,2024-04-16,Site Support Engineer,Site Support,Surabaya,Indonesia,active,39.0,0.0
+101366,szeling_yeo,Sze Ling,Yeo,Female,Malaysia,1968-06-07,2023-05-24,Sales Analyst,Sales,Kuala Lumpur,Malaysia,active,56.0,1.0
+101367,weiying_lim,Wei Ying,Lim,Female,Malaysia,2006-07-16,2021-10-20,Safety Analyst,Safety,Kulim,Malaysia,active,18.0,3.0
+101368,hengyew_ong,Heng Yew,Ong,Male,Malaysia,1991-08-06,2021-12-24,Site Support Executive,Site Support,Kuala Lumpur,Malaysia,active,33.0,2.0
+101369,zhiliang_lee,Zhi Liang,Lee,Male,Malaysia,1972-06-08,2020-05-01,Site Support Executive,Site Support,Surabaya,Indonesia,active,52.0,4.0
+101370,kimsiong_tan,Kim Siong,Tan,Female,Malaysia,1999-06-06,2023-02-16,Finance Engineer,Finance,Kulim,Malaysia,active,25.0,1.0
+101371,lixian_sim,Li Xian,Sim,Female,Malaysia,1995-08-31,2024-02-15,Information Technology Executive,Information Technology,Senai,Malaysia,active,29.0,0.0
+101372,yingying_wong1,Ying Ying,Wong,Female,Malaysia,1975-01-09,2020-03-15,Executive Management Executive,Executive Management,Kuala Lumpur,Malaysia,active,49.0,4.0
+101373,shiwei_wong,Shi Wei,Wong,Male,Malaysia,2000-08-15,2023-06-29,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,24.0,1.0
+101374,liling_wong,Li Ling,Wong,Female,Malaysia,1964-09-05,2021-01-11,Engineering Engineer,Engineering,Kulim,Malaysia,active,60.0,3.0
+101375,zhiliang_lim,Zhi Liang,Lim,Male,Malaysia,1974-08-11,2021-03-11,Engineering Analyst,Engineering,Kulim,Malaysia,active,50.0,3.0
+101376,zhiliang_lim1,Zhi Liang,Lim,Female,Malaysia,1985-06-13,2022-04-09,Sales Manager,Sales,Senai,Malaysia,active,39.0,2.0
+101377,yanxiu_wong,Yan Xiu,Wong,Male,Malaysia,2000-11-17,2023-12-22,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,23.0,0.0
+101378,weikit_lim,Wei Kit,Lim,Male,Malaysia,1979-03-24,2023-06-26,Finance Manager,Finance,Senai,Malaysia,active,45.0,1.0
+101379,huishan_tan,Hui Shan,Tan,Female,Malaysia,1987-09-24,2023-10-07,Site Management Executive,Site Management,Senai,Malaysia,active,37.0,1.0
+101380,jinyi_tan,Jin Yi,Tan,Female,Malaysia,1979-01-02,2020-07-17,Executive Management Executive,Executive Management,Senai,Malaysia,active,45.0,4.0
+101381,chenghong_tan,Cheng Hong,Tan,Male,Malaysia,1979-07-17,2019-02-12,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,45.0,5.0
+101382,liping_tan,Li Ping,Tan,Female,Malaysia,2003-11-06,2020-11-05,Information Technology Analyst,Information Technology,Kulim,Malaysia,active,20.0,3.0
+101383,meiyan_lim,Mei Yan,Lim,Female,Malaysia,1985-01-15,2021-05-06,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,39.0,3.0
+101384,yingying_ng,Ying Ying,Ng,Female,Malaysia,1968-10-20,2020-06-09,Safety Analyst,Safety,Surabaya,Indonesia,active,56.0,4.0
+101385,kenghock_tan,Keng Hock,Tan,Male,Malaysia,1984-04-07,2023-04-27,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,40.0,1.0
+101386,yuling_sim,Yu Ling,Sim,Female,Malaysia,1975-05-19,2024-08-26,Finance Analyst,Finance,Kulim,Malaysia,active,49.0,0.0
+101387,kengliang_chen,Keng Liang,Chen,Male,Malaysia,1987-10-17,2021-04-08,HR Manager,Human Resource,Senai,Malaysia,active,37.0,3.0
+101388,zhiliang_lau,Zhi Liang,Lau,Female,Malaysia,1995-08-08,2024-01-13,Engineering Analyst,Engineering,Kulim,Malaysia,active,29.0,0.0
+101389,hengyew_wong,Heng Yew,Wong,Male,Malaysia,1974-08-24,2022-04-13,Information Technology Analyst,Information Technology,Kuala Lumpur,Malaysia,active,50.0,2.0
+101390,peiying_sim,Pei Ying,Sim,Female,Malaysia,1966-12-25,2022-04-09,Information Technology Analyst,Information Technology,Surabaya,Indonesia,active,57.0,2.0
+101391,puiyung_lim,Pui Yung,Lim,Female,Malaysia,2006-04-19,2023-11-01,Site Management Manager,Site Management,Kulim,Malaysia,active,18.0,1.0
+101392,shuyi_wong,Shu Yi,Wong,Female,Malaysia,1999-11-05,2022-07-22,HR Executive,Human Resource,Kulim,Malaysia,active,24.0,2.0
+101393,meiling_ong,Mei Ling,Ong,Female,Malaysia,2002-08-05,2020-09-15,Information Technology Executive,Information Technology,Senai,Malaysia,active,22.0,4.0
+101394,huanying_low,Huan Ying,Low,Female,Malaysia,1989-01-19,2022-11-16,Executive Management Executive,Executive Management,Surabaya,Indonesia,active,35.0,1.0
+101395,sengchai_wong,Seng Chai,Wong,Male,Malaysia,1976-12-26,2021-09-22,Finance Engineer,Finance,Kulim,Malaysia,active,47.0,3.0
+101396,lina_lim,Li Na,Lim,Female,Malaysia,1986-08-17,2020-08-29,HR Analyst,Human Resource,Senai,Malaysia,active,38.0,4.0
+101397,kahmun_lim1,Kah Mun,Lim,Male,Malaysia,1991-07-01,2023-12-04,Finance Manager,Finance,Surabaya,Indonesia,active,33.0,0.0
+101398,szeling_goh,Sze Ling,Goh,Female,Malaysia,1981-05-04,2022-04-03,Finance Analyst,Finance,Kuala Lumpur,Malaysia,active,43.0,2.0
+101399,wanyi_wong,Wan Yi,Wong,Male,Malaysia,1986-09-25,2021-04-05,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,38.0,3.0
+101400,yingying_goh,Ying Ying,Goh,Female,Malaysia,1982-01-30,2021-01-15,Data Analysis Analyst,Data Analysis,Surabaya,Indonesia,active,42.0,3.0
+101401,jinhao_wong,Jin Hao,Wong,Female,Malaysia,1968-11-29,2023-09-14,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,55.0,1.0
+101402,xinyi_wong,Xin Yi,Wong,Male,Malaysia,1981-01-07,2021-01-29,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,43.0,3.0
+101403,koonpeng_ng,Koon Peng,Ng,Male,Malaysia,2000-04-10,2023-08-11,HR Engineer,Human Resource,Surabaya,Indonesia,active,24.0,1.0
+101404,puiyung_yeo,Pui Yung,Yeo,Female,Malaysia,1982-03-29,2020-11-06,Safety Engineer,Safety,Senai,Malaysia,active,42.0,3.0
+101405,waiching_sim,Wai Ching,Sim,Female,Malaysia,1965-06-21,2022-01-05,Sales Engineer,Sales,Surabaya,Indonesia,active,59.0,2.0
+101406,yingying_ng1,Ying Ying,Ng,Female,Malaysia,1996-09-14,2021-06-09,Site Management Manager,Site Management,Surabaya,Indonesia,active,28.0,3.0
+101407,weiting_chai,Wei Ting,Chai,Female,Malaysia,1964-02-04,2023-08-18,HR Analyst,Human Resource,Senai,Malaysia,active,60.0,1.0
+101408,jiawei_tan,Jia Wei,Tan,Male,Malaysia,1980-03-30,2024-07-28,Information Technology Manager,Information Technology,Kulim,Malaysia,active,44.0,0.0
+101409,xinyi_lim1,Xin Yi,Lim,Female,Malaysia,1968-10-12,2021-04-19,Safety Executive,Safety,Surabaya,Indonesia,active,56.0,3.0
+101410,jinhao_tan,Jin Hao,Tan,Male,Malaysia,1973-01-18,2023-05-11,Sales Analyst,Sales,Senai,Malaysia,active,51.0,1.0
+101411,zhiwei_wong1,Zhi Wei,Wong,Male,Malaysia,2001-06-22,2022-01-22,Data Analysis Engineer,Data Analysis,Kulim,Malaysia,active,23.0,2.0
+101412,donna_ortiz,Donna,Ortiz,Female,Germany,1993-03-16,2024-06-27,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,31.0,0.0
+101413,joseph_garner,Joseph,Garner,Female,Spain,1989-10-25,2021-11-27,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,35.0,2.0
+101414,travis_higgins,Travis,Higgins,Male,Canada,1979-12-20,2022-01-25,Engineering Engineer,Engineering,Surabaya,Indonesia,active,44.0,2.0
+101415,gary_mendoza,Gary,Mendoza,Male,Spain,1979-09-12,2022-01-26,Sales Manager,Sales,Surabaya,Indonesia,active,45.0,2.0
+101416,william_johnson,William,Johnson,Female,Spain,2006-08-07,2019-11-19,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,18.0,4.0
+101417,natasha_davis,Natasha,Davis,Female,Poland,1984-08-06,2020-11-01,Safety Manager,Safety,Senai,Malaysia,active,40.0,4.0
+101418,jasmine_richard,Jasmine,Richard,Female,Germany,2004-12-14,2021-11-30,Safety Engineer,Safety,Surabaya,Indonesia,active,19.0,2.0
+101419,kelly_williams,Kelly,Williams,Female,Poland,1997-04-29,2024-08-22,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,27.0,0.0
+101420,lindsay_thomas,Lindsay,Thomas,Female,Australia,1991-05-23,2021-04-19,Safety Engineer,Safety,Senai,Malaysia,active,33.0,3.0
+101421,allison_andrade,Allison,Andrade,Female,Poland,1968-10-19,2022-01-13,Safety Manager,Safety,Kulim,Malaysia,active,56.0,2.0
+101422,chariya_boonmee,Chariya,Boonmee,Female,Thailand,1984-07-17,2022-12-11,Safety Manager,Safety,Kulim,Malaysia,active,40.0,1.0
+101423,pamela_blackburn,Pamela,Blackburn,Female,Germany,1992-07-08,2023-06-01,Sales Engineer,Sales,Senai,Malaysia,active,32.0,1.0
+101424,stacie_fox,Stacie,Fox,Female,Poland,2006-06-17,2021-05-26,Engineering Manager,Engineering,Senai,Malaysia,active,18.0,3.0
+101425,teresa_bass,Teresa,Bass,Female,Australia,2003-11-22,2022-02-06,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,20.0,2.0
+101426,christopher_martinez,Christopher,Martinez,Male,Vietnam,1970-10-08,2022-03-31,Site Support Engineer,Site Support,Senai,Malaysia,active,54.0,2.0
+101427,sara_mcintyre,Sara,Mcintyre,Female,Spain,1999-08-04,2019-02-12,Sales Engineer,Sales,Kulim,Malaysia,active,25.0,5.0
+101428,morgan_briggs,Morgan,Briggs,Male,New Zealand,1972-05-01,2020-08-13,HR Manager,Human Resource,Senai,Malaysia,active,52.0,4.0
+101429,justin_anderson,Justin,Anderson,Male,Poland,2001-05-12,2022-04-13,Site Management Engineer,Site Management,Surabaya,Indonesia,active,23.0,2.0
+101430,amber_vasquez,Amber,Vasquez,Female,Spain,2002-11-20,2024-07-20,Information Technology Manager,Information Technology,Senai,Malaysia,active,21.0,0.0
+101431,melissa_camacho,Melissa,Camacho,Female,Canada,1979-07-12,2021-01-30,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,45.0,3.0
+101432,stephanie_goodwin,Stephanie,Goodwin,Female,Spain,2002-10-18,2024-08-04,Safety Engineer,Safety,Kulim,Malaysia,active,22.0,0.0
+101433,jonathan_le,Jonathan,Le,Male,Poland,1982-12-15,2024-01-27,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,41.0,0.0
+101434,margaret_gutierrez,Margaret,Gutierrez,Female,Indonesia,2005-08-03,2022-04-06,Safety Engineer,Safety,Surabaya,Indonesia,active,19.0,2.0
+101435,debra_murillo,Debra,Murillo,Female,Germany,1986-11-10,2024-04-06,HR Manager,Human Resource,Surabaya,Indonesia,active,37.0,0.0
+101436,melissa_davis,Melissa,Davis,Female,Germany,1978-04-07,2021-09-04,Site Support Manager,Site Support,Senai,Malaysia,active,46.0,3.0
+101437,sarah_kirk,Sarah,Kirk,Female,Indonesia,1991-12-19,2020-10-13,HR Engineer,Human Resource,Kulim,Malaysia,active,32.0,4.0
+101438,stephanie_vazquez,Stephanie,Vazquez,Female,Spain,2003-08-05,2021-10-04,Site Management Engineer,Site Management,Senai,Malaysia,active,21.0,3.0
+101439,paige_phillips,Paige,Phillips,Female,Australia,1990-11-30,2024-05-28,Site Support Engineer,Site Support,Senai,Malaysia,active,33.0,0.0
+101440,anong_chaiprasit,Anong,Chaiprasit,Female,Thailand,1983-11-15,2022-04-09,Engineering Manager,Engineering,Kulim,Malaysia,active,40.0,2.0
+101441,sandra_cook,Sandra,Cook,Female,Vietnam,1991-04-12,2022-05-21,Site Support Engineer,Site Support,Kulim,Malaysia,active,33.0,2.0
+101442,nicole_hutchinson,Nicole,Hutchinson,Female,Singapore,2003-10-22,2023-12-01,Engineering Engineer,Engineering,Kulim,Malaysia,active,21.0,0.0
+101443,worawit_suksan,Worawit,Suksan,Male,Thailand,1980-11-26,2020-01-19,Site Support Manager,Site Support,Surabaya,Indonesia,active,43.0,4.0
+101444,francis_ruiz,Francis,Ruiz,Male,Poland,1992-08-30,2024-04-13,Engineering Manager,Engineering,Kulim,Malaysia,active,32.0,0.0
+101445,sandra_phillips,Sandra,Phillips,Female,Indonesia,1965-05-20,2020-04-14,Site Management Manager,Site Management,Surabaya,Indonesia,active,59.0,4.0
+101446,brian_gardner,Brian,Gardner,Male,Vietnam,1979-02-28,2022-12-12,Data Analysis Manager,Data Analysis,Kulim,Malaysia,active,45.0,1.0
+101447,jintana_wongchai,Jintana,Wongchai,Female,Thailand,1992-11-20,2024-08-05,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,31.0,0.0
+101448,steven_peterson,Steven,Peterson,Male,Spain,1983-05-14,2021-12-04,Executive Management Engineer,Executive Management,Kulim,Malaysia,active,41.0,2.0
+101449,heather_hernandez,Heather,Hernandez,Female,Poland,1973-07-29,2021-03-04,Safety Manager,Safety,Surabaya,Indonesia,active,51.0,3.0
+101450,jacob_delgado,Jacob,Delgado,Male,Germany,1994-10-04,2023-09-10,Site Support Manager,Site Support,Kulim,Malaysia,active,30.0,1.0
+101451,ratchanon_chavalit,Ratchanon,Chavalit,Male,Thailand,1985-04-22,2022-02-09,Site Support Manager,Site Support,Senai,Malaysia,active,39.0,2.0
+101452,joe_wade,Joe,Wade,Male,Germany,1964-07-20,2022-02-14,Site Support Engineer,Site Support,Senai,Malaysia,active,60.0,2.0
+101453,anita_morris,Anita,Morris,Female,Spain,1997-02-23,2024-03-09,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,27.0,0.0
+101454,walter_williamson,Walter,Williamson,Male,Indonesia,1966-12-19,2021-03-04,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,57.0,3.0
+101455,kelly_jackson,Kelly,Jackson,Female,Indonesia,1975-03-26,2020-08-05,Engineering Engineer,Engineering,Senai,Malaysia,active,49.0,4.0
+101456,kannika_kittisak,Kannika,Kittisak,Female,Thailand,2004-08-12,2024-05-19,Site Support Engineer,Site Support,Senai,Malaysia,active,20.0,0.0
+101457,john_roberts,John,Roberts,Male,Germany,2005-10-18,2024-08-25,Site Management Engineer,Site Management,Kulim,Malaysia,active,19.0,0.0
+101458,jennifer_brown,Jennifer,Brown,Female,Germany,1967-10-07,2021-10-20,Sales Manager,Sales,Surabaya,Indonesia,active,57.0,3.0
+101459,jessica_gibson,Jessica,Gibson,Female,Germany,2001-01-06,2024-12-06,Safety Manager,Safety,Senai,Malaysia,active,23.0,-1.0
+101460,lisa_buckley,Lisa,Buckley,Female,Australia,1992-09-15,2021-03-31,Engineering Manager,Engineering,Kulim,Malaysia,active,32.0,3.0
+101461,jessica_banks,Jessica,Banks,Female,Australia,1992-02-02,2022-08-23,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,32.0,2.0
+101462,charles_thompson,Charles,Thompson,Male,Spain,1986-12-24,2021-05-02,Site Management Manager,Site Management,Surabaya,Indonesia,active,37.0,3.0
+101463,jamie_rodriguez,Jamie,Rodriguez,Male,Poland,1995-11-30,2022-04-25,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,28.0,2.0
+101464,samantha_cross,Samantha,Cross,Female,Spain,2005-04-27,2023-02-26,Executive Management Engineer,Executive Management,Senai,Malaysia,active,19.0,1.0
+101465,sarah_trevino,Sarah,Trevino,Female,Indonesia,1969-02-27,2020-12-04,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,55.0,3.0
+101466,patcharaporn_poonpat,Patcharaporn,Poonpat,Female,Thailand,1974-02-01,2022-12-27,Safety Manager,Safety,Senai,Malaysia,active,50.0,1.0
+101467,mellisa_tucker,Mellisa,Tucker,Female,Spain,1988-07-29,2023-03-22,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,36.0,1.0
+101468,patrick_marsh,Patrick,Marsh,Male,Singapore,1999-07-22,2022-09-18,Information Technology Engineer,Information Technology,Surabaya,Indonesia,active,25.0,2.0
+101469,nancy_lawson,Nancy,Lawson,Female,Canada,1972-06-18,2024-08-17,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,52.0,0.0
+101470,kimberly_gray,Kimberly,Gray,Female,Germany,1996-10-11,2021-10-11,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,28.0,3.0
+101471,beth_mcdonald,Beth,Mcdonald,Female,Poland,1973-07-13,2021-03-26,Engineering Manager,Engineering,Surabaya,Indonesia,active,51.0,3.0
+101472,jason_collins,Jason,Collins,Male,Singapore,1982-06-29,2023-12-29,Safety Manager,Safety,Surabaya,Indonesia,active,42.0,0.0
+101473,brian_vega,Brian,Vega,Male,Germany,1972-01-27,2022-11-13,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,52.0,1.0
+101474,chatri_somboon,Chatri,Somboon,Male,Thailand,1993-10-05,2024-06-21,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,31.0,0.0
+101475,briana_thomas,Briana,Thomas,Female,Canada,1992-06-04,2024-10-07,Sales Engineer,Sales,Surabaya,Indonesia,active,32.0,0.0
+101476,joy_hughes,Joy,Hughes,Female,New Zealand,1971-06-29,2023-05-05,HR Engineer,Human Resource,Kulim,Malaysia,active,53.0,1.0
+101477,anthony_leon,Anthony,Leon,Male,Spain,1998-07-31,2022-07-01,Site Management Manager,Site Management,Kulim,Malaysia,active,26.0,2.0
+101478,supachai_prasertsak,Supachai,Prasertsak,Male,Thailand,1993-06-03,2022-11-23,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,31.0,1.0
+101479,brianna_lawrence,Brianna,Lawrence,Female,Canada,1986-09-13,2022-12-14,HR Manager,Human Resource,Senai,Malaysia,active,38.0,1.0
+101480,paul_johns,Paul,Johns,Male,Canada,1999-09-09,2024-06-01,Sales Manager,Sales,Kulim,Malaysia,active,25.0,0.0
+101481,william_rodriguez,William,Rodriguez,Male,Canada,1968-08-27,2024-09-23,Finance Engineer,Finance,Senai,Malaysia,active,56.0,0.0
+101482,gina_shah,Gina,Shah,Female,Germany,1964-08-14,2020-02-12,Safety Engineer,Safety,Senai,Malaysia,active,60.0,4.0
+101483,alan_anderson,Alan,Anderson,Male,New Zealand,1992-01-12,2021-07-05,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,32.0,3.0
+101484,laura_lamb,Laura,Lamb,Female,Germany,1988-05-25,2022-11-04,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,36.0,2.0
+101485,ronald_rogers,Ronald,Rogers,Male,Canada,1973-02-07,2021-02-18,Engineering Engineer,Engineering,Senai,Malaysia,active,51.0,3.0
+101486,shannon_rogers,Shannon,Rogers,Female,Vietnam,2005-01-10,2019-11-22,Finance Engineer,Finance,Kulim,Malaysia,active,19.0,4.0
+101487,andrea_baird,Andrea,Baird,Male,Indonesia,1981-08-16,2024-04-05,Site Management Manager,Site Management,Kulim,Malaysia,active,43.0,0.0
+101488,rachanee_thammasak,Rachanee,Thammasak,Female,Thailand,1972-07-18,2021-05-22,Site Management Manager,Site Management,Kulim,Malaysia,active,52.0,3.0
+101489,ronald_hoover,Ronald,Hoover,Male,Germany,1990-12-11,2021-12-22,HR Manager,Human Resource,Senai,Malaysia,active,33.0,2.0
+101490,brandi_lewis,Brandi,Lewis,Male,Australia,1972-01-18,2024-08-08,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,52.0,0.0
+101491,sonia_green,Sonia,Green,Female,New Zealand,2002-10-21,2022-04-15,Site Support Manager,Site Support,Senai,Malaysia,active,22.0,2.0
+101492,brian_johns,Brian,Johns,Male,Spain,1984-10-03,2021-02-19,Safety Engineer,Safety,Surabaya,Indonesia,active,40.0,3.0
+101493,rungnapa_rungroj,Rungnapa,Rungroj,Female,Thailand,1982-01-05,2023-08-27,Finance Engineer,Finance,Senai,Malaysia,active,42.0,1.0
+101494,phuwadol_srisuk,Phuwadol,Srisuk,Male,Thailand,1978-03-29,2021-05-03,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,46.0,3.0
+101495,katherine_white,Katherine,White,Female,Australia,1971-07-17,2022-05-29,Site Management Engineer,Site Management,Kulim,Malaysia,active,53.0,2.0
+101496,katherine_taylor,Katherine,Taylor,Female,Indonesia,1996-03-11,2024-08-06,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,28.0,0.0
+101497,randall_obrien,Randall,Obrien,Male,Indonesia,1982-05-31,2023-03-01,Sales Engineer,Sales,Kulim,Malaysia,active,42.0,1.0
+101498,amy_powell,Amy,Powell,Female,Singapore,1979-07-26,2021-11-03,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,45.0,3.0
+101499,thanawat_suwannarat,Thanawat,Suwannarat,Male,Thailand,2001-08-13,2024-11-08,Site Management Manager,Site Management,Senai,Malaysia,active,23.0,-1.0
+101500,russell_smith,Russell,Smith,Male,Canada,1997-10-18,2021-04-08,Engineering Engineer,Engineering,Surabaya,Indonesia,active,27.0,3.0
+101501,kyle_hoffman,Kyle,Hoffman,Male,Poland,1996-03-04,2021-04-05,Finance Engineer,Finance,Surabaya,Indonesia,active,28.0,3.0
+101502,bobby_carey,Bobby,Carey,Male,Australia,1980-06-05,2023-12-29,Engineering Engineer,Engineering,Kulim,Malaysia,active,44.0,0.0
+101503,michelle_brooks,Michelle,Brooks,Female,Indonesia,1972-04-24,2023-08-06,Information Technology Manager,Information Technology,Kulim,Malaysia,active,52.0,1.0
+101504,keith_brooks,Keith,Brooks,Male,Singapore,1979-03-20,2020-06-25,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,45.0,4.0
+101505,jeffrey_richards,Jeffrey,Richards,Male,Singapore,1999-11-26,2023-08-31,Safety Manager,Safety,Surabaya,Indonesia,active,24.0,1.0
+101506,ryan_wyatt,Ryan,Wyatt,Male,Singapore,1974-07-28,2020-08-31,Sales Manager,Sales,Kulim,Malaysia,active,50.0,4.0
+101507,lisa_williams,Lisa,Williams,Female,New Zealand,1990-12-04,2022-10-19,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,33.0,2.0
+101508,logan_yang,Logan,Yang,Male,Vietnam,1988-04-13,2021-11-10,Sales Manager,Sales,Senai,Malaysia,active,36.0,2.0
+101509,david_deleon,David,Deleon,Male,Spain,1991-05-13,2020-04-07,Engineering Engineer,Engineering,Senai,Malaysia,active,33.0,4.0
+101510,thomas_campbell,Thomas,Campbell,Male,New Zealand,1994-11-30,2023-09-24,Safety Manager,Safety,Surabaya,Indonesia,active,29.0,1.0
+101511,david_delacruz,David,Delacruz,Male,Spain,1998-04-09,2024-05-18,Engineering Manager,Engineering,Surabaya,Indonesia,active,26.0,0.0
+101512,amber_hall,Amber,Hall,Female,Spain,1972-01-28,2024-08-09,Data Analysis Manager,Data Analysis,Senai,Malaysia,active,52.0,0.0
+101513,saengdao_nimit,Saengdao,Nimit,Female,Thailand,1997-10-11,2024-09-08,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,27.0,0.0
+101514,siriporn_thammarat,Siriporn,Thammarat,Female,Thailand,1982-09-26,2019-12-22,HR Manager,Human Resource,Kulim,Malaysia,active,42.0,4.0
+101515,angela_moore,Angela,Moore,Female,Australia,1985-06-27,2023-08-15,Sales Engineer,Sales,Surabaya,Indonesia,active,39.0,1.0
+101516,marilyn_hess,Marilyn,Hess,Female,Poland,1999-10-18,2021-09-18,Site Support Engineer,Site Support,Kulim,Malaysia,active,25.0,3.0
+101517,thipwanee_sangwong,Thip Wanee,Sangwong,Female,Thailand,1971-04-03,2020-11-13,Executive Management Engineer,Executive Management,Kulim,Malaysia,active,53.0,3.0
+101518,hannah_rivas,Hannah,Rivas,Female,Australia,2001-09-06,2023-10-04,Executive Management Engineer,Executive Management,Kulim,Malaysia,active,23.0,1.0
+101519,sarah_reed,Sarah,Reed,Female,Australia,1979-04-11,2023-07-08,Site Management Engineer,Site Management,Kuala Lumpur,Malaysia,active,45.0,1.0
+101520,shane_gonzalez,Shane,Gonzalez,Female,Canada,1973-11-23,2020-10-14,Sales Engineer,Sales,Surabaya,Indonesia,inactive,50.0,4.0
+101521,sara_hudson,Sara,Hudson,Female,Poland,1976-05-14,2021-09-22,HR Engineer,Human Resource,Kulim,Malaysia,active,48.0,3.0
+101522,michele_stewart,Michele,Stewart,Female,Canada,1989-04-09,2022-12-30,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,35.0,1.0
+101523,ian_wilson,Ian,Wilson,Male,New Zealand,1969-04-16,2024-02-06,Site Management Engineer,Site Management,Kulim,Malaysia,active,55.0,0.0
+101524,jill_holmes,Jill,Holmes,Female,Poland,1990-11-01,2021-01-21,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,34.0,3.0
+101525,glenn_brown,Glenn,Brown,Female,Canada,1966-08-17,2021-05-01,HR Engineer,Human Resource,Senai,Malaysia,active,58.0,3.0
+101526,johnny_sullivan,Johnny,Sullivan,Female,Australia,1966-04-20,2019-11-13,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,58.0,4.0
+101527,valerie_vongchai,Valerie,Vongchai,Female,Thailand,1984-09-12,2023-12-16,Engineering Manager,Engineering,Surabaya,Indonesia,active,40.0,0.0
+101528,cheryl_lee,Cheryl,Lee,Female,Indonesia,1999-09-15,2024-09-29,Engineering Manager,Engineering,Kuala Lumpur,Malaysia,active,25.0,0.0
+101529,thiraphong_boonlert,Thiraphong,Boonlert,Male,Thailand,1976-04-30,2024-01-18,Sales Manager,Sales,Surabaya,Indonesia,active,48.0,0.0
+101530,randy_thompson,Randy,Thompson,Male,Spain,1989-07-13,2019-10-30,Engineering Manager,Engineering,Senai,Malaysia,active,35.0,5.0
+101531,daniel_payne,Daniel,Payne,Male,Spain,2003-12-30,2019-02-11,Engineering Engineer,Engineering,Senai,Malaysia,active,20.0,5.0
+101532,michael_lucas,Michael,Lucas,Male,Poland,1969-06-01,2021-01-17,Site Support Engineer,Site Support,Kuala Lumpur,Malaysia,active,55.0,3.0
+101533,sarah_scott,Sarah,Scott,Female,Australia,2002-08-27,2023-03-31,Executive Management Manager,Executive Management,Surabaya,Indonesia,active,22.0,1.0
+101534,shawn_herring,Shawn,Herring,Female,Singapore,1998-12-19,2021-05-12,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,25.0,3.0
+101535,jorge_clark,Jorge,Clark,Male,Australia,1992-12-20,2022-08-18,Executive Management Engineer,Executive Management,Kuala Lumpur,Malaysia,active,31.0,2.0
+101536,sarawut_srisawat,Sarawut,Srisawat,Male,Thailand,2006-06-16,2024-06-20,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,18.0,0.0
+101537,joanna_moore,Joanna,Moore,Female,Canada,1964-12-24,2024-08-31,Safety Engineer,Safety,Kulim,Malaysia,active,59.0,0.0
+101538,wayne_alexander,Wayne,Alexander,Male,New Zealand,1974-02-02,2022-06-16,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,50.0,2.0
+101539,anita_davis,Anita,Davis,Female,Canada,1993-05-17,2024-12-01,Data Analysis Engineer,Data Analysis,Kulim,Malaysia,active,31.0,-1.0
+101540,morgan_mcclure,Morgan,Mcclure,Male,Germany,1988-10-21,2024-03-10,Engineering Engineer,Engineering,Kulim,Malaysia,active,36.0,0.0
+101541,danielle_jones,Danielle,Jones,Female,Poland,1980-06-10,2021-07-24,Sales Engineer,Sales,Senai,Malaysia,active,44.0,3.0
+101542,patrick_roberts,Patrick,Roberts,Male,Spain,1974-12-22,2022-02-24,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,49.0,2.0
+101543,robert_martinez,Robert,Martinez,Male,Spain,1973-09-23,2023-02-19,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,51.0,1.0
+101544,chelsea_hart,Chelsea,Hart,Male,Vietnam,1968-04-25,2023-09-14,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,56.0,1.0
+101545,anthony_hickman,Anthony,Hickman,Male,Singapore,1995-12-29,2023-12-19,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,28.0,0.0
+101546,anthony_huang,Anthony,Huang,Male,New Zealand,2000-12-16,2023-05-07,Finance Manager,Finance,Kulim,Malaysia,active,23.0,1.0
+101547,justin_esparza,Justin,Esparza,Male,Poland,1996-10-16,2020-05-24,Finance Manager,Finance,Surabaya,Indonesia,active,28.0,4.0
+101548,sarah_flores,Sarah,Flores,Female,Singapore,1996-01-19,2022-12-05,Finance Manager,Finance,Surabaya,Indonesia,active,28.0,1.0
+101549,larry_cline,Larry,Cline,Male,Australia,1999-08-22,2019-10-11,Data Analysis Manager,Data Analysis,Kuala Lumpur,Malaysia,active,25.0,5.0
+101550,suttipong_yuthasak,Suttipong,Yuthasak,Male,Thailand,1994-06-30,2023-08-09,Sales Engineer,Sales,Senai,Malaysia,active,30.0,1.0
+101551,maria_fisher,Maria,Fisher,Female,Canada,1981-09-05,2021-03-07,Sales Manager,Sales,Kuala Lumpur,Malaysia,active,43.0,3.0
+101552,holly_lewis,Holly,Lewis,Female,Spain,2004-06-22,2020-11-07,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,20.0,3.0
+101553,andrew_reed,Andrew,Reed,Male,Indonesia,1985-04-29,2020-08-18,Data Analysis Engineer,Data Analysis,Senai,Malaysia,active,39.0,4.0
+101554,mark_gomez,Mark,Gomez,Male,Spain,1974-04-04,2023-04-25,Information Technology Engineer,Information Technology,Kulim,Malaysia,active,50.0,1.0
+101555,nicole_mcgrath,Nicole,Mcgrath,Female,Poland,1964-11-11,2024-04-13,Information Technology Manager,Information Technology,Surabaya,Indonesia,active,59.0,0.0
+101556,billy_stewart,Billy,Stewart,Female,Poland,1981-06-01,2022-08-07,Safety Manager,Safety,Kuala Lumpur,Malaysia,active,43.0,2.0
+101557,carrie_jones,Carrie,Jones,Female,New Zealand,1990-02-20,2022-01-07,Finance Engineer,Finance,Surabaya,Indonesia,active,34.0,2.0
+101558,tanya_campbell,Tanya,Campbell,Female,Vietnam,1983-08-25,2022-02-05,Safety Engineer,Safety,Kulim,Malaysia,active,41.0,2.0
+101559,peggy_brown,Peggy,Brown,Female,Canada,1963-12-16,2021-10-14,Engineering Manager,Engineering,Surabaya,Indonesia,active,60.0,3.0
+101560,tammy_foster,Tammy,Foster,Female,Singapore,1995-06-16,2021-02-15,Finance Manager,Finance,Kulim,Malaysia,active,29.0,3.0
+101561,chris_gillespie,Chris,Gillespie,Female,Germany,1991-12-14,2020-12-03,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,32.0,3.0
+101562,tyler_owen,Tyler,Owen,Male,Vietnam,1997-06-02,2022-12-04,HR Engineer,Human Resource,Senai,Malaysia,active,27.0,1.0
+101563,kevin_jones,Kevin,Jones,Male,Canada,1989-03-17,2024-03-16,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,35.0,0.0
+101564,nittaya_intarachai,Nittaya,Intarachai,Female,Thailand,1995-05-07,2020-08-25,HR Manager,Human Resource,Senai,Malaysia,active,29.0,4.0
+101565,daniel_pearson,Daniel,Pearson,Male,Singapore,2005-11-05,2024-03-07,Site Support Engineer,Site Support,Surabaya,Indonesia,active,18.0,0.0
+101566,carrie_wood,Carrie,Wood,Female,New Zealand,1994-12-02,2022-03-28,Safety Manager,Safety,Surabaya,Indonesia,active,29.0,2.0
+101567,dorothy_adams,Dorothy,Adams,Female,Vietnam,2002-03-17,2024-02-17,Finance Manager,Finance,Senai,Malaysia,active,22.0,0.0
+101568,pongsak_chaisuwan,Pongsak,Chaisuwan,Male,Thailand,1988-10-31,2022-09-08,Data Analysis Engineer,Data Analysis,Surabaya,Indonesia,active,36.0,2.0
+101569,anthony_shelton,Anthony,Shelton,Male,Canada,1997-03-18,2021-05-26,Sales Manager,Sales,Kulim,Malaysia,active,27.0,3.0
+101570,juan_fields,Juan,Fields,Male,Germany,2003-01-27,2023-07-24,Sales Engineer,Sales,Senai,Malaysia,active,21.0,1.0
+101571,pattama_panyarachun,Pattama,Panyarachun,Female,Thailand,1987-10-30,2023-08-11,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,37.0,1.0
+101572,bryan_mayer,Bryan,Mayer,Male,Singapore,1965-06-25,2024-01-23,Information Technology Engineer,Information Technology,Senai,Malaysia,active,59.0,0.0
+101573,nattapong_somchai,Nattapong,Somchai,Male,Thailand,2004-12-19,2023-11-08,Engineering Manager,Engineering,Senai,Malaysia,active,19.0,0.0
+101574,olivia_shea,Olivia,Shea,Female,Spain,1991-07-20,2024-09-05,Finance Engineer,Finance,Senai,Malaysia,active,33.0,0.0
+101575,charles_moore,Charles,Moore,Male,Vietnam,1988-12-14,2020-06-06,Information Technology Manager,Information Technology,Surabaya,Indonesia,active,35.0,4.0
+101576,julie_kelly,Julie,Kelly,Female,Poland,1978-08-03,2024-04-16,Sales Engineer,Sales,Kulim,Malaysia,active,46.0,0.0
+101577,richard_hampton,Richard,Hampton,Male,Germany,1997-08-18,2022-10-10,HR Engineer,Human Resource,Kuala Lumpur,Malaysia,active,27.0,2.0
+101578,elizabeth_martinez,Elizabeth,Martinez,Female,Indonesia,1998-04-26,2019-12-22,Safety Engineer,Safety,Kulim,Malaysia,active,26.0,4.0
+101579,kittisak_kraipob,Kittisak,Kraipob,Male,Thailand,1967-08-14,2021-08-12,Site Management Engineer,Site Management,Senai,Malaysia,active,57.0,3.0
+101580,victor_villegas,Victor,Villegas,Female,Germany,1972-10-15,2024-05-02,HR Engineer,Human Resource,Kulim,Malaysia,active,52.0,0.0
+101581,elizabeth_novak,Elizabeth,Novak,Female,Indonesia,2004-12-10,2022-11-26,Sales Engineer,Sales,Surabaya,Indonesia,active,19.0,1.0
+101582,john_brown,John,Brown,Male,Spain,1972-09-02,2021-11-13,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,52.0,2.0
+101583,cynthia_johnson,Cynthia,Johnson,Female,Poland,1966-10-20,2021-11-24,Site Management Manager,Site Management,Kulim,Malaysia,active,58.0,2.0
+101584,julie_conway,Julie,Conway,Female,Indonesia,1967-10-27,2020-01-23,Site Management Manager,Site Management,Senai,Malaysia,active,57.0,4.0
+101585,kevin_mcfarland,Kevin,Mcfarland,Male,Australia,1968-01-31,2023-05-29,Information Technology Manager,Information Technology,Kuala Lumpur,Malaysia,active,56.0,1.0
+101586,bobby_johnson,Bobby,Johnson,Female,Vietnam,1969-06-30,2020-07-27,Finance Engineer,Finance,Kuala Lumpur,Malaysia,active,55.0,4.0
+101587,derek_choi,Derek,Choi,Male,Spain,2005-09-30,2021-06-21,Site Support Engineer,Site Support,Surabaya,Indonesia,active,19.0,3.0
+101588,kevin_peterson,Kevin,Peterson,Female,New Zealand,1975-01-28,2022-11-28,Site Management Engineer,Site Management,Kulim,Malaysia,active,49.0,1.0
+101589,heather_lewis,Heather,Lewis,Female,Australia,1995-08-05,2021-12-30,Data Analysis Engineer,Data Analysis,Kulim,Malaysia,active,29.0,2.0
+101590,rebecca_russell,Rebecca,Russell,Female,New Zealand,1987-10-16,2020-03-03,Sales Engineer,Sales,Kuala Lumpur,Malaysia,active,37.0,4.0
+101591,jon_oliver,Jon,Oliver,Male,Spain,1971-07-26,2021-02-16,Engineering Manager,Engineering,Surabaya,Indonesia,active,53.0,3.0
+101592,shannon_phillips,Shannon,Phillips,Female,Australia,1988-12-13,2023-02-12,Finance Manager,Finance,Kuala Lumpur,Malaysia,active,35.0,1.0
+101593,casey_dean,Casey,Dean,Male,Poland,1991-09-25,2022-09-10,Sales Engineer,Sales,Kulim,Malaysia,active,33.0,2.0
+101594,supatra_wattanachai,Supatra,Wattanachai,Female,Thailand,1975-03-04,2024-01-26,Engineering Manager,Engineering,Surabaya,Indonesia,active,49.0,0.0
+101595,viyadaploy_boonserm,Viyada Ploy ,Boonserm,Female,Thailand,1966-02-01,2022-07-12,Executive Management Engineer,Executive Management,Surabaya,Indonesia,active,58.0,2.0
+101596,rose_anderson,Rose,Anderson,Female,Germany,2006-09-13,2024-09-07,Site Support Engineer,Site Support,Kulim,Malaysia,active,18.0,0.0
+101597,orathai_supasiri,Orathai,Supasiri,Female,Thailand,1972-03-09,2021-07-05,Finance Engineer,Finance,Kulim,Malaysia,active,52.0,3.0
+101598,james_keith,James,Keith,Male,Poland,1970-02-28,2023-05-11,Site Management Engineer,Site Management,Senai,Malaysia,active,54.0,1.0
+101599,jenna_johnson,Jenna,Johnson,Female,Australia,1967-11-14,2020-08-13,Sales Engineer,Sales,Senai,Malaysia,active,56.0,4.0
+101600,terri_short,Terri,Short,Female,New Zealand,1981-08-17,2023-01-09,Information Technology Engineer,Information Technology,Kuala Lumpur,Malaysia,active,43.0,1.0
+101601,julie_richardson,Julie,Richardson,Female,Germany,2001-08-07,2023-11-24,Information Technology Manager,Information Technology,Kulim,Malaysia,active,23.0,0.0
+101602,beverly_curtis,Beverly,Curtis,Male,Germany,2002-09-24,2022-06-01,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,22.0,2.0
+101603,luke_kelley,Luke,Kelley,Male,Germany,1997-11-18,2021-02-15,Safety Engineer,Safety,Kuala Lumpur,Malaysia,active,26.0,3.0
+101604,susan_west,Susan,West,Female,Vietnam,1974-09-04,2022-04-24,HR Manager,Human Resource,Kuala Lumpur,Malaysia,active,50.0,2.0
+101605,sally_bailey,Sally,Bailey,Female,Vietnam,1972-10-19,2021-10-17,Information Technology Manager,Information Technology,Senai,Malaysia,active,52.0,3.0
+101606,megan_rojas,Megan,Rojas,Female,Indonesia,1971-03-24,2023-04-08,Site Support Manager,Site Support,Surabaya,Indonesia,active,53.0,1.0
+101607,susan_jackson,Susan,Jackson,Female,Indonesia,1978-05-28,2021-12-01,Executive Management Manager,Executive Management,Kulim,Malaysia,active,46.0,2.0
+101608,richard_jones,Richard,Jones,Male,Singapore,1995-08-26,2022-06-18,Site Management Manager,Site Management,Senai,Malaysia,active,29.0,2.0
+101609,dawn_wilcox,Dawn,Wilcox,Male,Poland,1963-12-12,2022-12-30,Data Analysis Engineer,Data Analysis,Kuala Lumpur,Malaysia,active,60.0,1.0
+101610,cynthia_russell,Cynthia,Russell,Female,Canada,1997-10-31,2021-01-16,Site Support Engineer,Site Support,Surabaya,Indonesia,active,27.0,3.0
+101611,travis_norman,Travis,Norman,Female,Spain,1991-02-18,2024-06-15,Engineering Engineer,Engineering,Kulim,Malaysia,active,33.0,0.0
