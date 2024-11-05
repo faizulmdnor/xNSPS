@@ -32,7 +32,6 @@ def longest_common_subsequence(str1, str2):
     # The final longest common subsequence for str1 and str2 is in the bottom-right cell of dp table, dp[m][n]
     return dp[m][n]
 
-
 # Test the function with an example input
 str1 = "STUDENT"
 str2 = "MISTERI"
@@ -55,7 +54,7 @@ No Match: If characters don't match, take the longer subsequence from dp[i-1][j]
 Debugging Statements: The print statements help show:
 
 Matching and non-matching characters at each step.
-The LCS built up so far in dp[i][j].
+So far, the LCS has built up in dp[i][j].
 Final LCS: The cell dp[m][n] holds the LCS for the entire str1 and str2.
 
 This code will display step-by-step details of how the LCS is constructed and output the final LCS for the given example input strings.
