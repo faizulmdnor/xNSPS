@@ -79,4 +79,3 @@ if data is not None:
         print(total_deaths_by_year_malaysia)
 
 
-death_groupby_gender = malaysia_death.groupby([''])
