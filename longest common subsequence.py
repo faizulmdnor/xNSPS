@@ -19,6 +19,6 @@ def longest_common_subsequence(str1, str2):
     return dp[m][n]
 
 # Test the function with the example input
-str1 = "faizul"
-str2 = "hamzah"
+str1 = "KEPETAHAN"
+str2 = "PERCAKAPAN"
 print("Expected output:", longest_common_subsequence(str1, str2))  # Should print "MJAU"
