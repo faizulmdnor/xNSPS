@@ -71,16 +71,7 @@ for day in date_stamp:
     df_list.append(generate_temperature_irradiance_data_smooth(day))
 df_temp_irradiance_data = pd.concat(df_list, ignore_index=True)
 
-df_temp_data = df_temp_irradiance_data[['Date', 'Time', 'Temp C']]
-df_irr_data = df_temp_irradiance_data[['Date', 'Time', 'Irradiance W/m²']]
 
-print(df_temp_data.head(10))
-print(df_irr_data.head(10))
-
-df_temp_data.to_csv('temp_data.csv', index=False)
-df_irr_data.to_csv('irradiance.csv', index=False)
-
-'''
 # Example plot for multiple days to visualize the smooth temperature and irradiance pattern
 df_example_days = df_temp_irradiance_data[(df_temp_irradiance_data['Date'] >= '2020-01-01') & (df_temp_irradiance_data['Date'] <= '2020-01-05')]
 
@@ -112,4 +103,3 @@ ax1.legend(loc='upper left')
 ax2.legend(loc='upper right')
 plt.grid()
 plt.show()
-'''
