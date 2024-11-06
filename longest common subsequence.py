@@ -14,6 +14,7 @@ def longest_common_subsequence(str1, str2):
             if str1[i - 1] == str2[j - 1]:  # str1[i-1] and str2[j-1] are the actual characters at index i-1 and j-1
                 # If they match, extend the LCS by adding this character to the result in dp[i-1][j-1]
                 dp[i][j] = dp[i - 1][j - 1] + str1[i - 1]
+                print(dp)
 
                 # Print debugging information about the matching characters and updated dp value
                 print(f"str1 = {str1[i - 1]}, str2 = {str2[j - 1]} ")
@@ -33,11 +34,11 @@ def longest_common_subsequence(str1, str2):
     return dp[m][n]
 
 # Test the function with an example input
-str1 = "STUDENT"
-str2 = "MISTERI"
+str1 = "AMDOIED"
+str2 = "DEIODM"
 
 # Expected output is the LCS, which is the longest subsequence present in both str1 and str2
-print("Expected output:", longest_common_subsequence(str1, str2))
+print("Expected output: ", longest_common_subsequence(str1, str2))
 
 """
 Explanation of Key Sections:
