@@ -106,3 +106,11 @@ LEFT JOIN Positions p
 ON p.pos_id = e.pos_id
 
 select * from vw_Employees
+
+
+CREATE TABLE Employees_Performance(
+	emp_id INT,
+	Year INT,
+	category VARCHAR(15),
+	FOREIGN KEY (emp_id) REFERENCES Employees(emp_id)
+)
